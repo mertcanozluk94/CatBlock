@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatBlock</string>
+    <string name="notif_channel_name">CatBlock İzleyici</string>
+    <string name="notif_title">CatBlock seni izliyor</string>
+    <string name="notif_text">Kaydırma süreni takip ediyor.</string>
+    <string name="onboarding_subtitle">Çok uzun süre kaydırdığında dev bir kedi ekranı kaplar ve molan bitene kadar gitmez.</string>
+    <string name="perm_overlay_title">Diğer uygulamaların üstünde göster</string>
+    <string name="perm_overlay_subtitle">Kedinin sosyal uygulamaların üstünde görünebilmesi için.</string>
+    <string name="perm_usage_title">Kullanım erişimi</string>
+    <string name="perm_usage_subtitle">CatBlock\'un hangi uygulamayı kullandığını anlaması için.</string>
+    <string name="continue_button">Devam et</string>
+    <string name="next_step">İleri</string>
+    <string name="previous_step">Geri</string>
+    <string name="got_it">Anladım</string>
+    <string name="show_guide">Nasıl çalıştığını göster</string>
+    <string name="skip">Atla</string>
+    <string name="how_step1_title">1. Korunacak uygulamaları seç</string>
+    <string name="how_step1_text">Çok zaman harcadığın uygulamaları aç — Instagram, TikTok, X, YouTube, ne kullanıyorsan.</string>
+    <string name="how_step2_title">2. Sınırını belirle</string>
+    <string name="how_step2_text">Her uygulama için kedinin ne kadar sonra çıkacağını ve molanın ne kadar süreceğini ayarla.</string>
+    <string name="how_step3_title">3. Hayatına devam et</string>
+    <string name="how_step3_text">CatBlock arka planda çalışır. Açık tutmana gerek yok.</string>
+    <string name="how_step4_title">4. Kedi ortaya çıkar</string>
+    <string name="how_step4_text">Süreni aşınca dev bir kedi ekranı kaplar, kaydırmayı engeller ve gitmez.</string>
+    <string name="how_step5_title">5. Gerçek bir mola ver</string>
+    <string name="how_step5_text">Gerin, su iç, nefes al ya da sadece pencereye bak. Süre dolunca kedi gider.</string>
+    <string name="pick_apps_title">Korunacak uygulamaları seç</string>
+    <string name="pick_apps_subtitle">Bir uygulamayı aç, sonra kedinin ne zaman çıkacağını ve molanın süresini ayarla.</string>
+    <string name="section_social">Tespit edilen sosyal uygulamalar</string>
+    <string name="section_all">Tüm uygulamalar</string>
+    <string name="cat_appears_after">Kedi şu kadar sonra çıkar</string>
+    <string name="break_lasts">Mola süresi</string>
+    <string name="minutes_short">%1$d dk</string>
+    <string name="settings_title">Ayarlar</string>
+    <string name="settings_voice_title">Kedi sesi</string>
+    <string name="settings_voice_subtitle">Kedi mesajı, telefonunun yerleşik sesiyle yüksek sesle okusun.</string>
+    <string name="settings_help_title">Nasıl çalışır</string>
+    <string name="settings_help_subtitle">CatBlock\'un kısa turu.</string>
+    <string name="overlay_skip">Atla</string>
+    <string-array name="overlay_wait_messages">
+        <item>Kediyi geçemezsin. Sadece bekle.</item>
+        <item>Kedi şu an yetkili. Sabret.</item>
+        <item>Kediden öteye geçiş yok. Bir nefes al.</item>
+        <item>Kedi rüşvet kabul etmez.</item>
+        <item>Kaydırmaya mı çalışıyorsun? Kedi seni görüyor.</item>
+        <item>Kedinin kapatma düğmesi yok. Bekle.</item>
+        <item>Bu kedi kimseye hesap vermez.</item>
+        <item>Sen ve kedi. Kedi kazanıyor.</item>
+        <item>Kedi sallanmaz. Tıpkı gerçek kediler gibi.</item>
+        <item>Pazarlık kapandı. Kedi hayır diyor.</item>
+        <item>Kedi hazır olduğunda gidecek.</item>
+        <item>Daha sert basmak işi hızlandırmaz.</item>
+        <item>Bunu sen kendine kurdun. Şimdi otur.</item>
+        <item>Geçmiş sen, şu anki seni gerçekten beklesin istedi.</item>
+        <item>Geçmiş sen akıllıydı. Ona güven.</item>
+        <item>Sayaç dürüst. Akış değildi.</item>
+        <item>Kedi bunu senin iyiliğin için yapıyor.</item>
+        <item>Disiplin sadece hedeflerini hatırlamaktır.</item>
+        <item>Küçük isyanlar: yavaş bir nefes al.</item>
+        <item>Beynin yetiştiği an bu.</item>
+        <item>Gözlerini uzaktaki bir şeye bırak.</item>
+        <item>Kediye istediğin kadar dokun. Hoşuna gidiyor.</item>
+        <item>Kedi bir buton değil.</item>
+        <item>Kedi şu an bu ekranın patronu.</item>
+        <item>Yavaşça beş kez göz kırpmayı dene.</item>
+        <item>Ulaşabiliyorsan bir yudum su iç.</item>
+        <item>Esnemek istiyorsan esne. Kedi anlayışla karşılar.</item>
+        <item>Kedi harika gittiğini düşünüyor.</item>
+        <item>Kedi sessizce sana destek oluyor.</item>
+        <item>Kedi sana inanıyor.</item>
+    </string-array>
+
+    <string-array name="break_messages">
+        <item>Kedi diyor ki çok uzun süredir kaydırıyorsun.</item>
+        <item>Gözlerini kaldır. Dünya bu ekrandan büyük.</item>
+        <item>Başparmağın bugünlük yeterince kilometre attı.</item>
+        <item>Akış orada kalır. Sen sonsuza kadar kalmazsın.</item>
+        <item>Kedi ne yaptığını görüyor. Kedi endişeli.</item>
+        <item>Bir dakikalığına dopamin makinesini durdur.</item>
+        <item>Ayağa kalk, omuzlarını geri at, derin bir nefes al.</item>
+        <item>Pencereden dışarı bak. Sıkıcı görünse bile.</item>
+        <item>Su iç. Vücudun çoğunlukla sudan ve şu an çoğunlukla yorgun.</item>
+        <item>Telefonu bırak. Üstüne değil, masaya. Yetişkin gibi.</item>
+        <item>Çenen kasılı, fark ettin mi? Gevşet. Daha iyi, değil mi?</item>
+        <item>Burnundan dört, ağzından altı sayarak nefes ver.</item>
+        <item>Beş yavaş nefes. Kedi seni sayıyor.</item>
+        <item>Kedi pazarlık etmez. Kedi taviz vermez.</item>
+        <item>Akış sonsuz. Dikkatin değil.</item>
+        <item>Şu an gerçekten ne arıyordun? Buldun mu?</item>
+        <item>Uygulamayı açtığından beri daha mı mutlusun?</item>
+        <item>Gerçek hayatta grafikler kötü ama hikayeler daha iyi.</item>
+        <item>Birini ara. Mesaj değil, gerçek arama. Şaşıracaklar.</item>
+        <item>Bir bardak çay yap. Eski büyü hâlâ çalışıyor.</item>
+        <item>Sıkılmak iyi fikirlerin kapısıdır. İçeri al.</item>
+        <item>Tembel değilsin. Aşırı uyarılmışsın. Çok fark var.</item>
+        <item>Hareketsiz durmak gerçek bir yetenektir. Bir dakika dene.</item>
+        <item>İnternet senin gözetimin olmadan da çalışmaya devam edecek.</item>
+        <item>Beslemenin en önemli paylaşımını kaçırmayacaksın.</item>
+        <item>Kedi konuştu. Konu kapandı.</item>
+        <item>Yorgunsun, akış değil. Akış asla yorulmaz.</item>
+        <item>Şu an telefon kazanıyor. Bir puan geri al.</item>
+        <item>Dinlenmek ödül değildir. Zorunluluktur.</item>
+        <item>Yarın bugünkü \'son bir video\' için seni affedecek.</item>
+    </string-array>
+
+</resources>

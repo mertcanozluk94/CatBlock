@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="break_messages">
+        <item>O gato diz que você está rolando há tempo demais.</item>
+        <item>Olhe para cima. O mundo é maior que essa tela.</item>
+        <item>Seu polegar já rodou quilômetros suficientes por hoje.</item>
+        <item>O feed continua aí. Você não, para sempre.</item>
+        <item>O gato vê o que você está fazendo. O gato está preocupado.</item>
+        <item>Pause a máquina de dopamina por um minuto.</item>
+        <item>Fique de pé, abra os ombros, respire fundo.</item>
+        <item>Olhe pela janela. Mesmo que pareça chato.</item>
+        <item>Beba água. Seu corpo é quase tudo água e está cansado.</item>
+        <item>Largue o celular. Na mesa, não em cima de você.</item>
+        <item>Mandíbula travada? Solte. Melhor, né?</item>
+        <item>Inspire pelo nariz por quatro tempos, expire pela boca por seis.</item>
+        <item>Cinco respirações lentas. O gato está cronometrando.</item>
+        <item>O gato não negocia. O gato não aceita suborno.</item>
+        <item>O feed é infinito. Sua atenção não é.</item>
+        <item>O que você queria mesmo? Achou?</item>
+        <item>Está mais feliz do que quando abriu o app?</item>
+        <item>A vida real tem gráficos piores mas histórias melhores.</item>
+        <item>Ligue para alguém. Ligação de verdade. Vão se surpreender.</item>
+        <item>Faça um chá. Magia antiga ainda funciona.</item>
+        <item>Tédio é a porta para boas ideias. Deixe entrar.</item>
+        <item>Você não está com preguiça. Está superestimulado. Bem diferente.</item>
+        <item>Ficar parado é uma habilidade. Pratique um minuto.</item>
+        <item>A internet vai continuar funcionando sem você.</item>
+        <item>Você não vai perder o post mais importante do mundo.</item>
+        <item>O gato falou. Assunto encerrado.</item>
+        <item>Você está cansado, o feed não. O feed nunca cansa.</item>
+        <item>Agora o celular está ganhando. Marque um ponto de volta.</item>
+        <item>Descansar não é prêmio. É necessidade.</item>
+        <item>O você de amanhã agradece o você de agora por parar.</item>
+    </string-array>
+    <string-array name="overlay_wait_messages">
+        <item>Você não pode pular o gato. Só esperar.</item>
+        <item>O gato manda agora. Aguenta firme.</item>
+        <item>Não tem como passar do gato. Respira.</item>
+        <item>O gato não aceita suborno.</item>
+        <item>Tentando rolar? O gato tá vendo.</item>
+        <item>O gato não tem botão de desligar. Espera.</item>
+        <item>Esse gato não responde a ninguém.</item>
+        <item>Você contra o gato. O gato vence.</item>
+        <item>O gato não se move. Igual gato de verdade.</item>
+        <item>Negociação encerrada. O gato disse não.</item>
+        <item>O gato sai quando o gato quiser.</item>
+        <item>Apertar mais forte não vai acelerar.</item>
+        <item>Você mesmo armou essa cilada. Aceita ela.</item>
+        <item>O você de antes queria mesmo que esperasse.</item>
+        <item>O você do passado foi sábio. Confia.</item>
+        <item>O timer é honesto. O feed não era.</item>
+        <item>O gato tá fazendo isso pelo seu bem.</item>
+        <item>Disciplina é só lembrar das suas metas.</item>
+        <item>Pequenas rebeliões: uma respiração lenta.</item>
+        <item>É a hora do cérebro se recuperar.</item>
+        <item>Deixa o olhar descansar em algo distante.</item>
+        <item>Cutuca o gato à vontade. Ele curte.</item>
+        <item>O gato não é um botão.</item>
+        <item>O gato é o chefe dessa tela agora.</item>
+        <item>Pisque devagar cinco vezes.</item>
+        <item>Bebe um gole d\'água se conseguir.</item>
+        <item>Boceja se precisar. O gato não liga.</item>
+        <item>O gato acha que você tá indo super bem.</item>
+        <item>O gato torce por você em silêncio.</item>
+        <item>O gato acredita em você.</item>
+    </string-array>
+    <string name="app_name">CatBlock</string>
+    <string name="break_lasts">A pausa dura</string>
+    <string name="cat_appears_after">O gato aparece após</string>
+    <string name="continue_button">Continuar</string>
+    <string name="got_it">Entendi</string>
+    <string name="how_step1_text">Ative os apps em que você passa muito tempo — Instagram, TikTok, X, YouTube.</string>
+    <string name="how_step1_title">1. Escolha os apps a vigiar</string>
+    <string name="how_step2_text">Para cada app, escolha em quanto tempo o gato aparece e quanto dura a pausa.</string>
+    <string name="how_step2_title">2. Defina seus limites</string>
+    <string name="how_step3_text">O CatBlock roda em segundo plano. Você não precisa mantê-lo aberto.</string>
+    <string name="how_step3_title">3. Continue sua vida</string>
+    <string name="how_step4_text">Quando passa do tempo, um gato gigante toma a tela e bloqueia a rolagem.</string>
+    <string name="how_step4_title">4. O gato aparece</string>
+    <string name="how_step5_text">Alongue, beba água, respire ou olhe pela janela. O gato sai quando o tempo acabar.</string>
+    <string name="how_step5_title">5. Faça uma pausa real</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="next_step">Próximo</string>
+    <string name="notif_channel_name">Monitor do CatBlock</string>
+    <string name="notif_text">Acompanhando seu tempo de rolagem.</string>
+    <string name="notif_title">O CatBlock está observando</string>
+    <string name="onboarding_subtitle">Quando você rola por muito tempo, um gato gigante bloqueia a tela até a pausa acabar.</string>
+    <string name="overlay_skip">Pular</string>
+    <string name="perm_overlay_subtitle">Para que o gato apareça em cima dos seus apps sociais.</string>
+    <string name="perm_overlay_title">Exibir sobre outros apps</string>
+    <string name="perm_usage_subtitle">Para o CatBlock saber qual app você está usando.</string>
+    <string name="perm_usage_title">Acesso de uso</string>
+    <string name="pick_apps_subtitle">Ative um app e ajuste quando o gato aparece e quanto dura a pausa.</string>
+    <string name="pick_apps_title">Escolha os apps a vigiar</string>
+    <string name="previous_step">Voltar</string>
+    <string name="section_all">Todos os apps</string>
+    <string name="section_social">Apps sociais detectados</string>
+    <string name="settings_help_subtitle">Um tour rápido pelo CatBlock.</string>
+    <string name="settings_help_title">Como funciona</string>
+    <string name="settings_title">Configurações</string>
+    <string name="settings_voice_subtitle">O gato lê a mensagem em voz alta com a voz integrada do telefone.</string>
+    <string name="settings_voice_title">Voz do gato</string>
+    <string name="show_guide">Me mostre como funciona</string>
+    <string name="skip">Pular</string>
+</resources>

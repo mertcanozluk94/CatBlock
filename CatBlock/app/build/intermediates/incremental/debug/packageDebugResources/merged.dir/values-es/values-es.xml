@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="break_messages">
+        <item>El gato dice que llevas demasiado tiempo deslizando.</item>
+        <item>Levanta la mirada. El mundo es más grande que esta pantalla.</item>
+        <item>Tu pulgar ya hizo suficientes kilómetros por hoy.</item>
+        <item>El feed seguirá ahí. Tú no, para siempre.</item>
+        <item>El gato ve lo que haces. El gato está preocupado.</item>
+        <item>Pon en pausa la máquina de dopamina por un minuto.</item>
+        <item>Levántate, estira los hombros, respira profundo.</item>
+        <item>Mira por la ventana. Aunque parezca aburrido.</item>
+        <item>Bebe agua. Tu cuerpo es casi todo agua y ahora mismo está cansado.</item>
+        <item>Suelta el teléfono. En la mesa, no encima de ti.</item>
+        <item>¿Notas la mandíbula apretada? Suéltala. Mejor, ¿verdad?</item>
+        <item>Inhala cuatro segundos por la nariz, exhala seis por la boca.</item>
+        <item>Cinco respiraciones lentas. El gato te está cronometrando.</item>
+        <item>El gato no negocia. El gato no acepta sobornos.</item>
+        <item>El feed es infinito. Tu atención no.</item>
+        <item>¿Qué buscabas en realidad? ¿Lo encontraste?</item>
+        <item>¿Estás más feliz que cuando abriste la app?</item>
+        <item>La vida real tiene peores gráficos pero mejores historias.</item>
+        <item>Llama a alguien. De verdad, una llamada. Se sorprenderán.</item>
+        <item>Hazte un té. La magia antigua todavía funciona.</item>
+        <item>El aburrimiento es la puerta a las buenas ideas. Déjalo entrar.</item>
+        <item>No eres flojo. Estás sobreestimulado. Es muy distinto.</item>
+        <item>Estar quieto es una habilidad. Practica un minuto.</item>
+        <item>Internet seguirá funcionando sin tu supervisión.</item>
+        <item>No te vas a perder la publicación más importante del mundo.</item>
+        <item>El gato habló. Tema cerrado.</item>
+        <item>Estás cansado, el feed no. El feed nunca se cansa.</item>
+        <item>Ahora mismo el teléfono va ganando. Recupera un punto.</item>
+        <item>Descansar no es un premio. Es un requisito.</item>
+        <item>El tú de mañana perdona al tú de hoy por parar ahora.</item>
+    </string-array>
+    <string-array name="overlay_wait_messages">
+        <item>No puedes saltarte al gato. Solo espera.</item>
+        <item>El gato manda ahora. Aguanta.</item>
+        <item>No hay paso por el gato. Respira.</item>
+        <item>El gato no acepta sobornos.</item>
+        <item>¿Intentando deslizar? El gato te ve.</item>
+        <item>El gato no tiene botón de apagado. Espera.</item>
+        <item>Este gato no responde a nadie.</item>
+        <item>Tú contra el gato. El gato gana.</item>
+        <item>El gato no se mueve. Como un gato de verdad.</item>
+        <item>La negociación está cerrada. El gato dice no.</item>
+        <item>El gato se irá cuando esté listo.</item>
+        <item>Apretar más fuerte no acelera nada.</item>
+        <item>Tú mismo te tendiste esta trampa. Quédate en ella.</item>
+        <item>El tú de antes quería que el tú de ahora esperara.</item>
+        <item>Tu yo del pasado fue sabio. Confía en él.</item>
+        <item>El temporizador es honesto. El feed no lo era.</item>
+        <item>El gato hace esto por tu bien.</item>
+        <item>Disciplina es solo recordar tus metas.</item>
+        <item>Pequeñas rebeliones: una respiración lenta.</item>
+        <item>Este es el momento en que el cerebro se recupera.</item>
+        <item>Deja descansar la vista en algo lejano.</item>
+        <item>Toca al gato cuanto quieras. Le gusta.</item>
+        <item>El gato no es un botón.</item>
+        <item>El gato es ahora el jefe de esta pantalla.</item>
+        <item>Prueba parpadear cinco veces despacio.</item>
+        <item>Bebe un sorbo de agua si puedes.</item>
+        <item>Bosteza si lo necesitas. Al gato no le importa.</item>
+        <item>El gato cree que lo estás haciendo genial.</item>
+        <item>El gato te apoya en silencio.</item>
+        <item>El gato confía en ti.</item>
+    </string-array>
+    <string name="app_name">CatBlock</string>
+    <string name="break_lasts">La pausa dura</string>
+    <string name="cat_appears_after">El gato aparece tras</string>
+    <string name="continue_button">Continuar</string>
+    <string name="got_it">Entendido</string>
+    <string name="how_step1_text">Activa las apps en las que pasas demasiado tiempo: Instagram, TikTok, X, YouTube...</string>
+    <string name="how_step1_title">1. Elige las apps a vigilar</string>
+    <string name="how_step2_text">Para cada app, decide tras cuánto aparece el gato y cuánto dura la pausa.</string>
+    <string name="how_step2_title">2. Establece tus límites</string>
+    <string name="how_step3_text">CatBlock funciona en segundo plano. No necesitas tenerlo abierto.</string>
+    <string name="how_step3_title">3. Sigue con tu vida</string>
+    <string name="how_step4_text">Cuando pasas el tiempo, un gato gigante llena la pantalla y no te deja deslizar.</string>
+    <string name="how_step4_title">4. Aparece el gato</string>
+    <string name="how_step5_text">Estírate, bebe agua, respira o simplemente mira por la ventana. El gato se irá al final.</string>
+    <string name="how_step5_title">5. Tómate una pausa real</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="next_step">Siguiente</string>
+    <string name="notif_channel_name">Monitor de CatBlock</string>
+    <string name="notif_text">Vigilando tu tiempo en pantalla.</string>
+    <string name="notif_title">CatBlock está vigilando</string>
+    <string name="onboarding_subtitle">Cuando deslizas demasiado, un gato gigante bloquea la pantalla hasta que termine tu pausa.</string>
+    <string name="overlay_skip">Saltar</string>
+    <string name="perm_overlay_subtitle">Para que el gato aparezca encima de tus apps sociales.</string>
+    <string name="perm_overlay_title">Mostrar sobre otras apps</string>
+    <string name="perm_usage_subtitle">Para que CatBlock sepa qué app estás usando.</string>
+    <string name="perm_usage_title">Acceso de uso</string>
+    <string name="pick_apps_subtitle">Activa una app y luego ajusta cuándo aparece el gato y cuánto dura la pausa.</string>
+    <string name="pick_apps_title">Elige las apps a vigilar</string>
+    <string name="previous_step">Atrás</string>
+    <string name="section_all">Todas las apps</string>
+    <string name="section_social">Apps sociales detectadas</string>
+    <string name="settings_help_subtitle">Un recorrido rápido por CatBlock.</string>
+    <string name="settings_help_title">Cómo funciona</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="settings_voice_subtitle">Que el gato lea el mensaje en voz alta con la voz integrada del teléfono.</string>
+    <string name="settings_voice_title">Voz del gato</string>
+    <string name="show_guide">Muéstrame cómo funciona</string>
+    <string name="skip">Saltar</string>
+</resources>

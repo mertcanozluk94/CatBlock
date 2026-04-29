@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatBlock</string>
+    <string name="notif_channel_name">CatBlock मॉनिटर</string>
+    <string name="notif_title">CatBlock नज़र रख रहा है</string>
+    <string name="notif_text">आपके स्क्रॉल समय पर नज़र है।</string>
+    <string name="onboarding_subtitle">जब आप बहुत देर तक स्क्रॉल करते हैं, एक विशाल बिल्ली स्क्रीन को ब्लॉक कर देती है जब तक ब्रेक खत्म न हो।</string>
+    <string name="perm_overlay_title">अन्य ऐप्स के ऊपर दिखाएँ</string>
+    <string name="perm_overlay_subtitle">ताकि बिल्ली आपकी सोशल ऐप्स के ऊपर दिखाई दे।</string>
+    <string name="perm_usage_title">उपयोग एक्सेस</string>
+    <string name="perm_usage_subtitle">ताकि CatBlock जान सके आप कौन-सी ऐप इस्तेमाल कर रहे हैं।</string>
+    <string name="continue_button">जारी रखें</string>
+    <string name="next_step">आगे</string>
+    <string name="previous_step">पीछे</string>
+    <string name="got_it">समझ गया</string>
+    <string name="show_guide">बताओ ये कैसे काम करता है</string>
+    <string name="skip">छोड़ें</string>
+    <string name="how_step1_title">1. ऐप्स चुनें जिन्हें कंट्रोल करना है</string>
+    <string name="how_step1_text">उन ऐप्स को ऑन करें जिनमें आप ज़्यादा समय बिताते हैं — Instagram, TikTok, X, YouTube।</string>
+    <string name="how_step2_title">2. अपनी सीमा तय करें</string>
+    <string name="how_step2_text">हर ऐप के लिए तय करें कि बिल्ली कब आए और ब्रेक कितना लंबा हो।</string>
+    <string name="how_step3_title">3. अपनी ज़िंदगी जीते रहें</string>
+    <string name="how_step3_text">CatBlock पीछे चलता है। इसे खुला रखने की ज़रूरत नहीं।</string>
+    <string name="how_step4_title">4. बिल्ली आ जाती है</string>
+    <string name="how_step4_text">समय पार होने पर एक बड़ी बिल्ली स्क्रीन भर देती है और स्क्रॉल रोक देती है।</string>
+    <string name="how_step5_title">5. सच में ब्रेक लें</string>
+    <string name="how_step5_text">स्ट्रेच करें, पानी पिएं, सांस लें या खिड़की से बाहर देखें। बिल्ली खुद चली जाएगी।</string>
+    <string name="pick_apps_title">ऐप्स चुनें जिन्हें कंट्रोल करना है</string>
+    <string name="pick_apps_subtitle">एक ऐप ऑन करें, फिर तय करें कि बिल्ली कब आए और ब्रेक कितना लंबा हो।</string>
+    <string name="section_social">मिले सोशल ऐप्स</string>
+    <string name="section_all">सभी ऐप्स</string>
+    <string name="cat_appears_after">बिल्ली आती है</string>
+    <string name="break_lasts">ब्रेक की अवधि</string>
+    <string name="minutes_short">%1$d मिनट</string>
+    <string name="settings_title">सेटिंग्स</string>
+    <string name="settings_voice_title">बिल्ली की आवाज़</string>
+    <string name="settings_voice_subtitle">बिल्ली संदेश को आपके फ़ोन की बिल्ट-इन आवाज़ में बोलकर सुनाए।</string>
+    <string name="settings_help_title">यह कैसे काम करता है</string>
+    <string name="settings_help_subtitle">CatBlock की तेज़ झलक।</string>
+    <string name="overlay_skip">छोड़ें</string>
+    <string-array name="overlay_wait_messages">
+        <item>बिल्ली को छोड़ नहीं सकते। बस इंतज़ार करें।</item>
+        <item>अभी बिल्ली मालिक है। डटे रहें।</item>
+        <item>बिल्ली से आगे नहीं जा सकते। सांस लें।</item>
+        <item>बिल्ली रिश्वत नहीं लेती।</item>
+        <item>स्क्रॉल करने की कोशिश? बिल्ली देख रही है।</item>
+        <item>बिल्ली का ऑफ़ बटन नहीं है। रुकें।</item>
+        <item>यह बिल्ली किसी की नहीं सुनती।</item>
+        <item>आप बनाम बिल्ली। बिल्ली जीत रही है।</item>
+        <item>बिल्ली नहीं हिलती। असली बिल्ली की तरह।</item>
+        <item>बातचीत बंद। बिल्ली ने ना कहा।</item>
+        <item>बिल्ली तब जाएगी जब वह तैयार होगी।</item>
+        <item>ज़ोर से दबाने से तेज़ नहीं होगा।</item>
+        <item>आपने ये जाल खुद बिछाया। उसमें बैठें।</item>
+        <item>पुराने आप वाकई चाहते थे कि अभी आप रुकें।</item>
+        <item>पिछले आप समझदार थे। उन पर भरोसा करें।</item>
+        <item>टाइमर ईमानदार है। फ़ीड नहीं था।</item>
+        <item>बिल्ली ये आपके भले के लिए कर रही है।</item>
+        <item>अनुशासन बस लक्ष्यों को याद रखना है।</item>
+        <item>छोटी बग़ावत: एक धीमी सांस।</item>
+        <item>यही पल है जब दिमाग पकड़ता है।</item>
+        <item>नज़रें किसी दूर की चीज़ पर टिकाएं।</item>
+        <item>बिल्ली को जितना चाहो छुओ। उसे पसंद है।</item>
+        <item>बिल्ली बटन नहीं है।</item>
+        <item>अभी इस स्क्रीन की बॉस बिल्ली है।</item>
+        <item>धीरे से पाँच बार पलकें झपकाएँ।</item>
+        <item>हो सके तो एक घूंट पानी पिएं।</item>
+        <item>जम्हाई लेनी हो तो लें। बिल्ली को परवाह नहीं।</item>
+        <item>बिल्ली को लगता है आप बढ़िया कर रहे हैं।</item>
+        <item>बिल्ली चुपचाप आपके साथ है।</item>
+        <item>बिल्ली आप पर यकीन करती है।</item>
+    </string-array>
+
+    <string-array name="break_messages">
+        <item>बिल्ली कह रही है कि आप बहुत देर से स्क्रॉल कर रहे हैं।</item>
+        <item>नज़र ऊपर करें। दुनिया इस स्क्रीन से बड़ी है।</item>
+        <item>आज आपका अंगूठा पर्याप्त किलोमीटर तय कर चुका है।</item>
+        <item>फ़ीड वहीं रहेगा। आप हमेशा नहीं रहेंगे।</item>
+        <item>बिल्ली देख रही है कि आप क्या कर रहे हैं। बिल्ली चिंतित है।</item>
+        <item>एक मिनट के लिए डोपामाइन मशीन रोक दीजिए।</item>
+        <item>खड़े हो जाइए, कंधे खोलिए, गहरी सांस लीजिए।</item>
+        <item>खिड़की से बाहर देखिए। चाहे उबाऊ ही क्यों न लगे।</item>
+        <item>पानी पीजिए। शरीर ज़्यादातर पानी है और अभी थका है।</item>
+        <item>फ़ोन रखिए। मेज़ पर, अपने ऊपर नहीं।</item>
+        <item>जबड़ा कसा है? ढीला कीजिए। बेहतर लगा ना?</item>
+        <item>नाक से चार गिनती सांस लें, मुंह से छह गिनती छोड़ें।</item>
+        <item>पाँच धीमी सांसें। बिल्ली गिन रही है।</item>
+        <item>बिल्ली सौदेबाज़ी नहीं करती। बिल्ली समझौता नहीं करती।</item>
+        <item>फ़ीड अनंत है। आपका ध्यान नहीं।</item>
+        <item>आप वास्तव में क्या ढूँढ रहे थे? मिला?</item>
+        <item>ऐप खोलने से पहले की तुलना में अब ज़्यादा खुश हैं?</item>
+        <item>असली ज़िंदगी की ग्राफ़िक्स खराब हैं पर कहानियाँ बेहतर।</item>
+        <item>किसी को कॉल करें। असली कॉल। वे चौंक जाएँगे।</item>
+        <item>चाय बनाइए। पुरानी जादूगरी अब भी काम करती है।</item>
+        <item>बोरियत अच्छे विचारों का दरवाज़ा है। उसे आने दीजिए।</item>
+        <item>आप आलसी नहीं, ज़्यादा उत्तेजित हैं। बड़ा फ़र्क है।</item>
+        <item>स्थिर रहना असली कौशल है। एक मिनट कोशिश कीजिए।</item>
+        <item>इंटरनेट आपकी निगरानी के बिना भी चलता रहेगा।</item>
+        <item>आप दुनिया का सबसे ज़रूरी पोस्ट नहीं चूकेंगे।</item>
+        <item>बिल्ली बोल चुकी। विषय ख़त्म।</item>
+        <item>आप थके हैं, फ़ीड नहीं। फ़ीड कभी नहीं थकता।</item>
+        <item>अभी फ़ोन जीत रहा है। एक अंक वापस लीजिए।</item>
+        <item>आराम इनाम नहीं है, ज़रूरत है।</item>
+        <item>कल का आप, आज के आप का धन्यवाद करेगा।</item>
+    </string-array>
+
+</resources>

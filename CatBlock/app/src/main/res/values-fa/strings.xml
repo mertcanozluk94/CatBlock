@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatBlock</string>
+    <string name="notif_channel_name">نظارت CatBlock</string>
+    <string name="notif_title">CatBlock در حال پایش است</string>
+    <string name="notif_text">زمان پیمایش شما را زیر نظر دارد.</string>
+    <string name="onboarding_subtitle">وقتی زیاد اسکرول می‌کنی، گربه‌ای بزرگ صفحه را می‌گیرد تا استراحتت تمام شود.</string>
+    <string name="perm_overlay_title">نمایش روی برنامه‌های دیگر</string>
+    <string name="perm_overlay_subtitle">تا گربه روی برنامه‌های اجتماعی ظاهر شود.</string>
+    <string name="perm_usage_title">دسترسی به آمار استفاده</string>
+    <string name="perm_usage_subtitle">تا CatBlock بداند از کدام برنامه استفاده می‌کنی.</string>
+    <string name="continue_button">ادامه</string>
+    <string name="next_step">بعدی</string>
+    <string name="previous_step">بازگشت</string>
+    <string name="got_it">فهمیدم</string>
+    <string name="show_guide">نشانم بده چطور کار می‌کند</string>
+    <string name="skip">رد شدن</string>
+    <string name="how_step1_title">1. برنامه‌ها را انتخاب کن</string>
+    <string name="how_step1_text">برنامه‌هایی که زیاد استفاده می‌کنی را روشن کن — اینستاگرام، تیک‌تاک، X، یوتیوب.</string>
+    <string name="how_step2_title">2. حد خود را تعیین کن</string>
+    <string name="how_step2_text">برای هر برنامه، زمان ظهور گربه و مدت استراحت را تعیین کن.</string>
+    <string name="how_step3_title">3. به زندگی‌ات ادامه بده</string>
+    <string name="how_step3_text">CatBlock در پس‌زمینه کار می‌کند. نیازی نیست باز نگه داری.</string>
+    <string name="how_step4_title">4. گربه ظاهر می‌شود</string>
+    <string name="how_step4_text">وقتی از وقت بگذری، گربه‌ای بزرگ صفحه را پر می‌کند و اسکرول را متوقف می‌کند.</string>
+    <string name="how_step5_title">5. واقعاً استراحت کن</string>
+    <string name="how_step5_text">کش‌و‌قوس برو، آب بخور، نفس بکش یا به بیرون نگاه کن. گربه می‌رود.</string>
+    <string name="pick_apps_title">برنامه‌ها را انتخاب کن</string>
+    <string name="pick_apps_subtitle">برنامه را روشن کن و زمان ظهور گربه و مدت استراحت را تعیین کن.</string>
+    <string name="section_social">برنامه‌های اجتماعی شناسایی‌شده</string>
+    <string name="section_all">همه برنامه‌ها</string>
+    <string name="cat_appears_after">گربه ظاهر می‌شود پس از</string>
+    <string name="break_lasts">مدت استراحت</string>
+    <string name="minutes_short">%1$d دقیقه</string>
+    <string name="settings_title">تنظیمات</string>
+    <string name="settings_voice_title">صدای گربه</string>
+    <string name="settings_voice_subtitle">بگذار گربه پیام را با صدای داخلی گوشی‌ات بلند بخواند.</string>
+    <string name="settings_help_title">چگونه کار می‌کند</string>
+    <string name="settings_help_subtitle">تور کوتاه CatBlock.</string>
+    <string name="overlay_skip">رد شدن</string>
+    <string-array name="overlay_wait_messages">
+        <item>نمی‌توانی گربه را رد کنی. فقط صبر کن.</item>
+        <item>الآن گربه رئیس است. دوام بیار.</item>
+        <item>از گربه نمی‌توانی رد شوی. نفس بکش.</item>
+        <item>گربه رشوه قبول نمی‌کند.</item>
+        <item>می‌خواهی اسکرول کنی؟ گربه می‌بیند.</item>
+        <item>گربه دکمه‌ی خاموش ندارد. صبر کن.</item>
+        <item>این گربه به کسی پاسخگو نیست.</item>
+        <item>تو در برابر گربه. گربه برنده می‌شود.</item>
+        <item>گربه تکان نمی‌خورد. مثل یک گربه‌ی واقعی.</item>
+        <item>مذاکره بسته شد. گربه گفت نه.</item>
+        <item>گربه وقتی آماده شد می‌رود.</item>
+        <item>فشار بیشتر سرعتش نمی‌دهد.</item>
+        <item>این تله را خودت برای خودت گذاشتی. بنشین.</item>
+        <item>تو در گذشته واقعاً می‌خواستی الآن صبر کنی.</item>
+        <item>تو در گذشته خردمند بودی. بهش اعتماد کن.</item>
+        <item>تایمر صادق است. فید نبود.</item>
+        <item>گربه این کار را برای خوبی تو می‌کند.</item>
+        <item>نظم یعنی به‌یادآوردن اهدافت.</item>
+        <item>شورش کوچک: یک نفس آرام.</item>
+        <item>این لحظه‌ای است که مغز می‌رسد.</item>
+        <item>بگذار چشم‌هایت روی چیزی دور آرام بگیرند.</item>
+        <item>هرچقدر می‌خواهی گربه را بزن. خوشش می‌آید.</item>
+        <item>گربه دکمه نیست.</item>
+        <item>حالا رئیس این صفحه گربه است.</item>
+        <item>آرام پنج بار پلک بزن.</item>
+        <item>اگر می‌رسد یک جرعه آب بنوش.</item>
+        <item>اگر خواستی خمیازه بکش. گربه ناراحت نمی‌شود.</item>
+        <item>گربه فکر می‌کند داری عالی پیش می‌روی.</item>
+        <item>گربه در سکوت طرف توست.</item>
+        <item>گربه به تو ایمان دارد.</item>
+    </string-array>
+
+    <string-array name="break_messages">
+        <item>گربه می‌گوید زیادی اسکرول کرده‌ای.</item>
+        <item>نگاهت را بالا بیاور. دنیا از این صفحه بزرگ‌تر است.</item>
+        <item>انگشت شصتت امروز به اندازه کافی کیلومتر زده.</item>
+        <item>فید همان‌جا می‌ماند. تو برای همیشه نمی‌مانی.</item>
+        <item>گربه می‌بیند چه می‌کنی. گربه نگران توست.</item>
+        <item>یک دقیقه دستگاه دوپامین را خاموش کن.</item>
+        <item>بایست، شانه‌هایت را باز کن، نفس عمیق بکش.</item>
+        <item>از پنجره بیرون را نگاه کن. حتی اگر کسالت‌بار به نظر برسد.</item>
+        <item>آب بنوش. بدنت بیشتر آب است و الآن خسته است.</item>
+        <item>گوشی را بگذار. روی میز، نه روی خودت.</item>
+        <item>فکّت گرفته؟ رهایش کن. بهتر شد، نه؟</item>
+        <item>از بینی چهار شماره دم، از دهان شش شماره بازدم.</item>
+        <item>پنج نفس آرام. گربه می‌شمارد.</item>
+        <item>گربه چانه نمی‌زند. گربه معامله نمی‌کند.</item>
+        <item>فید بی‌پایان است. تمرکز تو نیست.</item>
+        <item>واقعاً دنبال چه می‌گشتی؟ پیدایش کردی؟</item>
+        <item>از وقتی برنامه را باز کردی، خوشحال‌تری؟</item>
+        <item>زندگی واقعی گرافیکش بد است اما داستان‌هایش بهتر.</item>
+        <item>به کسی زنگ بزن. تماس واقعی. غافلگیر می‌شود.</item>
+        <item>یک چای دم کن. جادوی قدیمی هنوز کار می‌کند.</item>
+        <item>ملال در بزرگ‌ترین درِ ایده‌های خوب است. بازش کن.</item>
+        <item>تنبل نیستی. بیش‌از‌حد محرک گرفته‌ای. فرق دارد.</item>
+        <item>ساکن نشستن یک مهارت واقعی است. یک دقیقه امتحان کن.</item>
+        <item>اینترنت بدون نظارت تو هم کار می‌کند.</item>
+        <item>مهم‌ترین پست تاریخ را از دست نمی‌دهی.</item>
+        <item>گربه گفته. بحث تمام.</item>
+        <item>تو خسته‌ای، نه فید. فید هرگز خسته نمی‌شود.</item>
+        <item>الآن گوشی برنده است. یک امتیاز پس بگیر.</item>
+        <item>استراحت پاداش نیست. ضرورت است.</item>
+        <item>تو فردا از تو الآن تشکر می‌کند که ایستادی.</item>
+    </string-array>
+
+</resources>

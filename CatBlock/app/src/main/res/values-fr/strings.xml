@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatBlock</string>
+    <string name="notif_channel_name">Surveillance CatBlock</string>
+    <string name="notif_title">CatBlock veille</string>
+    <string name="notif_text">Surveille ton temps de défilement.</string>
+    <string name="onboarding_subtitle">Quand tu fais défiler trop longtemps, un chat géant bloque l\'écran jusqu\'à la fin de ta pause.</string>
+    <string name="perm_overlay_title">Afficher par-dessus d\'autres apps</string>
+    <string name="perm_overlay_subtitle">Pour que le chat apparaisse par-dessus tes apps sociales.</string>
+    <string name="perm_usage_title">Accès aux statistiques d\'utilisation</string>
+    <string name="perm_usage_subtitle">Pour que CatBlock sache quelle app tu utilises.</string>
+    <string name="continue_button">Continuer</string>
+    <string name="next_step">Suivant</string>
+    <string name="previous_step">Retour</string>
+    <string name="got_it">Compris</string>
+    <string name="show_guide">Montre-moi comment ça marche</string>
+    <string name="skip">Passer</string>
+    <string name="how_step1_title">1. Choisis les apps à surveiller</string>
+    <string name="how_step1_text">Active les apps où tu passes trop de temps — Instagram, TikTok, X, YouTube.</string>
+    <string name="how_step2_title">2. Définis tes limites</string>
+    <string name="how_step2_text">Pour chaque app, choisis après combien de temps le chat apparaît et la durée de la pause.</string>
+    <string name="how_step3_title">3. Vis ta vie</string>
+    <string name="how_step3_text">CatBlock fonctionne en arrière-plan. Pas besoin de le garder ouvert.</string>
+    <string name="how_step4_title">4. Le chat apparaît</string>
+    <string name="how_step4_text">Quand tu dépasses ta limite, un chat géant remplit l\'écran et bloque le défilement.</string>
+    <string name="how_step5_title">5. Prends une vraie pause</string>
+    <string name="how_step5_text">Étire-toi, bois de l\'eau, respire ou regarde par la fenêtre. Le chat partira.</string>
+    <string name="pick_apps_title">Choisis les apps à surveiller</string>
+    <string name="pick_apps_subtitle">Active une app, puis règle l\'apparition du chat et la durée de la pause.</string>
+    <string name="section_social">Apps sociales détectées</string>
+    <string name="section_all">Toutes les apps</string>
+    <string name="cat_appears_after">Le chat apparaît après</string>
+    <string name="break_lasts">La pause dure</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="settings_voice_title">Voix du chat</string>
+    <string name="settings_voice_subtitle">Le chat lit le message à voix haute avec la voix intégrée de ton téléphone.</string>
+    <string name="settings_help_title">Comment ça marche</string>
+    <string name="settings_help_subtitle">Une visite rapide de CatBlock.</string>
+    <string name="overlay_skip">Passer</string>
+    <string-array name="overlay_wait_messages">
+        <item>Tu ne peux pas zapper le chat. Attends.</item>
+        <item>Le chat commande maintenant. Tiens bon.</item>
+        <item>Pas de passage au-delà du chat. Respire.</item>
+        <item>Le chat n\'accepte pas les pots-de-vin.</item>
+        <item>Tu essaies de scroller ? Le chat voit tout.</item>
+        <item>Le chat n\'a pas de bouton off. Attends.</item>
+        <item>Ce chat ne répond à personne.</item>
+        <item>Toi contre le chat. Le chat gagne.</item>
+        <item>Le chat ne bouge pas. Comme un vrai chat.</item>
+        <item>Négociation fermée. Le chat dit non.</item>
+        <item>Le chat partira quand il sera prêt.</item>
+        <item>Appuyer plus fort n\'accélère rien.</item>
+        <item>Tu t\'es tendu ce piège. Reste dedans.</item>
+        <item>Le toi d\'avant voulait vraiment que tu attendes.</item>
+        <item>Le toi du passé était sage. Fais-lui confiance.</item>
+        <item>Le minuteur est honnête. Le fil ne l\'était pas.</item>
+        <item>Le chat fait ça pour ton bien.</item>
+        <item>La discipline c\'est se souvenir de ses buts.</item>
+        <item>Petites rébellions : une respiration lente.</item>
+        <item>C\'est le moment où le cerveau rattrape.</item>
+        <item>Pose ton regard sur quelque chose au loin.</item>
+        <item>Touche le chat tant que tu veux. Il aime ça.</item>
+        <item>Le chat n\'est pas un bouton.</item>
+        <item>Le chat est le patron de cet écran maintenant.</item>
+        <item>Essaie de cligner lentement cinq fois.</item>
+        <item>Bois une gorgée d\'eau si tu peux.</item>
+        <item>Bâille si tu veux. Le chat s\'en moque.</item>
+        <item>Le chat trouve que tu te débrouilles très bien.</item>
+        <item>Le chat te soutient en silence.</item>
+        <item>Le chat croit en toi.</item>
+    </string-array>
+
+    <string-array name="break_messages">
+        <item>Le chat dit que tu fais défiler depuis trop longtemps.</item>
+        <item>Lève les yeux. Le monde est plus grand que cet écran.</item>
+        <item>Ton pouce a fait assez de kilomètres pour aujourd\'hui.</item>
+        <item>Le fil sera toujours là. Pas toi, pour toujours.</item>
+        <item>Le chat voit ce que tu fais. Le chat s\'inquiète.</item>
+        <item>Mets sur pause la machine à dopamine pour une minute.</item>
+        <item>Lève-toi, écarte les épaules, respire profondément.</item>
+        <item>Regarde par la fenêtre. Même si ça a l\'air ennuyeux.</item>
+        <item>Bois de l\'eau. Ton corps est surtout fait d\'eau et fatigué.</item>
+        <item>Pose ton téléphone. Sur la table, pas sur toi.</item>
+        <item>Mâchoire serrée ? Relâche. Mieux, non ?</item>
+        <item>Inspire par le nez en quatre temps, expire par la bouche en six.</item>
+        <item>Cinq respirations lentes. Le chat compte.</item>
+        <item>Le chat ne négocie pas. Le chat ne marchande pas.</item>
+        <item>Le fil est infini. Ton attention non.</item>
+        <item>Tu cherchais quoi vraiment ? Tu l\'as trouvé ?</item>
+        <item>Es-tu plus heureux qu\'avant d\'ouvrir l\'app ?</item>
+        <item>La vraie vie a de moins beaux graphismes mais de meilleures histoires.</item>
+        <item>Appelle quelqu\'un. Un vrai appel. Ça surprendra.</item>
+        <item>Fais-toi un thé. La vieille magie marche encore.</item>
+        <item>L\'ennui est la porte des bonnes idées. Laisse-le entrer.</item>
+        <item>Tu n\'es pas paresseux. Tu es surstimulé. C\'est très différent.</item>
+        <item>Rester immobile est une vraie compétence. Une minute, essaie.</item>
+        <item>Internet continuera sans ta supervision.</item>
+        <item>Tu ne rateras pas le post le plus important du monde.</item>
+        <item>Le chat a parlé. Sujet clos.</item>
+        <item>Tu es fatigué, pas le fil. Le fil ne fatigue jamais.</item>
+        <item>Là, le téléphone gagne. Reprends un point.</item>
+        <item>Le repos n\'est pas une récompense. C\'est une nécessité.</item>
+        <item>Le toi de demain te remercie d\'arrêter maintenant.</item>
+    </string-array>
+
+</resources>

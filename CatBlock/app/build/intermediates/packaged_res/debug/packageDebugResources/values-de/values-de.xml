@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="break_messages">
+        <item>Die Katze sagt, du scrollst schon zu lange.</item>
+        <item>Schau hoch. Die Welt ist größer als dieser Bildschirm.</item>
+        <item>Dein Daumen hat heute genug Kilometer gemacht.</item>
+        <item>Der Feed bleibt da. Du nicht für immer.</item>
+        <item>Die Katze sieht, was du tust. Die Katze macht sich Sorgen.</item>
+        <item>Drück mal Pause auf der Dopamin-Maschine.</item>
+        <item>Steh auf, zieh die Schultern zurück, atme tief.</item>
+        <item>Schau aus dem Fenster. Auch wenn es langweilig wirkt.</item>
+        <item>Trink Wasser. Dein Körper besteht meist aus Wasser und ist müde.</item>
+        <item>Leg das Handy weg. Auf den Tisch, nicht auf dich.</item>
+        <item>Kiefer angespannt? Lockern. Besser, oder?</item>
+        <item>Vier Sekunden durch die Nase ein, sechs durch den Mund aus.</item>
+        <item>Fünf langsame Atemzüge. Die Katze zählt mit.</item>
+        <item>Die Katze verhandelt nicht. Die Katze lässt nicht mit sich reden.</item>
+        <item>Der Feed ist unendlich. Deine Aufmerksamkeit nicht.</item>
+        <item>Was hast du eigentlich gesucht? Hast du es gefunden?</item>
+        <item>Bist du glücklicher als beim Öffnen der App?</item>
+        <item>Das echte Leben hat schlechtere Grafik, aber bessere Geschichten.</item>
+        <item>Ruf jemanden an. Echt anrufen. Wird überraschen.</item>
+        <item>Mach dir Tee. Alte Magie funktioniert noch.</item>
+        <item>Langeweile ist das Tor zu guten Ideen. Lass sie rein.</item>
+        <item>Du bist nicht faul. Du bist überreizt. Großer Unterschied.</item>
+        <item>Stillsitzen ist eine echte Fähigkeit. Eine Minute üben.</item>
+        <item>Das Internet läuft auch ohne dich weiter.</item>
+        <item>Du verpasst nicht den wichtigsten Post der Welt.</item>
+        <item>Die Katze hat gesprochen. Thema beendet.</item>
+        <item>Du bist müde, der Feed nicht. Der Feed wird nie müde.</item>
+        <item>Gerade gewinnt das Handy. Hol einen Punkt zurück.</item>
+        <item>Pause ist keine Belohnung. Pause ist Pflicht.</item>
+        <item>Das Ich von morgen dankt dem Ich von jetzt fürs Aufhören.</item>
+    </string-array>
+    <string-array name="overlay_wait_messages">
+        <item>Die Katze lässt sich nicht überspringen. Warte einfach.</item>
+        <item>Die Katze hat jetzt das Sagen. Halt durch.</item>
+        <item>Kein Weg an der Katze vorbei. Atme.</item>
+        <item>Die Katze nimmt keine Bestechung an.</item>
+        <item>Versuchst du zu scrollen? Die Katze sieht es.</item>
+        <item>Die Katze hat keinen Aus-Knopf. Warte.</item>
+        <item>Diese Katze hört auf niemanden.</item>
+        <item>Du gegen die Katze. Die Katze gewinnt.</item>
+        <item>Die Katze bewegt sich nicht. Wie eine echte Katze.</item>
+        <item>Verhandlung geschlossen. Die Katze sagt nein.</item>
+        <item>Die Katze geht, wenn sie bereit ist.</item>
+        <item>Stärker drücken hilft nicht.</item>
+        <item>Du hast dir diese Falle gestellt. Bleib drin.</item>
+        <item>Das Du von früher wollte, dass du wartest.</item>
+        <item>Vergangenheits-Du war weise. Vertrau ihm.</item>
+        <item>Der Timer ist ehrlich. Der Feed war es nicht.</item>
+        <item>Die Katze macht das zu deinem Besten.</item>
+        <item>Disziplin ist nur Erinnerung an deine Ziele.</item>
+        <item>Kleine Rebellion: ein langsamer Atemzug.</item>
+        <item>Jetzt holt das Gehirn auf.</item>
+        <item>Lass die Augen auf etwas Weitem ruhen.</item>
+        <item>Klopf die Katze, soviel du willst. Sie mag es.</item>
+        <item>Die Katze ist kein Knopf.</item>
+        <item>Die Katze ist der Boss dieses Bildschirms.</item>
+        <item>Versuche, fünfmal langsam zu blinzeln.</item>
+        <item>Trink einen Schluck Wasser, wenn du kannst.</item>
+        <item>Gähne ruhig. Die Katze stört es nicht.</item>
+        <item>Die Katze findet, du machst das super.</item>
+        <item>Die Katze drückt dir leise die Daumen.</item>
+        <item>Die Katze glaubt an dich.</item>
+    </string-array>
+    <string name="app_name">CatBlock</string>
+    <string name="break_lasts">Pause dauert</string>
+    <string name="cat_appears_after">Katze erscheint nach</string>
+    <string name="continue_button">Weiter</string>
+    <string name="got_it">Verstanden</string>
+    <string name="how_step1_text">Aktiviere Apps, in denen du zu viel Zeit verbringst – Instagram, TikTok, X, YouTube.</string>
+    <string name="how_step1_title">1. Wähle Apps zum Schützen</string>
+    <string name="how_step2_text">Lege für jede App fest, wann die Katze erscheint und wie lange die Pause dauert.</string>
+    <string name="how_step2_title">2. Lege deine Grenzen fest</string>
+    <string name="how_step3_text">CatBlock läuft im Hintergrund. Du musst es nicht offen lassen.</string>
+    <string name="how_step3_title">3. Lebe dein Leben</string>
+    <string name="how_step4_text">Wenn du dein Limit überziehst, füllt eine riesige Katze den Bildschirm und blockiert das Scrollen.</string>
+    <string name="how_step4_title">4. Die Katze erscheint</string>
+    <string name="how_step5_text">Streck dich, trink Wasser, atme oder schau aus dem Fenster. Die Katze geht dann.</string>
+    <string name="how_step5_title">5. Mach eine echte Pause</string>
+    <string name="minutes_short">%1$d Min.</string>
+    <string name="next_step">Weiter</string>
+    <string name="notif_channel_name">CatBlock-Überwachung</string>
+    <string name="notif_text">Behält deine Scroll-Zeit im Auge.</string>
+    <string name="notif_title">CatBlock passt auf</string>
+    <string name="onboarding_subtitle">Wenn du zu lange scrollst, blockiert eine riesige Katze den Bildschirm, bis deine Pause vorbei ist.</string>
+    <string name="overlay_skip">Überspringen</string>
+    <string name="perm_overlay_subtitle">Damit die Katze über deinen Social-Apps erscheinen kann.</string>
+    <string name="perm_overlay_title">Über anderen Apps anzeigen</string>
+    <string name="perm_usage_subtitle">Damit CatBlock weiß, welche App du gerade nutzt.</string>
+    <string name="perm_usage_title">Nutzungszugriff</string>
+    <string name="pick_apps_subtitle">Aktiviere eine App und stelle ein, wann die Katze erscheint und wie lange die Pause dauert.</string>
+    <string name="pick_apps_title">Wähle Apps zum Schützen</string>
+    <string name="previous_step">Zurück</string>
+    <string name="section_all">Alle Apps</string>
+    <string name="section_social">Erkannte Social-Apps</string>
+    <string name="settings_help_subtitle">Ein kurzer Rundgang durch CatBlock.</string>
+    <string name="settings_help_title">So funktioniert es</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_voice_subtitle">Die Katze liest die Nachricht laut mit der integrierten Stimme deines Telefons vor.</string>
+    <string name="settings_voice_title">Katzenstimme</string>
+    <string name="show_guide">Zeig mir, wie es funktioniert</string>
+    <string name="skip">Überspringen</string>
+</resources>

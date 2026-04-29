@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="break_messages">
+        <item>القطّة تقول إنّك تتصفّح منذ وقت طويل جدّاً.</item>
+        <item>ارفع عينيك. العالم أكبر من هذه الشاشة.</item>
+        <item>إبهامك قطع كيلومترات كافية لهذا اليوم.</item>
+        <item>البثّ سيبقى. أمّا أنت فلن تبقى للأبد.</item>
+        <item>القطّة ترى ما تفعل. القطّة قلقة عليك.</item>
+        <item>أوقف آلة الدوبامين دقيقة واحدة.</item>
+        <item>قف، افتح كتفيك، خذ نفساً عميقاً.</item>
+        <item>انظر من النافذة. حتى لو بدا مملًّا.</item>
+        <item>اشرب الماء. جسدك معظمه ماء وهو متعب الآن.</item>
+        <item>ضع الهاتف. على الطاولة، لا فوقك.</item>
+        <item>فكّك مشدود؟ ارخِه. أفضل، أليس كذلك؟</item>
+        <item>شهيق من الأنف لأربع، زفير من الفم لست.</item>
+        <item>خمسة أنفاس بطيئة. القطّة تعدّ.</item>
+        <item>القطّة لا تتفاوض. القطّة لا تساوم.</item>
+        <item>البثّ لا نهاية له. انتباهك له نهاية.</item>
+        <item>ما الذي كنت تبحث عنه فعلاً؟ هل وجدته؟</item>
+        <item>هل أنت أسعد ممّا كنت قبل فتح التطبيق؟</item>
+        <item>الحياة الحقيقية رسومها أسوأ لكن قصصها أفضل.</item>
+        <item>اتّصل بأحد. مكالمة حقيقيّة. سيتفاجأ.</item>
+        <item>اصنع شاياً. السحر القديم ما زال يعمل.</item>
+        <item>الملل بوّابة الأفكار الجيّدة. أدخله.</item>
+        <item>لست كسولاً. أنت مفرَط التحفيز. فرق كبير.</item>
+        <item>السكون مهارة حقيقية. جرّب دقيقة واحدة.</item>
+        <item>ستستمرّ الإنترنت بلا إشرافك.</item>
+        <item>لن تفوّت أهمّ منشور في العالم.</item>
+        <item>القطّة قالت. انتهى النقاش.</item>
+        <item>أنت المتعب، لا البث. البث لا يتعب.</item>
+        <item>الآن الهاتف يربح. خذ نقطة عائدة.</item>
+        <item>الراحة ليست مكافأة. الراحة فرض.</item>
+        <item>أنت في الغد تشكر أنت في الآن لأنّك توقّفت.</item>
+    </string-array>
+    <string-array name="overlay_wait_messages">
+        <item>لا يمكنك تخطّي القطّة. فقط انتظر.</item>
+        <item>القطّة هي المسؤولة الآن. اصبر.</item>
+        <item>لا مرور بعد القطّة. خذ نفساً.</item>
+        <item>القطّة لا تقبل الرشاوى.</item>
+        <item>هل تحاول التمرير؟ القطّة تراك.</item>
+        <item>ليس للقطّة زرّ إيقاف. انتظر.</item>
+        <item>هذه القطّة لا تخضع لأحد.</item>
+        <item>أنت ضدّ القطّة. القطّة تربح.</item>
+        <item>القطّة لا تتحرّك. كقطّة حقيقية.</item>
+        <item>المفاوضات أُغلقت. القطّة قالت لا.</item>
+        <item>ستغادر القطّة حين تستعدّ هي.</item>
+        <item>الضغط أقوى لن يسرّع شيئاً.</item>
+        <item>أنت من نصب هذا الفخّ لنفسك. ابقَ فيه.</item>
+        <item>أنت السابق أراد فعلاً أن تنتظر.</item>
+        <item>أنت في الماضي كان حكيماً. ثق به.</item>
+        <item>المؤقّت صادق. البثّ لم يكن.</item>
+        <item>القطّة تفعل هذا من أجلك.</item>
+        <item>الانضباط هو تذكّر أهدافك.</item>
+        <item>تمرّد صغير: نَفَس بطيء.</item>
+        <item>هذه لحظة لحاق الدماغ.</item>
+        <item>دع عينيك ترتاحان على شيء بعيد.</item>
+        <item>اضغط القطّة كما تشاء. هي تستمتع.</item>
+        <item>القطّة ليست زرّاً.</item>
+        <item>القطّة هي رئيسة هذه الشاشة الآن.</item>
+        <item>جرّب الرمش ببطء خمس مرّات.</item>
+        <item>اشرب رشفة ماء إن استطعت.</item>
+        <item>تثاءب إن احتجت. القطّة لا تمانع.</item>
+        <item>القطّة تظنّ أنّك تقوم بعمل رائع.</item>
+        <item>القطّة تشجّعك بصمت.</item>
+        <item>القطّة تؤمن بك.</item>
+    </string-array>
+    <string name="app_name">CatBlock</string>
+    <string name="break_lasts">تدوم الاستراحة</string>
+    <string name="cat_appears_after">تظهر القطّة بعد</string>
+    <string name="continue_button">متابعة</string>
+    <string name="got_it">حسناً</string>
+    <string name="how_step1_text">فعّل التطبيقات التي تقضي فيها وقتاً طويلاً — Instagram أو TikTok أو X أو YouTube.</string>
+    <string name="how_step1_title">1. اختر التطبيقات التي تريد حمايتها</string>
+    <string name="how_step2_text">لكل تطبيق، اختر متى يظهر القطّ وكم تدوم الاستراحة.</string>
+    <string name="how_step2_title">2. حدّد حدودك</string>
+    <string name="how_step3_text">يعمل CatBlock في الخلفية. لا حاجة لإبقائه مفتوحاً.</string>
+    <string name="how_step3_title">3. عش حياتك</string>
+    <string name="how_step4_text">عند تجاوز الوقت، تملأ قطّة عملاقة الشاشة وتمنع التمرير.</string>
+    <string name="how_step4_title">4. يظهر القطّ</string>
+    <string name="how_step5_text">تمدّد، اشرب الماء، تنفّس، أو انظر من النافذة. القطّة ستغادر.</string>
+    <string name="how_step5_title">5. خذ استراحة حقيقية</string>
+    <string name="minutes_short">%1$d د</string>
+    <string name="next_step">التالي</string>
+    <string name="notif_channel_name">مراقب CatBlock</string>
+    <string name="notif_text">يراقب وقت تصفّحك.</string>
+    <string name="notif_title">CatBlock يراقب</string>
+    <string name="onboarding_subtitle">عندما تتصفّح طويلاً، تظهر قطة عملاقة وتغلق الشاشة حتى تنتهي استراحتك.</string>
+    <string name="overlay_skip">تخطّي</string>
+    <string name="perm_overlay_subtitle">ليظهر القطّ فوق تطبيقات التواصل.</string>
+    <string name="perm_overlay_title">العرض فوق التطبيقات الأخرى</string>
+    <string name="perm_usage_subtitle">ليعرف CatBlock أيّ تطبيق تستخدم.</string>
+    <string name="perm_usage_title">إذن الوصول إلى الاستخدام</string>
+    <string name="pick_apps_subtitle">فعّل تطبيقاً، ثم اضبط متى تظهر القطّة ومدّة الاستراحة.</string>
+    <string name="pick_apps_title">اختر التطبيقات التي تريد حمايتها</string>
+    <string name="previous_step">السابق</string>
+    <string name="section_all">كل التطبيقات</string>
+    <string name="section_social">تطبيقات تواصل مكتشفة</string>
+    <string name="settings_help_subtitle">جولة سريعة في CatBlock.</string>
+    <string name="settings_help_title">كيف يعمل</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="settings_voice_subtitle">اجعل القطّة تقرأ الرسالة بصوت عالٍ بصوت هاتفك المدمج.</string>
+    <string name="settings_voice_title">صوت القطّة</string>
+    <string name="show_guide">أرني كيف يعمل</string>
+    <string name="skip">تخطّي</string>
+</resources>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatBlock</string>
+    <string name="notif_channel_name">Monitor CatBlock</string>
+    <string name="notif_title">CatBlock ti sta osservando</string>
+    <string name="notif_text">Tiene d\'occhio il tuo tempo di scroll.</string>
+    <string name="onboarding_subtitle">Quando scorri troppo a lungo, un gatto gigante blocca lo schermo finché la pausa non finisce.</string>
+    <string name="perm_overlay_title">Mostra sopra altre app</string>
+    <string name="perm_overlay_subtitle">Così il gatto può apparire sopra le tue app sociali.</string>
+    <string name="perm_usage_title">Accesso all\'utilizzo</string>
+    <string name="perm_usage_subtitle">Così CatBlock sa quale app stai usando.</string>
+    <string name="continue_button">Continua</string>
+    <string name="next_step">Avanti</string>
+    <string name="previous_step">Indietro</string>
+    <string name="got_it">Capito</string>
+    <string name="show_guide">Mostrami come funziona</string>
+    <string name="skip">Salta</string>
+    <string name="how_step1_title">1. Scegli le app da controllare</string>
+    <string name="how_step1_text">Attiva le app dove passi troppo tempo — Instagram, TikTok, X, YouTube.</string>
+    <string name="how_step2_title">2. Imposta i tuoi limiti</string>
+    <string name="how_step2_text">Per ogni app, scegli dopo quanto appare il gatto e quanto dura la pausa.</string>
+    <string name="how_step3_title">3. Vivi la tua vita</string>
+    <string name="how_step3_text">CatBlock funziona in background. Non devi tenerlo aperto.</string>
+    <string name="how_step4_title">4. Arriva il gatto</string>
+    <string name="how_step4_text">Quando superi il limite, un gatto gigante riempie lo schermo e blocca lo scroll.</string>
+    <string name="how_step5_title">5. Fatti una vera pausa</string>
+    <string name="how_step5_text">Allungati, bevi acqua, respira o guarda fuori. Il gatto se ne andrà.</string>
+    <string name="pick_apps_title">Scegli le app da controllare</string>
+    <string name="pick_apps_subtitle">Attiva un\'app, poi imposta quando appare il gatto e la durata della pausa.</string>
+    <string name="section_social">App social rilevate</string>
+    <string name="section_all">Tutte le app</string>
+    <string name="cat_appears_after">Il gatto appare dopo</string>
+    <string name="break_lasts">La pausa dura</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="settings_title">Impostazioni</string>
+    <string name="settings_voice_title">Voce del gatto</string>
+    <string name="settings_voice_subtitle">Lascia che il gatto legga il messaggio ad alta voce con la voce del tuo telefono.</string>
+    <string name="settings_help_title">Come funziona</string>
+    <string name="settings_help_subtitle">Un tour rapido di CatBlock.</string>
+    <string name="overlay_skip">Salta</string>
+    <string-array name="overlay_wait_messages">
+        <item>Non puoi saltare il gatto. Aspetta e basta.</item>
+        <item>Adesso comanda il gatto. Tieni duro.</item>
+        <item>Non si passa oltre il gatto. Respira.</item>
+        <item>Il gatto non accetta tangenti.</item>
+        <item>Stai cercando di scorrere? Il gatto ti vede.</item>
+        <item>Il gatto non ha un tasto off. Aspetta.</item>
+        <item>Questo gatto non risponde a nessuno.</item>
+        <item>Tu contro il gatto. Vince il gatto.</item>
+        <item>Il gatto non si muove. Come un vero gatto.</item>
+        <item>Trattativa chiusa. Il gatto ha detto no.</item>
+        <item>Il gatto se ne va quando è pronto.</item>
+        <item>Premere più forte non accelera nulla.</item>
+        <item>Questa trappola te la sei messa da solo. Restaci.</item>
+        <item>Il te di prima voleva davvero che aspettassi.</item>
+        <item>Il tuo passato era saggio. Fidati di lui.</item>
+        <item>Il timer è onesto. Il feed non lo era.</item>
+        <item>Il gatto lo fa per il tuo bene.</item>
+        <item>Disciplina è solo ricordare i tuoi obiettivi.</item>
+        <item>Piccola ribellione: un respiro lento.</item>
+        <item>È il momento in cui il cervello recupera.</item>
+        <item>Fai riposare gli occhi su qualcosa di lontano.</item>
+        <item>Tocca il gatto quanto vuoi. Gli piace.</item>
+        <item>Il gatto non è un pulsante.</item>
+        <item>Ora il capo dello schermo è il gatto.</item>
+        <item>Prova a sbattere lentamente le palpebre cinque volte.</item>
+        <item>Bevi un sorso d\'acqua se ci arrivi.</item>
+        <item>Sbadiglia se serve. Al gatto non importa.</item>
+        <item>Il gatto pensa che stai andando alla grande.</item>
+        <item>Il gatto fa il tifo per te in silenzio.</item>
+        <item>Il gatto crede in te.</item>
+    </string-array>
+
+    <string-array name="break_messages">
+        <item>Il gatto dice che stai scorrendo da troppo tempo.</item>
+        <item>Alza gli occhi. Il mondo è più grande di questo schermo.</item>
+        <item>Il tuo pollice ha già fatto abbastanza chilometri oggi.</item>
+        <item>Il feed resta lì. Tu no, per sempre.</item>
+        <item>Il gatto vede cosa stai facendo. Il gatto è preoccupato.</item>
+        <item>Metti in pausa la macchina della dopamina per un minuto.</item>
+        <item>Alzati, apri le spalle, fai un respiro profondo.</item>
+        <item>Guarda fuori dalla finestra. Anche se sembra noioso.</item>
+        <item>Bevi acqua. Il corpo è quasi tutto acqua ed è stanco.</item>
+        <item>Posa il telefono. Sul tavolo, non addosso.</item>
+        <item>Mascella stretta? Rilasciala. Meglio, vero?</item>
+        <item>Inspira dal naso per quattro, espira dalla bocca per sei.</item>
+        <item>Cinque respiri lenti. Il gatto sta contando.</item>
+        <item>Il gatto non tratta. Il gatto non scende a patti.</item>
+        <item>Il feed è infinito. La tua attenzione no.</item>
+        <item>Cosa cercavi davvero? L\'hai trovato?</item>
+        <item>Sei più felice di quando hai aperto l\'app?</item>
+        <item>La vita reale ha grafica peggiore ma storie migliori.</item>
+        <item>Chiama qualcuno. Una chiamata vera. Resterà sorpreso.</item>
+        <item>Fatti un tè. La vecchia magia funziona ancora.</item>
+        <item>La noia è la porta delle buone idee. Falla entrare.</item>
+        <item>Non sei pigro. Sei sovrastimolato. Differenza enorme.</item>
+        <item>Stare fermi è una vera abilità. Prova un minuto.</item>
+        <item>Internet continuerà senza la tua supervisione.</item>
+        <item>Non perderai il post più importante del mondo.</item>
+        <item>Il gatto ha parlato. Argomento chiuso.</item>
+        <item>Sei tu stanco, non il feed. Il feed non si stanca.</item>
+        <item>Adesso vince il telefono. Riprenditi un punto.</item>
+        <item>Il riposo non è un premio. È un obbligo.</item>
+        <item>Il te di domani ringrazia il te di adesso per aver smesso.</item>
+    </string-array>
+
+</resources>

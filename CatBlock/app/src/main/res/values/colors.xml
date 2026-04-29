@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cat_orange">#F4A261</color>
+    <color name="cat_dark">#264653</color>
+    <color name="overlay_bg">#E6000000</color>
+</resources>

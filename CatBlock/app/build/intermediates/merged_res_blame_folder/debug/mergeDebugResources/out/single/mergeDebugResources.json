@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_27.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_27.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_ic_notification.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_06.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_06.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_20.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_20.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_12.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_12.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_08.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_08.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_35.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_35.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_18.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_18.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_19.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_19.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_08.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_08.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_ic_cat.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/ic_cat.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_14.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_14.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_07.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_07.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_07.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_07.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_13.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_13.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_43.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_43.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_11.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_11.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_18.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_18.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_05.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_05.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_21.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_21.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_05.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_05.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_01.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_01.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_15.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_15.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_28.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_28.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_34.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_34.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_17.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_17.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_33.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_33.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_07.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_07.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_06.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_06.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_44.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_44.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_12.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_12.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_02.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_02.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_41.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_41.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_03.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_03.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_29.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_29.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_08.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_08.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_09.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_09.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_13.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_13.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_19.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_19.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_00.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_00.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_39.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_39.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_26.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_26.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_05.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_05.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_49.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_49.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_23.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_23.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_36.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_36.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_10.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_10.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_15.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_15.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_02.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_02.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_08.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_08.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_31.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_31.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_20.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_20.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_46.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_46.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_10.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_10.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_38.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_38.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.catblock.app-main-68:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_03.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_03.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_16.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_16.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_03.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_03.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_13.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_13.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_00.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_00.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_01.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_01.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_05.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_05.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_23.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_23.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_30.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_30.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_09.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_09.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_16.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_16.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_24.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_24.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_37.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_37.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_40.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_40.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_04.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_04.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_15.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_15.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_47.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_47.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_06.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_06.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_10.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_10.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_02.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_02.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_06.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_06.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_14.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_14.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_04.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_04.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_04.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_04.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_01.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_01.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_25.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_25.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_22.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_22.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_03.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_03.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_01.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_01.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_16.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_16.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_14.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_14.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_48.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_48.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_45.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_45.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_11.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_11.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_07.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_07.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_22.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_22.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_02.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_02.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_12.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_12.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_gif_09.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_gif_09.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_32.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_32.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_17.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_17.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_04.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_04.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_21.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_21.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.catblock.app-main-68:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_video_09.mp4.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_video_09.mp4"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/raw_cat_lottie_11.json.flat",
+        "source": "com.catblock.app-main-68:/raw/cat_lottie_11.json"
+    },
+    {
+        "merged": "com.catblock.app-debug-66:/drawable_cat_42.xml.flat",
+        "source": "com.catblock.app-main-68:/drawable/cat_42.xml"
+    }
+]

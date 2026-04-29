@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="break_messages">
+        <item>猫说你已经刷太久了。</item>
+        <item>抬起头。世界比这块屏幕大得多。</item>
+        <item>你的拇指今天已经跑了够多里程了。</item>
+        <item>信息流会一直在。你不会永远在。</item>
+        <item>猫看到了你在做什么。猫很担心。</item>
+        <item>把多巴胺的水龙头先关一分钟。</item>
+        <item>站起来，肩膀打开，深呼吸一次。</item>
+        <item>看看窗外。哪怕看起来很无聊。</item>
+        <item>喝点水。身体大部分是水，现在大部分是累的。</item>
+        <item>把手机放下。放桌上，不是放身上。</item>
+        <item>下巴是不是咬紧了？松开。是不是好多了。</item>
+        <item>用鼻子吸四秒，用嘴吐六秒。</item>
+        <item>慢慢呼吸五次。猫在数。</item>
+        <item>猫不谈判。猫也不接受讨价还价。</item>
+        <item>信息流是无限的。你的注意力不是。</item>
+        <item>你到底在找什么？找到了吗？</item>
+        <item>你比打开应用之前更开心吗？</item>
+        <item>现实画质差点，但故事更好。</item>
+        <item>打个电话给某个人。真打。对方会惊喜。</item>
+        <item>泡一杯茶。古老的魔法依然有效。</item>
+        <item>无聊是好点子的入口。让它进来。</item>
+        <item>你不是懒，是过度刺激。差别很大。</item>
+        <item>静坐是一种真本事。练一分钟试试。</item>
+        <item>你不在场，互联网照样运转。</item>
+        <item>你不会错过这个世界上最重要的帖子。</item>
+        <item>猫已经发话了，话题到此为止。</item>
+        <item>累的是你，不是信息流。信息流从不累。</item>
+        <item>现在是手机赢着，扳回一分。</item>
+        <item>休息不是奖励，是必需。</item>
+        <item>明天的你，会感谢现在停下来的你。</item>
+    </string-array>
+    <string-array name="overlay_wait_messages">
+        <item>你跳不过猫，乖乖等吧。</item>
+        <item>现在猫说了算，再忍忍。</item>
+        <item>猫这关你过不去，深呼吸。</item>
+        <item>猫不收贿赂。</item>
+        <item>想刷？猫都看见了。</item>
+        <item>猫没有关机键，等着吧。</item>
+        <item>这只猫谁的话都不听。</item>
+        <item>你对猫，猫赢。</item>
+        <item>猫不动，像真的猫一样。</item>
+        <item>谈判结束，猫说不行。</item>
+        <item>猫准备好了才会走。</item>
+        <item>按得再用力也不会更快。</item>
+        <item>这是你自己挖的坑，老老实实坐着。</item>
+        <item>过去的你真的希望现在的你等一等。</item>
+        <item>过去的你很聪明，相信他。</item>
+        <item>计时器是诚实的，信息流不是。</item>
+        <item>猫这么做是为了你好。</item>
+        <item>自律不过是记住自己的目标。</item>
+        <item>小小反抗：慢慢吸一口气。</item>
+        <item>这是大脑追上来的时刻。</item>
+        <item>把目光放在远处什么东西上。</item>
+        <item>随便摸猫，它喜欢被摸。</item>
+        <item>猫不是按钮。</item>
+        <item>现在这块屏幕的老大是猫。</item>
+        <item>试着慢慢眨五次眼。</item>
+        <item>够得着的话喝口水。</item>
+        <item>想打哈欠就打，猫不介意。</item>
+        <item>猫觉得你做得很好。</item>
+        <item>猫在默默给你加油。</item>
+        <item>猫相信你。</item>
+    </string-array>
+    <string name="app_name">CatBlock</string>
+    <string name="break_lasts">休息时长</string>
+    <string name="cat_appears_after">猫出现于</string>
+    <string name="continue_button">继续</string>
+    <string name="got_it">明白了</string>
+    <string name="how_step1_text">把你刷得太多的应用打开 —— Instagram、TikTok、X、YouTube 等。</string>
+    <string name="how_step1_title">1. 选择要管控的应用</string>
+    <string name="how_step2_text">为每个应用设置猫多久出现以及休息多久。</string>
+    <string name="how_step2_title">2. 设定你的限制</string>
+    <string name="how_step3_text">CatBlock 在后台运行，不需要一直打开。</string>
+    <string name="how_step3_title">3. 继续过你的日子</string>
+    <string name="how_step4_text">超过时间时，一只大猫会铺满屏幕，阻止你继续刷。</string>
+    <string name="how_step4_title">4. 猫出现啦</string>
+    <string name="how_step5_text">伸个懒腰、喝口水、深呼吸或看看窗外。时间到了猫就会走。</string>
+    <string name="how_step5_title">5. 好好休息一下</string>
+    <string name="minutes_short">%1$d 分钟</string>
+    <string name="next_step">下一步</string>
+    <string name="notif_channel_name">CatBlock 监控</string>
+    <string name="notif_text">正在留意你的刷屏时间。</string>
+    <string name="notif_title">CatBlock 正在守护</string>
+    <string name="onboarding_subtitle">刷得太久时，一只巨大的猫会挡住屏幕，直到休息时间结束。</string>
+    <string name="overlay_skip">跳过</string>
+    <string name="perm_overlay_subtitle">让猫能够出现在你的社交应用之上。</string>
+    <string name="perm_overlay_title">显示在其他应用之上</string>
+    <string name="perm_usage_subtitle">让 CatBlock 知道你正在使用哪个应用。</string>
+    <string name="perm_usage_title">使用情况访问</string>
+    <string name="pick_apps_subtitle">打开一个应用，然后设置猫出现的时间和休息时长。</string>
+    <string name="pick_apps_title">选择要管控的应用</string>
+    <string name="previous_step">上一步</string>
+    <string name="section_all">所有应用</string>
+    <string name="section_social">检测到的社交应用</string>
+    <string name="settings_help_subtitle">快速了解 CatBlock。</string>
+    <string name="settings_help_title">工作原理</string>
+    <string name="settings_title">设置</string>
+    <string name="settings_voice_subtitle">让猫用手机内置的语音把信息念出来。</string>
+    <string name="settings_voice_title">猫的声音</string>
+    <string name="show_guide">看看怎么用</string>
+    <string name="skip">跳过</string>
+</resources>

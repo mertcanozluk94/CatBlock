@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res"><file name="cat_00" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_00.xml" qualifiers="" type="drawable"/><file name="cat_01" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_01.xml" qualifiers="" type="drawable"/><file name="cat_02" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_02.xml" qualifiers="" type="drawable"/><file name="cat_03" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_03.xml" qualifiers="" type="drawable"/><file name="cat_04" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_04.xml" qualifiers="" type="drawable"/><file name="cat_05" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_05.xml" qualifiers="" type="drawable"/><file name="cat_06" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_06.xml" qualifiers="" type="drawable"/><file name="cat_07" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_07.xml" qualifiers="" type="drawable"/><file name="cat_08" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_08.xml" qualifiers="" type="drawable"/><file name="cat_09" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_09.xml" qualifiers="" type="drawable"/><file name="cat_10" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_10.xml" qualifiers="" type="drawable"/><file name="cat_11" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_11.xml" qualifiers="" type="drawable"/><file name="cat_12" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_12.xml" qualifiers="" type="drawable"/><file name="cat_13" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_13.xml" qualifiers="" type="drawable"/><file name="cat_14" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_14.xml" qualifiers="" type="drawable"/><file name="cat_15" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_15.xml" qualifiers="" type="drawable"/><file name="cat_16" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_16.xml" qualifiers="" type="drawable"/><file name="cat_17" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_17.xml" qualifiers="" type="drawable"/><file name="cat_18" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_18.xml" qualifiers="" type="drawable"/><file name="cat_19" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_19.xml" qualifiers="" type="drawable"/><file name="cat_20" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_20.xml" qualifiers="" type="drawable"/><file name="cat_21" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_21.xml" qualifiers="" type="drawable"/><file name="cat_22" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_22.xml" qualifiers="" type="drawable"/><file name="cat_23" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_23.xml" qualifiers="" type="drawable"/><file name="cat_24" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_24.xml" qualifiers="" type="drawable"/><file name="cat_25" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_25.xml" qualifiers="" type="drawable"/><file name="cat_26" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_26.xml" qualifiers="" type="drawable"/><file name="cat_27" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_27.xml" qualifiers="" type="drawable"/><file name="cat_28" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_28.xml" qualifiers="" type="drawable"/><file name="cat_29" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_29.xml" qualifiers="" type="drawable"/><file name="cat_30" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_30.xml" qualifiers="" type="drawable"/><file name="cat_31" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_31.xml" qualifiers="" type="drawable"/><file name="cat_32" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_32.xml" qualifiers="" type="drawable"/><file name="cat_33" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_33.xml" qualifiers="" type="drawable"/><file name="cat_34" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_34.xml" qualifiers="" type="drawable"/><file name="cat_35" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_35.xml" qualifiers="" type="drawable"/><file name="cat_36" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_36.xml" qualifiers="" type="drawable"/><file name="cat_37" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_37.xml" qualifiers="" type="drawable"/><file name="cat_38" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_38.xml" qualifiers="" type="drawable"/><file name="cat_39" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_39.xml" qualifiers="" type="drawable"/><file name="cat_40" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_40.xml" qualifiers="" type="drawable"/><file name="cat_41" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_41.xml" qualifiers="" type="drawable"/><file name="cat_42" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_42.xml" qualifiers="" type="drawable"/><file name="cat_43" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_43.xml" qualifiers="" type="drawable"/><file name="cat_44" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_44.xml" qualifiers="" type="drawable"/><file name="cat_45" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_45.xml" qualifiers="" type="drawable"/><file name="cat_46" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_46.xml" qualifiers="" type="drawable"/><file name="cat_47" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_47.xml" qualifiers="" type="drawable"/><file name="cat_48" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_48.xml" qualifiers="" type="drawable"/><file name="cat_49" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\cat_49.xml" qualifiers="" type="drawable"/><file name="ic_cat" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\ic_cat.xml" qualifiers="" type="drawable"/><file name="ic_notification" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\drawable\ic_notification.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="cat_gif_01" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_01.mp4" qualifiers="" type="raw"/><file name="cat_gif_02" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_02.mp4" qualifiers="" type="raw"/><file name="cat_gif_03" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_03.mp4" qualifiers="" type="raw"/><file name="cat_gif_04" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_04.mp4" qualifiers="" type="raw"/><file name="cat_gif_05" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_05.mp4" qualifiers="" type="raw"/><file name="cat_gif_06" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_06.mp4" qualifiers="" type="raw"/><file name="cat_gif_07" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_07.mp4" qualifiers="" type="raw"/><file name="cat_gif_08" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_08.mp4" qualifiers="" type="raw"/><file name="cat_gif_09" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_gif_09.mp4" qualifiers="" type="raw"/><file name="cat_lottie_00" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_00.json" qualifiers="" type="raw"/><file name="cat_lottie_01" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_01.json" qualifiers="" type="raw"/><file name="cat_lottie_02" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_02.json" qualifiers="" type="raw"/><file name="cat_lottie_03" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_03.json" qualifiers="" type="raw"/><file name="cat_lottie_04" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_04.json" qualifiers="" type="raw"/><file name="cat_lottie_05" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_05.json" qualifiers="" type="raw"/><file name="cat_lottie_06" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_06.json" qualifiers="" type="raw"/><file name="cat_lottie_07" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_07.json" qualifiers="" type="raw"/><file name="cat_lottie_08" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_08.json" qualifiers="" type="raw"/><file name="cat_lottie_09" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_09.json" qualifiers="" type="raw"/><file name="cat_lottie_10" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_10.json" qualifiers="" type="raw"/><file name="cat_lottie_11" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_11.json" qualifiers="" type="raw"/><file name="cat_lottie_12" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_12.json" qualifiers="" type="raw"/><file name="cat_lottie_13" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_13.json" qualifiers="" type="raw"/><file name="cat_lottie_14" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_14.json" qualifiers="" type="raw"/><file name="cat_lottie_15" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_15.json" qualifiers="" type="raw"/><file name="cat_lottie_16" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_16.json" qualifiers="" type="raw"/><file name="cat_lottie_17" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_17.json" qualifiers="" type="raw"/><file name="cat_lottie_18" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_18.json" qualifiers="" type="raw"/><file name="cat_lottie_19" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_19.json" qualifiers="" type="raw"/><file name="cat_lottie_20" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_20.json" qualifiers="" type="raw"/><file name="cat_lottie_21" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_21.json" qualifiers="" type="raw"/><file name="cat_lottie_22" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_22.json" qualifiers="" type="raw"/><file name="cat_lottie_23" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_lottie_23.json" qualifiers="" type="raw"/><file name="cat_video_01" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_01.mp4" qualifiers="" type="raw"/><file name="cat_video_02" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_02.mp4" qualifiers="" type="raw"/><file name="cat_video_03" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_03.mp4" qualifiers="" type="raw"/><file name="cat_video_04" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_04.mp4" qualifiers="" type="raw"/><file name="cat_video_05" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_05.mp4" qualifiers="" type="raw"/><file name="cat_video_06" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_06.mp4" qualifiers="" type="raw"/><file name="cat_video_07" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_07.mp4" qualifiers="" type="raw"/><file name="cat_video_08" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_08.mp4" qualifiers="" type="raw"/><file name="cat_video_09" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_09.mp4" qualifiers="" type="raw"/><file name="cat_video_10" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_10.mp4" qualifiers="" type="raw"/><file name="cat_video_11" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_11.mp4" qualifiers="" type="raw"/><file name="cat_video_12" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_12.mp4" qualifiers="" type="raw"/><file name="cat_video_13" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_13.mp4" qualifiers="" type="raw"/><file name="cat_video_14" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_14.mp4" qualifiers="" type="raw"/><file name="cat_video_15" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_15.mp4" qualifiers="" type="raw"/><file name="cat_video_16" path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\raw\cat_video_16.mp4" qualifiers="" type="raw"/><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values\colors.xml" qualifiers=""><color name="cat_orange">#F4A261</color><color name="cat_dark">#264653</color><color name="overlay_bg">#E6000000</color></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">CatBlock</string><string name="notif_channel_id">catblock_monitor</string><string name="notif_channel_name">CatBlock Monitor</string><string name="notif_title">CatBlock is watching</string><string name="notif_text">Keeping an eye on your scrolling time.</string><string name="onboarding_subtitle">When you scroll too long, a giant cat blocks your screen until your break is over.</string><string name="perm_overlay_title">Display over other apps</string><string name="perm_overlay_subtitle">So the cat can appear on top of your social apps.</string><string name="perm_usage_title">Usage access</string><string name="perm_usage_subtitle">So CatBlock knows which app you are using.</string><string name="continue_button">Continue</string><string name="next_step">Next</string><string name="previous_step">Back</string><string name="got_it">Got it</string><string name="show_guide">Show me how it works</string><string name="skip">Skip</string><string name="how_step1_title">1. Pick the apps to guard</string><string name="how_step1_text">Choose the apps where you scroll too much — Instagram, TikTok, X, YouTube, whatever takes your time.</string><string name="how_step2_title">2. Set your limits</string><string name="how_step2_text">For each app, decide how long you can use it before the cat appears, and how long the break should last.</string><string name="how_step3_title">3. Live your life</string><string name="how_step3_text">CatBlock works in the background. You don\'t need to keep it open.</string><string name="how_step4_title">4. The cat appears</string><string name="how_step4_text">When you go over your time, a giant cat fills the screen, blocks scrolling, and refuses to move.</string><string name="how_step5_title">5. Take a real break</string><string name="how_step5_text">Stretch, drink water, breathe, look out a window. The cat will leave when your break is done.</string><string name="pick_apps_title">Pick the apps to guard</string><string name="pick_apps_subtitle">Toggle an app, then set how long until the cat appears and how long the break lasts.</string><string name="section_social">Social apps detected</string><string name="section_all">All apps</string><string name="cat_appears_after">Cat appears after</string><string name="break_lasts">Break lasts</string><string name="minutes_short">%1$d min</string><string name="overlay_skip">Skip</string><string-array name="overlay_wait_messages">
+        <item>You can\'t skip the cat. Just wait.</item>
+        <item>The cat is in charge now. Sit tight.</item>
+        <item>No way past the cat. Take a breath.</item>
+        <item>The cat doesn\'t accept bribes.</item>
+        <item>Trying to scroll? The cat sees you.</item>
+        <item>The cat has no off button. Wait.</item>
+        <item>This cat answers to no one.</item>
+        <item>You vs the cat. The cat wins.</item>
+        <item>The cat is immovable. Like a real cat.</item>
+        <item>Negotiation is closed. Cat says no.</item>
+        <item>The cat will leave when the cat is ready.</item>
+        <item>Pressing harder won\'t make it go faster.</item>
+        <item>The cat is timing this. Don\'t rush it.</item>
+        <item>You\'ve been blocked by a cat. Honored.</item>
+        <item>Resistance is fluffy. Just wait.</item>
+        <item>The cat does not negotiate with scrollers.</item>
+        <item>Waiting builds character. So they say.</item>
+        <item>The cat is busy. Reading your soul.</item>
+        <item>The countdown is the law now.</item>
+        <item>Stretch a little. The cat approves.</item>
+        <item>This is your designated nothing time.</item>
+        <item>The cat has spoken. The cat is final.</item>
+        <item>Even pressing the home button won\'t help.</item>
+        <item>The cat outranks the home button.</item>
+        <item>The cat outranks your boss too.</item>
+        <item>You can leave the app. The timer keeps going.</item>
+        <item>Try doing nothing. It\'s underrated.</item>
+        <item>Boredom is a feature, not a bug.</item>
+        <item>Look around. The room is real.</item>
+        <item>Stand up if you can. Sit if you can\'t.</item>
+        <item>The cat can wait longer than you can.</item>
+        <item>The cat has waited for nine lifetimes.</item>
+        <item>You agreed to this when you set the timer.</item>
+        <item>Past you really wanted present you to wait.</item>
+        <item>Past you was wise. Trust past you.</item>
+        <item>The timer is honest. The feed wasn\'t.</item>
+        <item>The cat is doing this for your own good.</item>
+        <item>Discipline is just memory of your goals.</item>
+        <item>Tiny rebellions: take a slow breath.</item>
+        <item>This is when the brain catches up.</item>
+        <item>Let your eyes rest on something far.</item>
+        <item>Tap the cat all you want. It enjoys it.</item>
+        <item>The cat is not a button.</item>
+        <item>The cat is the boss of this screen now.</item>
+        <item>Try blinking slowly five times.</item>
+        <item>Drink a sip of water if you can reach it.</item>
+        <item>Yawn if you need to. The cat won\'t mind.</item>
+        <item>The cat thinks you\'re doing great.</item>
+        <item>The cat is silently rooting for you.</item>
+        <item>The cat believes in you.</item>
+        <item>You\'re stronger than the algorithm.</item>
+        <item>Right now, you are winning.</item>
+        <item>Every second waited is a small victory.</item>
+        <item>You\'re not stuck. You\'re saved.</item>
+        <item>This is what saying no to your phone looks like.</item>
+        <item>The phone wants you back. Say no.</item>
+        <item>The app is not your friend right now.</item>
+        <item>The cat is your friend right now.</item>
+        <item>The cat has all the time in the world.</item>
+        <item>The cat gets paid by the second.</item>
+        <item>The cat is fully unionized.</item>
+        <item>The cat will not be moved by your sighs.</item>
+        <item>The cat hears your sighs and ignores them.</item>
+        <item>Patience is just waiting on purpose.</item>
+        <item>You\'re practicing patience. Free training.</item>
+        <item>Imagine the cat purring. Maybe it is.</item>
+        <item>The cat would love a chin scratch right now.</item>
+        <item>The cat is silently judging your screen time.</item>
+        <item>The cat read your last 50 posts. It has notes.</item>
+        <item>The cat is filing a report. About you.</item>
+        <item>The cat is Sphinx-coded. Unmovable.</item>
+        <item>The cat is built different.</item>
+        <item>The cat does not run on dopamine.</item>
+        <item>This cat works on cat time. Slower.</item>
+        <item>The cat\'s union won\'t let it leave early.</item>
+        <item>Wait it out. You always do.</item>
+        <item>You can do hard things. This is easy.</item>
+        <item>This isn\'t even hard. This is just waiting.</item>
+        <item>The cat is checking if you can sit still.</item>
+        <item>You are passing the test. Quietly.</item>
+        <item>Notice your hand wanting to scroll. Cute, right?</item>
+        <item>Notice the urge. Don\'t obey it. Just notice.</item>
+        <item>The urge will pass. The cat will pass.</item>
+        <item>You don\'t have to do anything. Just exist.</item>
+        <item>Existing is enough for this minute.</item>
+        <item>There is nowhere you need to be.</item>
+        <item>Your phone misses you. Let it miss you.</item>
+        <item>Absence makes the algorithm grow weaker.</item>
+        <item>The screen will still be there. Promise.</item>
+        <item>Right now, your job is to do nothing.</item>
+        <item>Doing nothing is harder than it looks. Try it.</item>
+        <item>This is rest. Real rest. Awkward, isn\'t it.</item>
+        <item>The cat is the rest you didn\'t ask for.</item>
+        <item>The cat is here to be annoying on purpose.</item>
+        <item>You set this trap for yourself. Sit in it.</item>
+        <item>The trap was love. The cat is love.</item>
+        <item>Soft sabotage from past you. Thank them.</item>
+        <item>The cat is what \"healthy boundaries\" look like.</item>
+        <item>This is the boundary. The cat is the boundary.</item>
+        <item>You drew a line. The cat is enforcing it.</item>
+        <item>Good boundaries. Wait it out.</item>
+        <item>One more breath. One more moment. You\'ve got this.</item>
+    </string-array><string name="settings_title">Settings</string><string name="settings_voice_title">Cat voice</string><string name="settings_voice_subtitle">Let the cat read the message out loud using your phone\'s built-in voice.</string><string name="settings_help_title">How it works</string><string name="settings_help_subtitle">A quick tour of CatBlock.</string><string-array name="break_messages">
+        <item>The cat says you\'ve been scrolling too long.</item>
+        <item>Eyes up. The world is bigger than this screen.</item>
+        <item>Your thumb has scrolled enough kilometers for one day.</item>
+        <item>The feed will still be there. You won\'t be, forever.</item>
+        <item>The cat sees what you are doing. The cat is concerned.</item>
+        <item>Let your eyes find something more than three feet away.</item>
+        <item>Slow your breathing. Notice the air. You are still here.</item>
+        <item>Press pause on the dopamine vending machine for a minute.</item>
+        <item>You\'ve been scrolling so long a cat had to step in.</item>
+        <item>Even cats know when to stop and lie down.</item>
+        <item>This is the cat checking in. How are you really doing?</item>
+        <item>Walk to another room. Just one. Then we will talk.</item>
+        <item>The brain you woke up with deserves a soft moment.</item>
+        <item>Stand up. Stretch tall. Drop your shoulders. Right now.</item>
+        <item>There is a sky. There are people. There is tea. The phone can wait.</item>
+        <item>Wow, you are committed. Maybe a bit too committed.</item>
+        <item>Whatever post you are looking for, you have already seen better today.</item>
+        <item>Your brain is asking for a snack that is not a video.</item>
+        <item>Look at something that is not glowing for one full minute.</item>
+        <item>Outside exists. It is where the actual cats are.</item>
+        <item>Drink some water. Your body is mostly water and currently mostly tired.</item>
+        <item>You haven\'t blinked enough today. Try a few slow blinks now.</item>
+        <item>Bones love being upright. Try it for sixty seconds.</item>
+        <item>Roll your shoulders backward five times. The cat is watching.</item>
+        <item>Pick the farthest thing you can see. Stare at it. Breathe.</item>
+        <item>Hydration is the cheapest mood improvement available. Use it.</item>
+        <item>Set the phone down. Not on yourself. On a table. Like a grown-up.</item>
+        <item>Notice three things you can see, hear, and feel. That is the whole task.</item>
+        <item>Wherever you are, be there fully for one minute.</item>
+        <item>Air goes in. Air goes out. Repeat. The cat will guide you.</item>
+        <item>Going slowly is allowed. It is, in fact, encouraged.</item>
+        <item>Look out the nearest window. Yes, even if it seems boring.</item>
+        <item>Your jaw is probably clenched. Unclench it. Better, right?</item>
+        <item>Your shoulders have crept up to your ears. Send them back down.</item>
+        <item>Inhale slowly through your nose for four counts.</item>
+        <item>Exhale slowly through your mouth for six counts.</item>
+        <item>Five slow breaths. The cat is timing you.</item>
+        <item>Tilt your head back, look at the ceiling, remember it exists.</item>
+        <item>Turn your head left. Then right. Then forward. Well done.</item>
+        <item>Right now is the only moment you actually have.</item>
+        <item>The clock said sit. The cat says move.</item>
+        <item>You came here for one thing. You are now twenty things deep.</item>
+        <item>The feed is infinite. Your attention is not.</item>
+        <item>Every minute scrolling is a tax you pay to the algorithm.</item>
+        <item>That feeling right now? Your brain asking for mercy.</item>
+        <item>The dopamine well is dry. Refill with literally anything else.</item>
+        <item>You are not low on entertainment. You are low on rest.</item>
+        <item>Your eyes are dry. Your neck is stiff. The cat noticed.</item>
+        <item>Take back the next ten minutes. They are yours.</item>
+        <item>The phone is currently winning. Take a point back.</item>
+        <item>Rest is not a reward. It is a requirement.</item>
+        <item>Be as kind to yourself as you would be to a tired friend.</item>
+        <item>You have done enough today. Genuinely.</item>
+        <item>Look away from the screen for sixty seconds. Your eyes will love you.</item>
+        <item>Roll your neck slowly. Yes, like that. Your spine says thanks.</item>
+        <item>Future you, in an hour, is begging present you to stop.</item>
+        <item>Good work today. Now actually stop.</item>
+        <item>Quietly, the cat is proud of you for getting this far.</item>
+        <item>You can absolutely come back to the app. Just not in this minute.</item>
+        <item>The cat will let you back when the timer is done. Not before.</item>
+        <item>The cat does not negotiate. The cat does not bargain.</item>
+        <item>The cat reviewed your scrolling history and the answer is no.</item>
+        <item>One slow blink from a cat is love. Please accept it.</item>
+        <item>The cat\'s decision is final.</item>
+        <item>This is the cat\'s app now. You are a guest.</item>
+        <item>By order of the Honorable Cat, scrolling is suspended.</item>
+        <item>This is a peer-reviewed cat intervention.</item>
+        <item>The cat has seen your screen time and the cat has notes.</item>
+        <item>Cat veto in effect. Try again later.</item>
+        <item>The cat would like a word. The word is stop.</item>
+        <item>The cat sees everything. Including this.</item>
+        <item>Yes, the cat is real. Yes, the cat is serious.</item>
+        <item>Trust the cat. The cat has been around for nine lives.</item>
+        <item>The cat asks: what were you actually looking for?</item>
+        <item>What did you hope to find on the next post?</item>
+        <item>Was the last fifteen minutes of scrolling worth it? Be honest.</item>
+        <item>Did you find what you came here for, or did you forget?</item>
+        <item>Notice how your body feels right now. Just notice.</item>
+        <item>Are you happier than when you opened the app?</item>
+        <item>Is this how you wanted to spend this part of your day?</item>
+        <item>There are other things to do. There are always other things.</item>
+        <item>Something is missing from this moment. Probably not online.</item>
+        <item>Real life has worse graphics but better stories.</item>
+        <item>The sky is doing something right now. You are missing it.</item>
+        <item>People who love you are reachable. The feed is not.</item>
+        <item>That book you bought is judging you from the shelf.</item>
+        <item>Walking is free. Do some.</item>
+        <item>Make a real snack. With your hands. From food.</item>
+        <item>Phone a person. They will be surprised, in a good way.</item>
+        <item>Send a real message. Not a meme. Words. Try it.</item>
+        <item>If you have a pet, hug it. If you don\'t, hug yourself.</item>
+        <item>Boil water. Pour it on a tea bag. Drink it. Old magic.</item>
+        <item>Try doing absolutely nothing for sixty seconds. It feels wild.</item>
+        <item>Sit in a chair like a Victorian person and stare at a wall.</item>
+        <item>Boredom is the gateway to good ideas. Let it in.</item>
+        <item>Resting is not time wasted. It is time invested.</item>
+        <item>You are not lazy. You are overstimulated. Big difference.</item>
+        <item>Being still is a real skill. Practice for a minute.</item>
+        <item>Try existing as a person, not as a viewer, for a moment.</item>
+        <item>Live a little. The cat insists.</item>
+        <item>The internet will continue functioning without your supervision.</item>
+        <item>Every post will still be there in two minutes. Promise.</item>
+        <item>You will not miss the most important post of all time.</item>
+        <item>Nothing in this feed is a real emergency.</item>
+        <item>Seriously. Nothing on the screen needs you right now.</item>
+        <item>The world is, for the most part, still spinning.</item>
+        <item>And if it is ending, the feed is not the right place to find out.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.CatBlock" parent="android:Theme.Material.Light.NoActionBar"/></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-ar\strings.xml" qualifiers="ar"><string name="app_name">CatBlock</string><string name="notif_channel_name">مراقب CatBlock</string><string name="notif_title">CatBlock يراقب</string><string name="notif_text">يراقب وقت تصفّحك.</string><string name="onboarding_subtitle">عندما تتصفّح طويلاً، تظهر قطة عملاقة وتغلق الشاشة حتى تنتهي استراحتك.</string><string name="perm_overlay_title">العرض فوق التطبيقات الأخرى</string><string name="perm_overlay_subtitle">ليظهر القطّ فوق تطبيقات التواصل.</string><string name="perm_usage_title">إذن الوصول إلى الاستخدام</string><string name="perm_usage_subtitle">ليعرف CatBlock أيّ تطبيق تستخدم.</string><string name="continue_button">متابعة</string><string name="next_step">التالي</string><string name="previous_step">السابق</string><string name="got_it">حسناً</string><string name="show_guide">أرني كيف يعمل</string><string name="skip">تخطّي</string><string name="how_step1_title">1. اختر التطبيقات التي تريد حمايتها</string><string name="how_step1_text">فعّل التطبيقات التي تقضي فيها وقتاً طويلاً — Instagram أو TikTok أو X أو YouTube.</string><string name="how_step2_title">2. حدّد حدودك</string><string name="how_step2_text">لكل تطبيق، اختر متى يظهر القطّ وكم تدوم الاستراحة.</string><string name="how_step3_title">3. عش حياتك</string><string name="how_step3_text">يعمل CatBlock في الخلفية. لا حاجة لإبقائه مفتوحاً.</string><string name="how_step4_title">4. يظهر القطّ</string><string name="how_step4_text">عند تجاوز الوقت، تملأ قطّة عملاقة الشاشة وتمنع التمرير.</string><string name="how_step5_title">5. خذ استراحة حقيقية</string><string name="how_step5_text">تمدّد، اشرب الماء، تنفّس، أو انظر من النافذة. القطّة ستغادر.</string><string name="pick_apps_title">اختر التطبيقات التي تريد حمايتها</string><string name="pick_apps_subtitle">فعّل تطبيقاً، ثم اضبط متى تظهر القطّة ومدّة الاستراحة.</string><string name="section_social">تطبيقات تواصل مكتشفة</string><string name="section_all">كل التطبيقات</string><string name="cat_appears_after">تظهر القطّة بعد</string><string name="break_lasts">تدوم الاستراحة</string><string name="minutes_short">%1$d د</string><string name="settings_title">الإعدادات</string><string name="settings_voice_title">صوت القطّة</string><string name="settings_voice_subtitle">اجعل القطّة تقرأ الرسالة بصوت عالٍ بصوت هاتفك المدمج.</string><string name="settings_help_title">كيف يعمل</string><string name="settings_help_subtitle">جولة سريعة في CatBlock.</string><string name="overlay_skip">تخطّي</string><string-array name="overlay_wait_messages">
+        <item>لا يمكنك تخطّي القطّة. فقط انتظر.</item>
+        <item>القطّة هي المسؤولة الآن. اصبر.</item>
+        <item>لا مرور بعد القطّة. خذ نفساً.</item>
+        <item>القطّة لا تقبل الرشاوى.</item>
+        <item>هل تحاول التمرير؟ القطّة تراك.</item>
+        <item>ليس للقطّة زرّ إيقاف. انتظر.</item>
+        <item>هذه القطّة لا تخضع لأحد.</item>
+        <item>أنت ضدّ القطّة. القطّة تربح.</item>
+        <item>القطّة لا تتحرّك. كقطّة حقيقية.</item>
+        <item>المفاوضات أُغلقت. القطّة قالت لا.</item>
+        <item>ستغادر القطّة حين تستعدّ هي.</item>
+        <item>الضغط أقوى لن يسرّع شيئاً.</item>
+        <item>أنت من نصب هذا الفخّ لنفسك. ابقَ فيه.</item>
+        <item>أنت السابق أراد فعلاً أن تنتظر.</item>
+        <item>أنت في الماضي كان حكيماً. ثق به.</item>
+        <item>المؤقّت صادق. البثّ لم يكن.</item>
+        <item>القطّة تفعل هذا من أجلك.</item>
+        <item>الانضباط هو تذكّر أهدافك.</item>
+        <item>تمرّد صغير: نَفَس بطيء.</item>
+        <item>هذه لحظة لحاق الدماغ.</item>
+        <item>دع عينيك ترتاحان على شيء بعيد.</item>
+        <item>اضغط القطّة كما تشاء. هي تستمتع.</item>
+        <item>القطّة ليست زرّاً.</item>
+        <item>القطّة هي رئيسة هذه الشاشة الآن.</item>
+        <item>جرّب الرمش ببطء خمس مرّات.</item>
+        <item>اشرب رشفة ماء إن استطعت.</item>
+        <item>تثاءب إن احتجت. القطّة لا تمانع.</item>
+        <item>القطّة تظنّ أنّك تقوم بعمل رائع.</item>
+        <item>القطّة تشجّعك بصمت.</item>
+        <item>القطّة تؤمن بك.</item>
+    </string-array><string-array name="break_messages">
+        <item>القطّة تقول إنّك تتصفّح منذ وقت طويل جدّاً.</item>
+        <item>ارفع عينيك. العالم أكبر من هذه الشاشة.</item>
+        <item>إبهامك قطع كيلومترات كافية لهذا اليوم.</item>
+        <item>البثّ سيبقى. أمّا أنت فلن تبقى للأبد.</item>
+        <item>القطّة ترى ما تفعل. القطّة قلقة عليك.</item>
+        <item>أوقف آلة الدوبامين دقيقة واحدة.</item>
+        <item>قف، افتح كتفيك، خذ نفساً عميقاً.</item>
+        <item>انظر من النافذة. حتى لو بدا مملًّا.</item>
+        <item>اشرب الماء. جسدك معظمه ماء وهو متعب الآن.</item>
+        <item>ضع الهاتف. على الطاولة، لا فوقك.</item>
+        <item>فكّك مشدود؟ ارخِه. أفضل، أليس كذلك؟</item>
+        <item>شهيق من الأنف لأربع، زفير من الفم لست.</item>
+        <item>خمسة أنفاس بطيئة. القطّة تعدّ.</item>
+        <item>القطّة لا تتفاوض. القطّة لا تساوم.</item>
+        <item>البثّ لا نهاية له. انتباهك له نهاية.</item>
+        <item>ما الذي كنت تبحث عنه فعلاً؟ هل وجدته؟</item>
+        <item>هل أنت أسعد ممّا كنت قبل فتح التطبيق؟</item>
+        <item>الحياة الحقيقية رسومها أسوأ لكن قصصها أفضل.</item>
+        <item>اتّصل بأحد. مكالمة حقيقيّة. سيتفاجأ.</item>
+        <item>اصنع شاياً. السحر القديم ما زال يعمل.</item>
+        <item>الملل بوّابة الأفكار الجيّدة. أدخله.</item>
+        <item>لست كسولاً. أنت مفرَط التحفيز. فرق كبير.</item>
+        <item>السكون مهارة حقيقية. جرّب دقيقة واحدة.</item>
+        <item>ستستمرّ الإنترنت بلا إشرافك.</item>
+        <item>لن تفوّت أهمّ منشور في العالم.</item>
+        <item>القطّة قالت. انتهى النقاش.</item>
+        <item>أنت المتعب، لا البث. البث لا يتعب.</item>
+        <item>الآن الهاتف يربح. خذ نقطة عائدة.</item>
+        <item>الراحة ليست مكافأة. الراحة فرض.</item>
+        <item>أنت في الغد تشكر أنت في الآن لأنّك توقّفت.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-de\strings.xml" qualifiers="de"><string name="app_name">CatBlock</string><string name="notif_channel_name">CatBlock-Überwachung</string><string name="notif_title">CatBlock passt auf</string><string name="notif_text">Behält deine Scroll-Zeit im Auge.</string><string name="onboarding_subtitle">Wenn du zu lange scrollst, blockiert eine riesige Katze den Bildschirm, bis deine Pause vorbei ist.</string><string name="perm_overlay_title">Über anderen Apps anzeigen</string><string name="perm_overlay_subtitle">Damit die Katze über deinen Social-Apps erscheinen kann.</string><string name="perm_usage_title">Nutzungszugriff</string><string name="perm_usage_subtitle">Damit CatBlock weiß, welche App du gerade nutzt.</string><string name="continue_button">Weiter</string><string name="next_step">Weiter</string><string name="previous_step">Zurück</string><string name="got_it">Verstanden</string><string name="show_guide">Zeig mir, wie es funktioniert</string><string name="skip">Überspringen</string><string name="how_step1_title">1. Wähle Apps zum Schützen</string><string name="how_step1_text">Aktiviere Apps, in denen du zu viel Zeit verbringst – Instagram, TikTok, X, YouTube.</string><string name="how_step2_title">2. Lege deine Grenzen fest</string><string name="how_step2_text">Lege für jede App fest, wann die Katze erscheint und wie lange die Pause dauert.</string><string name="how_step3_title">3. Lebe dein Leben</string><string name="how_step3_text">CatBlock läuft im Hintergrund. Du musst es nicht offen lassen.</string><string name="how_step4_title">4. Die Katze erscheint</string><string name="how_step4_text">Wenn du dein Limit überziehst, füllt eine riesige Katze den Bildschirm und blockiert das Scrollen.</string><string name="how_step5_title">5. Mach eine echte Pause</string><string name="how_step5_text">Streck dich, trink Wasser, atme oder schau aus dem Fenster. Die Katze geht dann.</string><string name="pick_apps_title">Wähle Apps zum Schützen</string><string name="pick_apps_subtitle">Aktiviere eine App und stelle ein, wann die Katze erscheint und wie lange die Pause dauert.</string><string name="section_social">Erkannte Social-Apps</string><string name="section_all">Alle Apps</string><string name="cat_appears_after">Katze erscheint nach</string><string name="break_lasts">Pause dauert</string><string name="minutes_short">%1$d Min.</string><string name="settings_title">Einstellungen</string><string name="settings_voice_title">Katzenstimme</string><string name="settings_voice_subtitle">Die Katze liest die Nachricht laut mit der integrierten Stimme deines Telefons vor.</string><string name="settings_help_title">So funktioniert es</string><string name="settings_help_subtitle">Ein kurzer Rundgang durch CatBlock.</string><string name="overlay_skip">Überspringen</string><string-array name="overlay_wait_messages">
+        <item>Die Katze lässt sich nicht überspringen. Warte einfach.</item>
+        <item>Die Katze hat jetzt das Sagen. Halt durch.</item>
+        <item>Kein Weg an der Katze vorbei. Atme.</item>
+        <item>Die Katze nimmt keine Bestechung an.</item>
+        <item>Versuchst du zu scrollen? Die Katze sieht es.</item>
+        <item>Die Katze hat keinen Aus-Knopf. Warte.</item>
+        <item>Diese Katze hört auf niemanden.</item>
+        <item>Du gegen die Katze. Die Katze gewinnt.</item>
+        <item>Die Katze bewegt sich nicht. Wie eine echte Katze.</item>
+        <item>Verhandlung geschlossen. Die Katze sagt nein.</item>
+        <item>Die Katze geht, wenn sie bereit ist.</item>
+        <item>Stärker drücken hilft nicht.</item>
+        <item>Du hast dir diese Falle gestellt. Bleib drin.</item>
+        <item>Das Du von früher wollte, dass du wartest.</item>
+        <item>Vergangenheits-Du war weise. Vertrau ihm.</item>
+        <item>Der Timer ist ehrlich. Der Feed war es nicht.</item>
+        <item>Die Katze macht das zu deinem Besten.</item>
+        <item>Disziplin ist nur Erinnerung an deine Ziele.</item>
+        <item>Kleine Rebellion: ein langsamer Atemzug.</item>
+        <item>Jetzt holt das Gehirn auf.</item>
+        <item>Lass die Augen auf etwas Weitem ruhen.</item>
+        <item>Klopf die Katze, soviel du willst. Sie mag es.</item>
+        <item>Die Katze ist kein Knopf.</item>
+        <item>Die Katze ist der Boss dieses Bildschirms.</item>
+        <item>Versuche, fünfmal langsam zu blinzeln.</item>
+        <item>Trink einen Schluck Wasser, wenn du kannst.</item>
+        <item>Gähne ruhig. Die Katze stört es nicht.</item>
+        <item>Die Katze findet, du machst das super.</item>
+        <item>Die Katze drückt dir leise die Daumen.</item>
+        <item>Die Katze glaubt an dich.</item>
+    </string-array><string-array name="break_messages">
+        <item>Die Katze sagt, du scrollst schon zu lange.</item>
+        <item>Schau hoch. Die Welt ist größer als dieser Bildschirm.</item>
+        <item>Dein Daumen hat heute genug Kilometer gemacht.</item>
+        <item>Der Feed bleibt da. Du nicht für immer.</item>
+        <item>Die Katze sieht, was du tust. Die Katze macht sich Sorgen.</item>
+        <item>Drück mal Pause auf der Dopamin-Maschine.</item>
+        <item>Steh auf, zieh die Schultern zurück, atme tief.</item>
+        <item>Schau aus dem Fenster. Auch wenn es langweilig wirkt.</item>
+        <item>Trink Wasser. Dein Körper besteht meist aus Wasser und ist müde.</item>
+        <item>Leg das Handy weg. Auf den Tisch, nicht auf dich.</item>
+        <item>Kiefer angespannt? Lockern. Besser, oder?</item>
+        <item>Vier Sekunden durch die Nase ein, sechs durch den Mund aus.</item>
+        <item>Fünf langsame Atemzüge. Die Katze zählt mit.</item>
+        <item>Die Katze verhandelt nicht. Die Katze lässt nicht mit sich reden.</item>
+        <item>Der Feed ist unendlich. Deine Aufmerksamkeit nicht.</item>
+        <item>Was hast du eigentlich gesucht? Hast du es gefunden?</item>
+        <item>Bist du glücklicher als beim Öffnen der App?</item>
+        <item>Das echte Leben hat schlechtere Grafik, aber bessere Geschichten.</item>
+        <item>Ruf jemanden an. Echt anrufen. Wird überraschen.</item>
+        <item>Mach dir Tee. Alte Magie funktioniert noch.</item>
+        <item>Langeweile ist das Tor zu guten Ideen. Lass sie rein.</item>
+        <item>Du bist nicht faul. Du bist überreizt. Großer Unterschied.</item>
+        <item>Stillsitzen ist eine echte Fähigkeit. Eine Minute üben.</item>
+        <item>Das Internet läuft auch ohne dich weiter.</item>
+        <item>Du verpasst nicht den wichtigsten Post der Welt.</item>
+        <item>Die Katze hat gesprochen. Thema beendet.</item>
+        <item>Du bist müde, der Feed nicht. Der Feed wird nie müde.</item>
+        <item>Gerade gewinnt das Handy. Hol einen Punkt zurück.</item>
+        <item>Pause ist keine Belohnung. Pause ist Pflicht.</item>
+        <item>Das Ich von morgen dankt dem Ich von jetzt fürs Aufhören.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-es\strings.xml" qualifiers="es"><string name="app_name">CatBlock</string><string name="notif_channel_name">Monitor de CatBlock</string><string name="notif_title">CatBlock está vigilando</string><string name="notif_text">Vigilando tu tiempo en pantalla.</string><string name="onboarding_subtitle">Cuando deslizas demasiado, un gato gigante bloquea la pantalla hasta que termine tu pausa.</string><string name="perm_overlay_title">Mostrar sobre otras apps</string><string name="perm_overlay_subtitle">Para que el gato aparezca encima de tus apps sociales.</string><string name="perm_usage_title">Acceso de uso</string><string name="perm_usage_subtitle">Para que CatBlock sepa qué app estás usando.</string><string name="continue_button">Continuar</string><string name="next_step">Siguiente</string><string name="previous_step">Atrás</string><string name="got_it">Entendido</string><string name="show_guide">Muéstrame cómo funciona</string><string name="skip">Saltar</string><string name="how_step1_title">1. Elige las apps a vigilar</string><string name="how_step1_text">Activa las apps en las que pasas demasiado tiempo: Instagram, TikTok, X, YouTube...</string><string name="how_step2_title">2. Establece tus límites</string><string name="how_step2_text">Para cada app, decide tras cuánto aparece el gato y cuánto dura la pausa.</string><string name="how_step3_title">3. Sigue con tu vida</string><string name="how_step3_text">CatBlock funciona en segundo plano. No necesitas tenerlo abierto.</string><string name="how_step4_title">4. Aparece el gato</string><string name="how_step4_text">Cuando pasas el tiempo, un gato gigante llena la pantalla y no te deja deslizar.</string><string name="how_step5_title">5. Tómate una pausa real</string><string name="how_step5_text">Estírate, bebe agua, respira o simplemente mira por la ventana. El gato se irá al final.</string><string name="pick_apps_title">Elige las apps a vigilar</string><string name="pick_apps_subtitle">Activa una app y luego ajusta cuándo aparece el gato y cuánto dura la pausa.</string><string name="section_social">Apps sociales detectadas</string><string name="section_all">Todas las apps</string><string name="cat_appears_after">El gato aparece tras</string><string name="break_lasts">La pausa dura</string><string name="minutes_short">%1$d min</string><string name="settings_title">Ajustes</string><string name="settings_voice_title">Voz del gato</string><string name="settings_voice_subtitle">Que el gato lea el mensaje en voz alta con la voz integrada del teléfono.</string><string name="settings_help_title">Cómo funciona</string><string name="settings_help_subtitle">Un recorrido rápido por CatBlock.</string><string name="overlay_skip">Saltar</string><string-array name="overlay_wait_messages">
+        <item>No puedes saltarte al gato. Solo espera.</item>
+        <item>El gato manda ahora. Aguanta.</item>
+        <item>No hay paso por el gato. Respira.</item>
+        <item>El gato no acepta sobornos.</item>
+        <item>¿Intentando deslizar? El gato te ve.</item>
+        <item>El gato no tiene botón de apagado. Espera.</item>
+        <item>Este gato no responde a nadie.</item>
+        <item>Tú contra el gato. El gato gana.</item>
+        <item>El gato no se mueve. Como un gato de verdad.</item>
+        <item>La negociación está cerrada. El gato dice no.</item>
+        <item>El gato se irá cuando esté listo.</item>
+        <item>Apretar más fuerte no acelera nada.</item>
+        <item>Tú mismo te tendiste esta trampa. Quédate en ella.</item>
+        <item>El tú de antes quería que el tú de ahora esperara.</item>
+        <item>Tu yo del pasado fue sabio. Confía en él.</item>
+        <item>El temporizador es honesto. El feed no lo era.</item>
+        <item>El gato hace esto por tu bien.</item>
+        <item>Disciplina es solo recordar tus metas.</item>
+        <item>Pequeñas rebeliones: una respiración lenta.</item>
+        <item>Este es el momento en que el cerebro se recupera.</item>
+        <item>Deja descansar la vista en algo lejano.</item>
+        <item>Toca al gato cuanto quieras. Le gusta.</item>
+        <item>El gato no es un botón.</item>
+        <item>El gato es ahora el jefe de esta pantalla.</item>
+        <item>Prueba parpadear cinco veces despacio.</item>
+        <item>Bebe un sorbo de agua si puedes.</item>
+        <item>Bosteza si lo necesitas. Al gato no le importa.</item>
+        <item>El gato cree que lo estás haciendo genial.</item>
+        <item>El gato te apoya en silencio.</item>
+        <item>El gato confía en ti.</item>
+    </string-array><string-array name="break_messages">
+        <item>El gato dice que llevas demasiado tiempo deslizando.</item>
+        <item>Levanta la mirada. El mundo es más grande que esta pantalla.</item>
+        <item>Tu pulgar ya hizo suficientes kilómetros por hoy.</item>
+        <item>El feed seguirá ahí. Tú no, para siempre.</item>
+        <item>El gato ve lo que haces. El gato está preocupado.</item>
+        <item>Pon en pausa la máquina de dopamina por un minuto.</item>
+        <item>Levántate, estira los hombros, respira profundo.</item>
+        <item>Mira por la ventana. Aunque parezca aburrido.</item>
+        <item>Bebe agua. Tu cuerpo es casi todo agua y ahora mismo está cansado.</item>
+        <item>Suelta el teléfono. En la mesa, no encima de ti.</item>
+        <item>¿Notas la mandíbula apretada? Suéltala. Mejor, ¿verdad?</item>
+        <item>Inhala cuatro segundos por la nariz, exhala seis por la boca.</item>
+        <item>Cinco respiraciones lentas. El gato te está cronometrando.</item>
+        <item>El gato no negocia. El gato no acepta sobornos.</item>
+        <item>El feed es infinito. Tu atención no.</item>
+        <item>¿Qué buscabas en realidad? ¿Lo encontraste?</item>
+        <item>¿Estás más feliz que cuando abriste la app?</item>
+        <item>La vida real tiene peores gráficos pero mejores historias.</item>
+        <item>Llama a alguien. De verdad, una llamada. Se sorprenderán.</item>
+        <item>Hazte un té. La magia antigua todavía funciona.</item>
+        <item>El aburrimiento es la puerta a las buenas ideas. Déjalo entrar.</item>
+        <item>No eres flojo. Estás sobreestimulado. Es muy distinto.</item>
+        <item>Estar quieto es una habilidad. Practica un minuto.</item>
+        <item>Internet seguirá funcionando sin tu supervisión.</item>
+        <item>No te vas a perder la publicación más importante del mundo.</item>
+        <item>El gato habló. Tema cerrado.</item>
+        <item>Estás cansado, el feed no. El feed nunca se cansa.</item>
+        <item>Ahora mismo el teléfono va ganando. Recupera un punto.</item>
+        <item>Descansar no es un premio. Es un requisito.</item>
+        <item>El tú de mañana perdona al tú de hoy por parar ahora.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-fa\strings.xml" qualifiers="fa"><string name="app_name">CatBlock</string><string name="notif_channel_name">نظارت CatBlock</string><string name="notif_title">CatBlock در حال پایش است</string><string name="notif_text">زمان پیمایش شما را زیر نظر دارد.</string><string name="onboarding_subtitle">وقتی زیاد اسکرول می‌کنی، گربه‌ای بزرگ صفحه را می‌گیرد تا استراحتت تمام شود.</string><string name="perm_overlay_title">نمایش روی برنامه‌های دیگر</string><string name="perm_overlay_subtitle">تا گربه روی برنامه‌های اجتماعی ظاهر شود.</string><string name="perm_usage_title">دسترسی به آمار استفاده</string><string name="perm_usage_subtitle">تا CatBlock بداند از کدام برنامه استفاده می‌کنی.</string><string name="continue_button">ادامه</string><string name="next_step">بعدی</string><string name="previous_step">بازگشت</string><string name="got_it">فهمیدم</string><string name="show_guide">نشانم بده چطور کار می‌کند</string><string name="skip">رد شدن</string><string name="how_step1_title">1. برنامه‌ها را انتخاب کن</string><string name="how_step1_text">برنامه‌هایی که زیاد استفاده می‌کنی را روشن کن — اینستاگرام، تیک‌تاک، X، یوتیوب.</string><string name="how_step2_title">2. حد خود را تعیین کن</string><string name="how_step2_text">برای هر برنامه، زمان ظهور گربه و مدت استراحت را تعیین کن.</string><string name="how_step3_title">3. به زندگی‌ات ادامه بده</string><string name="how_step3_text">CatBlock در پس‌زمینه کار می‌کند. نیازی نیست باز نگه داری.</string><string name="how_step4_title">4. گربه ظاهر می‌شود</string><string name="how_step4_text">وقتی از وقت بگذری، گربه‌ای بزرگ صفحه را پر می‌کند و اسکرول را متوقف می‌کند.</string><string name="how_step5_title">5. واقعاً استراحت کن</string><string name="how_step5_text">کش‌و‌قوس برو، آب بخور، نفس بکش یا به بیرون نگاه کن. گربه می‌رود.</string><string name="pick_apps_title">برنامه‌ها را انتخاب کن</string><string name="pick_apps_subtitle">برنامه را روشن کن و زمان ظهور گربه و مدت استراحت را تعیین کن.</string><string name="section_social">برنامه‌های اجتماعی شناسایی‌شده</string><string name="section_all">همه برنامه‌ها</string><string name="cat_appears_after">گربه ظاهر می‌شود پس از</string><string name="break_lasts">مدت استراحت</string><string name="minutes_short">%1$d دقیقه</string><string name="settings_title">تنظیمات</string><string name="settings_voice_title">صدای گربه</string><string name="settings_voice_subtitle">بگذار گربه پیام را با صدای داخلی گوشی‌ات بلند بخواند.</string><string name="settings_help_title">چگونه کار می‌کند</string><string name="settings_help_subtitle">تور کوتاه CatBlock.</string><string name="overlay_skip">رد شدن</string><string-array name="overlay_wait_messages">
+        <item>نمی‌توانی گربه را رد کنی. فقط صبر کن.</item>
+        <item>الآن گربه رئیس است. دوام بیار.</item>
+        <item>از گربه نمی‌توانی رد شوی. نفس بکش.</item>
+        <item>گربه رشوه قبول نمی‌کند.</item>
+        <item>می‌خواهی اسکرول کنی؟ گربه می‌بیند.</item>
+        <item>گربه دکمه‌ی خاموش ندارد. صبر کن.</item>
+        <item>این گربه به کسی پاسخگو نیست.</item>
+        <item>تو در برابر گربه. گربه برنده می‌شود.</item>
+        <item>گربه تکان نمی‌خورد. مثل یک گربه‌ی واقعی.</item>
+        <item>مذاکره بسته شد. گربه گفت نه.</item>
+        <item>گربه وقتی آماده شد می‌رود.</item>
+        <item>فشار بیشتر سرعتش نمی‌دهد.</item>
+        <item>این تله را خودت برای خودت گذاشتی. بنشین.</item>
+        <item>تو در گذشته واقعاً می‌خواستی الآن صبر کنی.</item>
+        <item>تو در گذشته خردمند بودی. بهش اعتماد کن.</item>
+        <item>تایمر صادق است. فید نبود.</item>
+        <item>گربه این کار را برای خوبی تو می‌کند.</item>
+        <item>نظم یعنی به‌یادآوردن اهدافت.</item>
+        <item>شورش کوچک: یک نفس آرام.</item>
+        <item>این لحظه‌ای است که مغز می‌رسد.</item>
+        <item>بگذار چشم‌هایت روی چیزی دور آرام بگیرند.</item>
+        <item>هرچقدر می‌خواهی گربه را بزن. خوشش می‌آید.</item>
+        <item>گربه دکمه نیست.</item>
+        <item>حالا رئیس این صفحه گربه است.</item>
+        <item>آرام پنج بار پلک بزن.</item>
+        <item>اگر می‌رسد یک جرعه آب بنوش.</item>
+        <item>اگر خواستی خمیازه بکش. گربه ناراحت نمی‌شود.</item>
+        <item>گربه فکر می‌کند داری عالی پیش می‌روی.</item>
+        <item>گربه در سکوت طرف توست.</item>
+        <item>گربه به تو ایمان دارد.</item>
+    </string-array><string-array name="break_messages">
+        <item>گربه می‌گوید زیادی اسکرول کرده‌ای.</item>
+        <item>نگاهت را بالا بیاور. دنیا از این صفحه بزرگ‌تر است.</item>
+        <item>انگشت شصتت امروز به اندازه کافی کیلومتر زده.</item>
+        <item>فید همان‌جا می‌ماند. تو برای همیشه نمی‌مانی.</item>
+        <item>گربه می‌بیند چه می‌کنی. گربه نگران توست.</item>
+        <item>یک دقیقه دستگاه دوپامین را خاموش کن.</item>
+        <item>بایست، شانه‌هایت را باز کن، نفس عمیق بکش.</item>
+        <item>از پنجره بیرون را نگاه کن. حتی اگر کسالت‌بار به نظر برسد.</item>
+        <item>آب بنوش. بدنت بیشتر آب است و الآن خسته است.</item>
+        <item>گوشی را بگذار. روی میز، نه روی خودت.</item>
+        <item>فکّت گرفته؟ رهایش کن. بهتر شد، نه؟</item>
+        <item>از بینی چهار شماره دم، از دهان شش شماره بازدم.</item>
+        <item>پنج نفس آرام. گربه می‌شمارد.</item>
+        <item>گربه چانه نمی‌زند. گربه معامله نمی‌کند.</item>
+        <item>فید بی‌پایان است. تمرکز تو نیست.</item>
+        <item>واقعاً دنبال چه می‌گشتی؟ پیدایش کردی؟</item>
+        <item>از وقتی برنامه را باز کردی، خوشحال‌تری؟</item>
+        <item>زندگی واقعی گرافیکش بد است اما داستان‌هایش بهتر.</item>
+        <item>به کسی زنگ بزن. تماس واقعی. غافلگیر می‌شود.</item>
+        <item>یک چای دم کن. جادوی قدیمی هنوز کار می‌کند.</item>
+        <item>ملال در بزرگ‌ترین درِ ایده‌های خوب است. بازش کن.</item>
+        <item>تنبل نیستی. بیش‌از‌حد محرک گرفته‌ای. فرق دارد.</item>
+        <item>ساکن نشستن یک مهارت واقعی است. یک دقیقه امتحان کن.</item>
+        <item>اینترنت بدون نظارت تو هم کار می‌کند.</item>
+        <item>مهم‌ترین پست تاریخ را از دست نمی‌دهی.</item>
+        <item>گربه گفته. بحث تمام.</item>
+        <item>تو خسته‌ای، نه فید. فید هرگز خسته نمی‌شود.</item>
+        <item>الآن گوشی برنده است. یک امتیاز پس بگیر.</item>
+        <item>استراحت پاداش نیست. ضرورت است.</item>
+        <item>تو فردا از تو الآن تشکر می‌کند که ایستادی.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-fr\strings.xml" qualifiers="fr"><string name="app_name">CatBlock</string><string name="notif_channel_name">Surveillance CatBlock</string><string name="notif_title">CatBlock veille</string><string name="notif_text">Surveille ton temps de défilement.</string><string name="onboarding_subtitle">Quand tu fais défiler trop longtemps, un chat géant bloque l\'écran jusqu\'à la fin de ta pause.</string><string name="perm_overlay_title">Afficher par-dessus d\'autres apps</string><string name="perm_overlay_subtitle">Pour que le chat apparaisse par-dessus tes apps sociales.</string><string name="perm_usage_title">Accès aux statistiques d\'utilisation</string><string name="perm_usage_subtitle">Pour que CatBlock sache quelle app tu utilises.</string><string name="continue_button">Continuer</string><string name="next_step">Suivant</string><string name="previous_step">Retour</string><string name="got_it">Compris</string><string name="show_guide">Montre-moi comment ça marche</string><string name="skip">Passer</string><string name="how_step1_title">1. Choisis les apps à surveiller</string><string name="how_step1_text">Active les apps où tu passes trop de temps — Instagram, TikTok, X, YouTube.</string><string name="how_step2_title">2. Définis tes limites</string><string name="how_step2_text">Pour chaque app, choisis après combien de temps le chat apparaît et la durée de la pause.</string><string name="how_step3_title">3. Vis ta vie</string><string name="how_step3_text">CatBlock fonctionne en arrière-plan. Pas besoin de le garder ouvert.</string><string name="how_step4_title">4. Le chat apparaît</string><string name="how_step4_text">Quand tu dépasses ta limite, un chat géant remplit l\'écran et bloque le défilement.</string><string name="how_step5_title">5. Prends une vraie pause</string><string name="how_step5_text">Étire-toi, bois de l\'eau, respire ou regarde par la fenêtre. Le chat partira.</string><string name="pick_apps_title">Choisis les apps à surveiller</string><string name="pick_apps_subtitle">Active une app, puis règle l\'apparition du chat et la durée de la pause.</string><string name="section_social">Apps sociales détectées</string><string name="section_all">Toutes les apps</string><string name="cat_appears_after">Le chat apparaît après</string><string name="break_lasts">La pause dure</string><string name="minutes_short">%1$d min</string><string name="settings_title">Paramètres</string><string name="settings_voice_title">Voix du chat</string><string name="settings_voice_subtitle">Le chat lit le message à voix haute avec la voix intégrée de ton téléphone.</string><string name="settings_help_title">Comment ça marche</string><string name="settings_help_subtitle">Une visite rapide de CatBlock.</string><string name="overlay_skip">Passer</string><string-array name="overlay_wait_messages">
+        <item>Tu ne peux pas zapper le chat. Attends.</item>
+        <item>Le chat commande maintenant. Tiens bon.</item>
+        <item>Pas de passage au-delà du chat. Respire.</item>
+        <item>Le chat n\'accepte pas les pots-de-vin.</item>
+        <item>Tu essaies de scroller ? Le chat voit tout.</item>
+        <item>Le chat n\'a pas de bouton off. Attends.</item>
+        <item>Ce chat ne répond à personne.</item>
+        <item>Toi contre le chat. Le chat gagne.</item>
+        <item>Le chat ne bouge pas. Comme un vrai chat.</item>
+        <item>Négociation fermée. Le chat dit non.</item>
+        <item>Le chat partira quand il sera prêt.</item>
+        <item>Appuyer plus fort n\'accélère rien.</item>
+        <item>Tu t\'es tendu ce piège. Reste dedans.</item>
+        <item>Le toi d\'avant voulait vraiment que tu attendes.</item>
+        <item>Le toi du passé était sage. Fais-lui confiance.</item>
+        <item>Le minuteur est honnête. Le fil ne l\'était pas.</item>
+        <item>Le chat fait ça pour ton bien.</item>
+        <item>La discipline c\'est se souvenir de ses buts.</item>
+        <item>Petites rébellions : une respiration lente.</item>
+        <item>C\'est le moment où le cerveau rattrape.</item>
+        <item>Pose ton regard sur quelque chose au loin.</item>
+        <item>Touche le chat tant que tu veux. Il aime ça.</item>
+        <item>Le chat n\'est pas un bouton.</item>
+        <item>Le chat est le patron de cet écran maintenant.</item>
+        <item>Essaie de cligner lentement cinq fois.</item>
+        <item>Bois une gorgée d\'eau si tu peux.</item>
+        <item>Bâille si tu veux. Le chat s\'en moque.</item>
+        <item>Le chat trouve que tu te débrouilles très bien.</item>
+        <item>Le chat te soutient en silence.</item>
+        <item>Le chat croit en toi.</item>
+    </string-array><string-array name="break_messages">
+        <item>Le chat dit que tu fais défiler depuis trop longtemps.</item>
+        <item>Lève les yeux. Le monde est plus grand que cet écran.</item>
+        <item>Ton pouce a fait assez de kilomètres pour aujourd\'hui.</item>
+        <item>Le fil sera toujours là. Pas toi, pour toujours.</item>
+        <item>Le chat voit ce que tu fais. Le chat s\'inquiète.</item>
+        <item>Mets sur pause la machine à dopamine pour une minute.</item>
+        <item>Lève-toi, écarte les épaules, respire profondément.</item>
+        <item>Regarde par la fenêtre. Même si ça a l\'air ennuyeux.</item>
+        <item>Bois de l\'eau. Ton corps est surtout fait d\'eau et fatigué.</item>
+        <item>Pose ton téléphone. Sur la table, pas sur toi.</item>
+        <item>Mâchoire serrée ? Relâche. Mieux, non ?</item>
+        <item>Inspire par le nez en quatre temps, expire par la bouche en six.</item>
+        <item>Cinq respirations lentes. Le chat compte.</item>
+        <item>Le chat ne négocie pas. Le chat ne marchande pas.</item>
+        <item>Le fil est infini. Ton attention non.</item>
+        <item>Tu cherchais quoi vraiment ? Tu l\'as trouvé ?</item>
+        <item>Es-tu plus heureux qu\'avant d\'ouvrir l\'app ?</item>
+        <item>La vraie vie a de moins beaux graphismes mais de meilleures histoires.</item>
+        <item>Appelle quelqu\'un. Un vrai appel. Ça surprendra.</item>
+        <item>Fais-toi un thé. La vieille magie marche encore.</item>
+        <item>L\'ennui est la porte des bonnes idées. Laisse-le entrer.</item>
+        <item>Tu n\'es pas paresseux. Tu es surstimulé. C\'est très différent.</item>
+        <item>Rester immobile est une vraie compétence. Une minute, essaie.</item>
+        <item>Internet continuera sans ta supervision.</item>
+        <item>Tu ne rateras pas le post le plus important du monde.</item>
+        <item>Le chat a parlé. Sujet clos.</item>
+        <item>Tu es fatigué, pas le fil. Le fil ne fatigue jamais.</item>
+        <item>Là, le téléphone gagne. Reprends un point.</item>
+        <item>Le repos n\'est pas une récompense. C\'est une nécessité.</item>
+        <item>Le toi de demain te remercie d\'arrêter maintenant.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-hi\strings.xml" qualifiers="hi"><string name="app_name">CatBlock</string><string name="notif_channel_name">CatBlock मॉनिटर</string><string name="notif_title">CatBlock नज़र रख रहा है</string><string name="notif_text">आपके स्क्रॉल समय पर नज़र है।</string><string name="onboarding_subtitle">जब आप बहुत देर तक स्क्रॉल करते हैं, एक विशाल बिल्ली स्क्रीन को ब्लॉक कर देती है जब तक ब्रेक खत्म न हो।</string><string name="perm_overlay_title">अन्य ऐप्स के ऊपर दिखाएँ</string><string name="perm_overlay_subtitle">ताकि बिल्ली आपकी सोशल ऐप्स के ऊपर दिखाई दे।</string><string name="perm_usage_title">उपयोग एक्सेस</string><string name="perm_usage_subtitle">ताकि CatBlock जान सके आप कौन-सी ऐप इस्तेमाल कर रहे हैं।</string><string name="continue_button">जारी रखें</string><string name="next_step">आगे</string><string name="previous_step">पीछे</string><string name="got_it">समझ गया</string><string name="show_guide">बताओ ये कैसे काम करता है</string><string name="skip">छोड़ें</string><string name="how_step1_title">1. ऐप्स चुनें जिन्हें कंट्रोल करना है</string><string name="how_step1_text">उन ऐप्स को ऑन करें जिनमें आप ज़्यादा समय बिताते हैं — Instagram, TikTok, X, YouTube।</string><string name="how_step2_title">2. अपनी सीमा तय करें</string><string name="how_step2_text">हर ऐप के लिए तय करें कि बिल्ली कब आए और ब्रेक कितना लंबा हो।</string><string name="how_step3_title">3. अपनी ज़िंदगी जीते रहें</string><string name="how_step3_text">CatBlock पीछे चलता है। इसे खुला रखने की ज़रूरत नहीं।</string><string name="how_step4_title">4. बिल्ली आ जाती है</string><string name="how_step4_text">समय पार होने पर एक बड़ी बिल्ली स्क्रीन भर देती है और स्क्रॉल रोक देती है।</string><string name="how_step5_title">5. सच में ब्रेक लें</string><string name="how_step5_text">स्ट्रेच करें, पानी पिएं, सांस लें या खिड़की से बाहर देखें। बिल्ली खुद चली जाएगी।</string><string name="pick_apps_title">ऐप्स चुनें जिन्हें कंट्रोल करना है</string><string name="pick_apps_subtitle">एक ऐप ऑन करें, फिर तय करें कि बिल्ली कब आए और ब्रेक कितना लंबा हो।</string><string name="section_social">मिले सोशल ऐप्स</string><string name="section_all">सभी ऐप्स</string><string name="cat_appears_after">बिल्ली आती है</string><string name="break_lasts">ब्रेक की अवधि</string><string name="minutes_short">%1$d मिनट</string><string name="settings_title">सेटिंग्स</string><string name="settings_voice_title">बिल्ली की आवाज़</string><string name="settings_voice_subtitle">बिल्ली संदेश को आपके फ़ोन की बिल्ट-इन आवाज़ में बोलकर सुनाए।</string><string name="settings_help_title">यह कैसे काम करता है</string><string name="settings_help_subtitle">CatBlock की तेज़ झलक।</string><string name="overlay_skip">छोड़ें</string><string-array name="overlay_wait_messages">
+        <item>बिल्ली को छोड़ नहीं सकते। बस इंतज़ार करें।</item>
+        <item>अभी बिल्ली मालिक है। डटे रहें।</item>
+        <item>बिल्ली से आगे नहीं जा सकते। सांस लें।</item>
+        <item>बिल्ली रिश्वत नहीं लेती।</item>
+        <item>स्क्रॉल करने की कोशिश? बिल्ली देख रही है।</item>
+        <item>बिल्ली का ऑफ़ बटन नहीं है। रुकें।</item>
+        <item>यह बिल्ली किसी की नहीं सुनती।</item>
+        <item>आप बनाम बिल्ली। बिल्ली जीत रही है।</item>
+        <item>बिल्ली नहीं हिलती। असली बिल्ली की तरह।</item>
+        <item>बातचीत बंद। बिल्ली ने ना कहा।</item>
+        <item>बिल्ली तब जाएगी जब वह तैयार होगी।</item>
+        <item>ज़ोर से दबाने से तेज़ नहीं होगा।</item>
+        <item>आपने ये जाल खुद बिछाया। उसमें बैठें।</item>
+        <item>पुराने आप वाकई चाहते थे कि अभी आप रुकें।</item>
+        <item>पिछले आप समझदार थे। उन पर भरोसा करें।</item>
+        <item>टाइमर ईमानदार है। फ़ीड नहीं था।</item>
+        <item>बिल्ली ये आपके भले के लिए कर रही है।</item>
+        <item>अनुशासन बस लक्ष्यों को याद रखना है।</item>
+        <item>छोटी बग़ावत: एक धीमी सांस।</item>
+        <item>यही पल है जब दिमाग पकड़ता है।</item>
+        <item>नज़रें किसी दूर की चीज़ पर टिकाएं।</item>
+        <item>बिल्ली को जितना चाहो छुओ। उसे पसंद है।</item>
+        <item>बिल्ली बटन नहीं है।</item>
+        <item>अभी इस स्क्रीन की बॉस बिल्ली है।</item>
+        <item>धीरे से पाँच बार पलकें झपकाएँ।</item>
+        <item>हो सके तो एक घूंट पानी पिएं।</item>
+        <item>जम्हाई लेनी हो तो लें। बिल्ली को परवाह नहीं।</item>
+        <item>बिल्ली को लगता है आप बढ़िया कर रहे हैं।</item>
+        <item>बिल्ली चुपचाप आपके साथ है।</item>
+        <item>बिल्ली आप पर यकीन करती है।</item>
+    </string-array><string-array name="break_messages">
+        <item>बिल्ली कह रही है कि आप बहुत देर से स्क्रॉल कर रहे हैं।</item>
+        <item>नज़र ऊपर करें। दुनिया इस स्क्रीन से बड़ी है।</item>
+        <item>आज आपका अंगूठा पर्याप्त किलोमीटर तय कर चुका है।</item>
+        <item>फ़ीड वहीं रहेगा। आप हमेशा नहीं रहेंगे।</item>
+        <item>बिल्ली देख रही है कि आप क्या कर रहे हैं। बिल्ली चिंतित है।</item>
+        <item>एक मिनट के लिए डोपामाइन मशीन रोक दीजिए।</item>
+        <item>खड़े हो जाइए, कंधे खोलिए, गहरी सांस लीजिए।</item>
+        <item>खिड़की से बाहर देखिए। चाहे उबाऊ ही क्यों न लगे।</item>
+        <item>पानी पीजिए। शरीर ज़्यादातर पानी है और अभी थका है।</item>
+        <item>फ़ोन रखिए। मेज़ पर, अपने ऊपर नहीं।</item>
+        <item>जबड़ा कसा है? ढीला कीजिए। बेहतर लगा ना?</item>
+        <item>नाक से चार गिनती सांस लें, मुंह से छह गिनती छोड़ें।</item>
+        <item>पाँच धीमी सांसें। बिल्ली गिन रही है।</item>
+        <item>बिल्ली सौदेबाज़ी नहीं करती। बिल्ली समझौता नहीं करती।</item>
+        <item>फ़ीड अनंत है। आपका ध्यान नहीं।</item>
+        <item>आप वास्तव में क्या ढूँढ रहे थे? मिला?</item>
+        <item>ऐप खोलने से पहले की तुलना में अब ज़्यादा खुश हैं?</item>
+        <item>असली ज़िंदगी की ग्राफ़िक्स खराब हैं पर कहानियाँ बेहतर।</item>
+        <item>किसी को कॉल करें। असली कॉल। वे चौंक जाएँगे।</item>
+        <item>चाय बनाइए। पुरानी जादूगरी अब भी काम करती है।</item>
+        <item>बोरियत अच्छे विचारों का दरवाज़ा है। उसे आने दीजिए।</item>
+        <item>आप आलसी नहीं, ज़्यादा उत्तेजित हैं। बड़ा फ़र्क है।</item>
+        <item>स्थिर रहना असली कौशल है। एक मिनट कोशिश कीजिए।</item>
+        <item>इंटरनेट आपकी निगरानी के बिना भी चलता रहेगा।</item>
+        <item>आप दुनिया का सबसे ज़रूरी पोस्ट नहीं चूकेंगे।</item>
+        <item>बिल्ली बोल चुकी। विषय ख़त्म।</item>
+        <item>आप थके हैं, फ़ीड नहीं। फ़ीड कभी नहीं थकता।</item>
+        <item>अभी फ़ोन जीत रहा है। एक अंक वापस लीजिए।</item>
+        <item>आराम इनाम नहीं है, ज़रूरत है।</item>
+        <item>कल का आप, आज के आप का धन्यवाद करेगा।</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-in\strings.xml" qualifiers="in"><string name="app_name">CatBlock</string><string name="notif_channel_name">Pemantau CatBlock</string><string name="notif_title">CatBlock sedang memantau</string><string name="notif_text">Memantau waktu scroll-mu.</string><string name="onboarding_subtitle">Saat kamu scroll terlalu lama, kucing raksasa akan menutup layar sampai istirahatmu selesai.</string><string name="perm_overlay_title">Tampilkan di atas aplikasi lain</string><string name="perm_overlay_subtitle">Agar kucing bisa muncul di atas aplikasi sosialmu.</string><string name="perm_usage_title">Akses Penggunaan</string><string name="perm_usage_subtitle">Agar CatBlock tahu aplikasi mana yang sedang kamu pakai.</string><string name="continue_button">Lanjutkan</string><string name="next_step">Lanjut</string><string name="previous_step">Kembali</string><string name="got_it">Mengerti</string><string name="show_guide">Tunjukkan cara kerjanya</string><string name="skip">Lewati</string><string name="how_step1_title">1. Pilih aplikasi yang akan dijaga</string><string name="how_step1_text">Aktifkan aplikasi yang sering kamu pakai — Instagram, TikTok, X, atau YouTube.</string><string name="how_step2_title">2. Tentukan batasmu</string><string name="how_step2_text">Untuk tiap aplikasi, atur kapan kucing muncul dan berapa lama istirahatnya.</string><string name="how_step3_title">3. Lanjutkan hidupmu</string><string name="how_step3_text">CatBlock berjalan di latar belakang. Tak perlu dibuka terus.</string><string name="how_step4_title">4. Kucing muncul</string><string name="how_step4_text">Saat lewat batas, kucing raksasa memenuhi layar dan menghentikan scroll.</string><string name="how_step5_title">5. Istirahat sungguhan</string><string name="how_step5_text">Regangkan badan, minum air, tarik napas, atau lihat ke luar jendela. Kucing akan pergi.</string><string name="pick_apps_title">Pilih aplikasi yang akan dijaga</string><string name="pick_apps_subtitle">Aktifkan aplikasi, lalu atur kapan kucing muncul dan berapa lama istirahat.</string><string name="section_social">Aplikasi sosial terdeteksi</string><string name="section_all">Semua aplikasi</string><string name="cat_appears_after">Kucing muncul setelah</string><string name="break_lasts">Istirahat berlangsung</string><string name="minutes_short">%1$d mnt</string><string name="settings_title">Pengaturan</string><string name="settings_voice_title">Suara kucing</string><string name="settings_voice_subtitle">Biarkan kucing membaca pesan dengan suara bawaan ponselmu.</string><string name="settings_help_title">Cara kerjanya</string><string name="settings_help_subtitle">Tur singkat CatBlock.</string><string name="overlay_skip">Lewati</string><string-array name="overlay_wait_messages">
+        <item>Kucing tidak bisa dilewati. Tunggu saja.</item>
+        <item>Sekarang kucing yang berkuasa. Sabar.</item>
+        <item>Tidak ada lewat dari kucing. Tarik napas.</item>
+        <item>Kucing tidak menerima suap.</item>
+        <item>Mau scroll? Kucing melihatmu.</item>
+        <item>Kucing tidak punya tombol off. Tunggu.</item>
+        <item>Kucing ini tidak tunduk pada siapa pun.</item>
+        <item>Kamu lawan kucing. Kucing menang.</item>
+        <item>Kucing tidak bergerak. Seperti kucing asli.</item>
+        <item>Negosiasi ditutup. Kucing bilang tidak.</item>
+        <item>Kucing pergi saat dia siap.</item>
+        <item>Menekan lebih keras tidak mempercepat apa pun.</item>
+        <item>Kamu pasang jebakan ini sendiri. Diam di dalamnya.</item>
+        <item>Kamu yang dulu memang ingin kamu menunggu.</item>
+        <item>Kamu masa lalu itu bijak. Percayalah padanya.</item>
+        <item>Timer jujur. Feed tidak.</item>
+        <item>Kucing melakukan ini demi kebaikanmu.</item>
+        <item>Disiplin hanyalah ingatan akan tujuanmu.</item>
+        <item>Pemberontakan kecil: tarik napas pelan.</item>
+        <item>Inilah saat otak menyusul.</item>
+        <item>Biarkan mata istirahat di sesuatu yang jauh.</item>
+        <item>Sentuh kucing semaumu. Dia suka.</item>
+        <item>Kucing bukan tombol.</item>
+        <item>Sekarang kucing bos layar ini.</item>
+        <item>Coba kedipkan mata pelan lima kali.</item>
+        <item>Minum seteguk air kalau bisa.</item>
+        <item>Menguap kalau perlu. Kucing tidak peduli.</item>
+        <item>Kucing pikir kamu hebat.</item>
+        <item>Kucing diam-diam mendukungmu.</item>
+        <item>Kucing percaya padamu.</item>
+    </string-array><string-array name="break_messages">
+        <item>Si kucing bilang kamu sudah scroll terlalu lama.</item>
+        <item>Angkat matamu. Dunia lebih besar dari layar ini.</item>
+        <item>Jempolmu sudah menempuh cukup kilometer untuk hari ini.</item>
+        <item>Feed akan tetap di sana. Kamu tidak selamanya.</item>
+        <item>Si kucing melihat apa yang kamu lakukan. Si kucing khawatir.</item>
+        <item>Pause mesin dopamin sebentar.</item>
+        <item>Berdirilah, buka bahumu, tarik napas dalam.</item>
+        <item>Lihat keluar jendela. Walau terasa membosankan.</item>
+        <item>Minum air. Tubuhmu sebagian besar air dan kini lelah.</item>
+        <item>Letakkan ponsel. Di meja, bukan di atasmu.</item>
+        <item>Rahang menegang? Lepaskan. Lebih enak, kan?</item>
+        <item>Tarik napas empat hitungan dari hidung, buang enam hitungan dari mulut.</item>
+        <item>Lima napas pelan. Kucing menghitung.</item>
+        <item>Kucing tidak bernegosiasi. Kucing tidak menerima tawar-menawar.</item>
+        <item>Feed tak terbatas. Perhatianmu terbatas.</item>
+        <item>Kamu sebenarnya mencari apa? Sudah ketemu?</item>
+        <item>Lebih bahagia dari saat membuka aplikasi tadi?</item>
+        <item>Kehidupan nyata grafiknya jelek tapi ceritanya lebih bagus.</item>
+        <item>Telepon seseorang. Telepon sungguhan. Mereka akan terkejut.</item>
+        <item>Buat teh. Sihir lama masih ampuh.</item>
+        <item>Bosan adalah pintu menuju ide bagus. Biarkan masuk.</item>
+        <item>Kamu bukan malas. Kamu kelebihan stimulus. Beda jauh.</item>
+        <item>Diam adalah keterampilan. Coba satu menit.</item>
+        <item>Internet akan tetap jalan tanpa pengawasanmu.</item>
+        <item>Kamu takkan ketinggalan post paling penting sedunia.</item>
+        <item>Kucing sudah bicara. Selesai.</item>
+        <item>Kamu yang lelah, bukan feed. Feed tidak pernah lelah.</item>
+        <item>Sekarang ponsel sedang menang. Ambil satu poin balik.</item>
+        <item>Istirahat bukan hadiah. Istirahat itu kewajiban.</item>
+        <item>Kamu yang besok berterima kasih pada kamu yang sekarang.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-it\strings.xml" qualifiers="it"><string name="app_name">CatBlock</string><string name="notif_channel_name">Monitor CatBlock</string><string name="notif_title">CatBlock ti sta osservando</string><string name="notif_text">Tiene d\'occhio il tuo tempo di scroll.</string><string name="onboarding_subtitle">Quando scorri troppo a lungo, un gatto gigante blocca lo schermo finché la pausa non finisce.</string><string name="perm_overlay_title">Mostra sopra altre app</string><string name="perm_overlay_subtitle">Così il gatto può apparire sopra le tue app sociali.</string><string name="perm_usage_title">Accesso all\'utilizzo</string><string name="perm_usage_subtitle">Così CatBlock sa quale app stai usando.</string><string name="continue_button">Continua</string><string name="next_step">Avanti</string><string name="previous_step">Indietro</string><string name="got_it">Capito</string><string name="show_guide">Mostrami come funziona</string><string name="skip">Salta</string><string name="how_step1_title">1. Scegli le app da controllare</string><string name="how_step1_text">Attiva le app dove passi troppo tempo — Instagram, TikTok, X, YouTube.</string><string name="how_step2_title">2. Imposta i tuoi limiti</string><string name="how_step2_text">Per ogni app, scegli dopo quanto appare il gatto e quanto dura la pausa.</string><string name="how_step3_title">3. Vivi la tua vita</string><string name="how_step3_text">CatBlock funziona in background. Non devi tenerlo aperto.</string><string name="how_step4_title">4. Arriva il gatto</string><string name="how_step4_text">Quando superi il limite, un gatto gigante riempie lo schermo e blocca lo scroll.</string><string name="how_step5_title">5. Fatti una vera pausa</string><string name="how_step5_text">Allungati, bevi acqua, respira o guarda fuori. Il gatto se ne andrà.</string><string name="pick_apps_title">Scegli le app da controllare</string><string name="pick_apps_subtitle">Attiva un\'app, poi imposta quando appare il gatto e la durata della pausa.</string><string name="section_social">App social rilevate</string><string name="section_all">Tutte le app</string><string name="cat_appears_after">Il gatto appare dopo</string><string name="break_lasts">La pausa dura</string><string name="minutes_short">%1$d min</string><string name="settings_title">Impostazioni</string><string name="settings_voice_title">Voce del gatto</string><string name="settings_voice_subtitle">Lascia che il gatto legga il messaggio ad alta voce con la voce del tuo telefono.</string><string name="settings_help_title">Come funziona</string><string name="settings_help_subtitle">Un tour rapido di CatBlock.</string><string name="overlay_skip">Salta</string><string-array name="overlay_wait_messages">
+        <item>Non puoi saltare il gatto. Aspetta e basta.</item>
+        <item>Adesso comanda il gatto. Tieni duro.</item>
+        <item>Non si passa oltre il gatto. Respira.</item>
+        <item>Il gatto non accetta tangenti.</item>
+        <item>Stai cercando di scorrere? Il gatto ti vede.</item>
+        <item>Il gatto non ha un tasto off. Aspetta.</item>
+        <item>Questo gatto non risponde a nessuno.</item>
+        <item>Tu contro il gatto. Vince il gatto.</item>
+        <item>Il gatto non si muove. Come un vero gatto.</item>
+        <item>Trattativa chiusa. Il gatto ha detto no.</item>
+        <item>Il gatto se ne va quando è pronto.</item>
+        <item>Premere più forte non accelera nulla.</item>
+        <item>Questa trappola te la sei messa da solo. Restaci.</item>
+        <item>Il te di prima voleva davvero che aspettassi.</item>
+        <item>Il tuo passato era saggio. Fidati di lui.</item>
+        <item>Il timer è onesto. Il feed non lo era.</item>
+        <item>Il gatto lo fa per il tuo bene.</item>
+        <item>Disciplina è solo ricordare i tuoi obiettivi.</item>
+        <item>Piccola ribellione: un respiro lento.</item>
+        <item>È il momento in cui il cervello recupera.</item>
+        <item>Fai riposare gli occhi su qualcosa di lontano.</item>
+        <item>Tocca il gatto quanto vuoi. Gli piace.</item>
+        <item>Il gatto non è un pulsante.</item>
+        <item>Ora il capo dello schermo è il gatto.</item>
+        <item>Prova a sbattere lentamente le palpebre cinque volte.</item>
+        <item>Bevi un sorso d\'acqua se ci arrivi.</item>
+        <item>Sbadiglia se serve. Al gatto non importa.</item>
+        <item>Il gatto pensa che stai andando alla grande.</item>
+        <item>Il gatto fa il tifo per te in silenzio.</item>
+        <item>Il gatto crede in te.</item>
+    </string-array><string-array name="break_messages">
+        <item>Il gatto dice che stai scorrendo da troppo tempo.</item>
+        <item>Alza gli occhi. Il mondo è più grande di questo schermo.</item>
+        <item>Il tuo pollice ha già fatto abbastanza chilometri oggi.</item>
+        <item>Il feed resta lì. Tu no, per sempre.</item>
+        <item>Il gatto vede cosa stai facendo. Il gatto è preoccupato.</item>
+        <item>Metti in pausa la macchina della dopamina per un minuto.</item>
+        <item>Alzati, apri le spalle, fai un respiro profondo.</item>
+        <item>Guarda fuori dalla finestra. Anche se sembra noioso.</item>
+        <item>Bevi acqua. Il corpo è quasi tutto acqua ed è stanco.</item>
+        <item>Posa il telefono. Sul tavolo, non addosso.</item>
+        <item>Mascella stretta? Rilasciala. Meglio, vero?</item>
+        <item>Inspira dal naso per quattro, espira dalla bocca per sei.</item>
+        <item>Cinque respiri lenti. Il gatto sta contando.</item>
+        <item>Il gatto non tratta. Il gatto non scende a patti.</item>
+        <item>Il feed è infinito. La tua attenzione no.</item>
+        <item>Cosa cercavi davvero? L\'hai trovato?</item>
+        <item>Sei più felice di quando hai aperto l\'app?</item>
+        <item>La vita reale ha grafica peggiore ma storie migliori.</item>
+        <item>Chiama qualcuno. Una chiamata vera. Resterà sorpreso.</item>
+        <item>Fatti un tè. La vecchia magia funziona ancora.</item>
+        <item>La noia è la porta delle buone idee. Falla entrare.</item>
+        <item>Non sei pigro. Sei sovrastimolato. Differenza enorme.</item>
+        <item>Stare fermi è una vera abilità. Prova un minuto.</item>
+        <item>Internet continuerà senza la tua supervisione.</item>
+        <item>Non perderai il post più importante del mondo.</item>
+        <item>Il gatto ha parlato. Argomento chiuso.</item>
+        <item>Sei tu stanco, non il feed. Il feed non si stanca.</item>
+        <item>Adesso vince il telefono. Riprenditi un punto.</item>
+        <item>Il riposo non è un premio. È un obbligo.</item>
+        <item>Il te di domani ringrazia il te di adesso per aver smesso.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-ja\strings.xml" qualifiers="ja"><string name="app_name">CatBlock</string><string name="notif_channel_name">CatBlock モニター</string><string name="notif_title">CatBlock が見守っています</string><string name="notif_text">スクロール時間を見守っています。</string><string name="onboarding_subtitle">スクロールしすぎると、巨大な猫が画面を覆い、休憩が終わるまで離れません。</string><string name="perm_overlay_title">他のアプリの上に表示</string><string name="perm_overlay_subtitle">猫がソーシャルアプリの上に表示されるためです。</string><string name="perm_usage_title">使用状況へのアクセス</string><string name="perm_usage_subtitle">CatBlock が今どのアプリを使っているかを知るためです。</string><string name="continue_button">続ける</string><string name="next_step">次へ</string><string name="previous_step">戻る</string><string name="got_it">わかった</string><string name="show_guide">使い方を見る</string><string name="skip">スキップ</string><string name="how_step1_title">1. 監視するアプリを選ぶ</string><string name="how_step1_text">使いすぎるアプリをオンに — Instagram、TikTok、X、YouTube など。</string><string name="how_step2_title">2. 制限を決める</string><string name="how_step2_text">アプリごとに、猫が出るまでの時間と休憩の長さを決めます。</string><string name="how_step3_title">3. 普段通りに過ごす</string><string name="how_step3_text">CatBlock はバックグラウンドで動きます。開いておく必要はありません。</string><string name="how_step4_title">4. 猫が現れる</string><string name="how_step4_text">制限を超えると、巨大な猫が画面いっぱいに現れスクロールを止めます。</string><string name="how_step5_title">5. 本当に休む</string><string name="how_step5_text">伸びをする、水を飲む、呼吸する、窓の外を見る。時間がきたら猫は帰ります。</string><string name="pick_apps_title">監視するアプリを選ぶ</string><string name="pick_apps_subtitle">アプリをオンにして、猫が出るまでの時間と休憩の長さを決めます。</string><string name="section_social">見つかったSNSアプリ</string><string name="section_all">すべてのアプリ</string><string name="cat_appears_after">猫が出るまで</string><string name="break_lasts">休憩の長さ</string><string name="minutes_short">%1$d 分</string><string name="settings_title">設定</string><string name="settings_voice_title">猫の声</string><string name="settings_voice_subtitle">端末内蔵の音声で猫がメッセージを読み上げます。</string><string name="settings_help_title">使い方</string><string name="settings_help_subtitle">CatBlock の簡単なツアー。</string><string name="overlay_skip">スキップ</string><string-array name="overlay_wait_messages">
+        <item>猫はスキップできません。ただ待ちましょう。</item>
+        <item>今は猫がボスです。もう少し。</item>
+        <item>猫の先には行けません。ひと呼吸。</item>
+        <item>猫は賄賂を受け取りません。</item>
+        <item>スクロールしようとしてる？猫は見てます。</item>
+        <item>猫にオフボタンはありません。待ちましょう。</item>
+        <item>この猫は誰にも従いません。</item>
+        <item>あなた対猫。猫の勝ち。</item>
+        <item>猫は動きません。本物の猫みたいに。</item>
+        <item>交渉は終了。猫はノーと言いました。</item>
+        <item>猫は準備ができたら帰ります。</item>
+        <item>強く押しても速くなりません。</item>
+        <item>この罠は自分で仕掛けたもの。座っていて。</item>
+        <item>過去のあなたは本当に待たせたかったのです。</item>
+        <item>過去のあなたは賢かった。信じてあげて。</item>
+        <item>タイマーは正直。フィードはそうじゃなかった。</item>
+        <item>猫はあなたのためにやっています。</item>
+        <item>規律とは目標を覚えていること。</item>
+        <item>小さな反抗：ゆっくりとした呼吸。</item>
+        <item>これは脳が追いつく時間。</item>
+        <item>目を遠くの何かに休ませて。</item>
+        <item>猫を好きなだけつついて。気に入るから。</item>
+        <item>猫はボタンではありません。</item>
+        <item>今この画面のボスは猫。</item>
+        <item>ゆっくり五回まばたきしてみて。</item>
+        <item>届くなら水を一口。</item>
+        <item>あくびしてもいい。猫は気にしません。</item>
+        <item>猫はあなたが頑張っていると思っています。</item>
+        <item>猫は静かに応援しています。</item>
+        <item>猫はあなたを信じています。</item>
+    </string-array><string-array name="break_messages">
+        <item>猫が「スクロールしすぎ」と言っています。</item>
+        <item>目を上げて。世界はこの画面より広い。</item>
+        <item>親指は今日もう十分に走った。</item>
+        <item>フィードはずっとそこにある。あなたは永遠じゃない。</item>
+        <item>猫は見ています。猫は心配しています。</item>
+        <item>一分だけドーパミンの自販機を止めて。</item>
+        <item>立ち上がって、肩を後ろへ、深呼吸を一つ。</item>
+        <item>窓の外を見て。退屈に見えてもいい。</item>
+        <item>水を飲んで。体はほとんど水で、いま疲れている。</item>
+        <item>電話を置いて。机の上に、自分の上じゃなく。</item>
+        <item>顎を食いしばってない？緩めて。楽になったでしょ。</item>
+        <item>鼻から四つ吸って、口から六つ吐く。</item>
+        <item>ゆっくり五呼吸。猫が数えています。</item>
+        <item>猫は交渉しません。猫は妥協しません。</item>
+        <item>フィードは無限。集中力は有限。</item>
+        <item>本当は何を探していた？見つかった？</item>
+        <item>アプリを開く前より幸せ？</item>
+        <item>現実はグラフィックが悪いけど物語はずっと良い。</item>
+        <item>誰かに電話して。本物の電話。きっと驚かれる。</item>
+        <item>お茶を入れて。古い魔法はまだ効く。</item>
+        <item>退屈は良いアイデアの入口。受け入れて。</item>
+        <item>怠けてるんじゃない、刺激が多すぎる。違うんです。</item>
+        <item>じっとすることは技術。一分試して。</item>
+        <item>インターネットはあなたの監視なしでも動きます。</item>
+        <item>世界一大事な投稿を逃すことはありません。</item>
+        <item>猫が話した。話は終わり。</item>
+        <item>疲れているのはあなた、フィードじゃない。</item>
+        <item>今は電話が勝っている。点を取り返して。</item>
+        <item>休息はご褒美じゃない。義務です。</item>
+        <item>明日のあなたが、今のあなたに感謝します。</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-ko\strings.xml" qualifiers="ko"><string name="app_name">CatBlock</string><string name="notif_channel_name">CatBlock 모니터</string><string name="notif_title">CatBlock이 지켜보고 있어요</string><string name="notif_text">스크롤 시간을 지켜보는 중.</string><string name="onboarding_subtitle">너무 오래 스크롤하면 거대한 고양이가 화면을 막고, 휴식이 끝날 때까지 비키지 않아요.</string><string name="perm_overlay_title">다른 앱 위에 표시</string><string name="perm_overlay_subtitle">고양이가 소셜 앱 위에 나타날 수 있게 해줘요.</string><string name="perm_usage_title">사용 정보 접근</string><string name="perm_usage_subtitle">CatBlock이 지금 사용 중인 앱을 알 수 있도록.</string><string name="continue_button">계속</string><string name="next_step">다음</string><string name="previous_step">뒤로</string><string name="got_it">알겠어요</string><string name="show_guide">사용 방법 보기</string><string name="skip">건너뛰기</string><string name="how_step1_title">1. 지킬 앱 고르기</string><string name="how_step1_text">오래 쓰는 앱을 켜세요 — Instagram, TikTok, X, YouTube 등.</string><string name="how_step2_title">2. 한도 설정</string><string name="how_step2_text">앱마다 고양이가 등장할 시간과 휴식 길이를 정하세요.</string><string name="how_step3_title">3. 평소처럼 지내세요</string><string name="how_step3_text">CatBlock은 백그라운드에서 작동합니다. 계속 열어둘 필요 없어요.</string><string name="how_step4_title">4. 고양이 등장</string><string name="how_step4_text">시간이 지나면 거대한 고양이가 화면을 채우고 스크롤을 막아요.</string><string name="how_step5_title">5. 진짜로 쉬기</string><string name="how_step5_text">스트레칭, 물 마시기, 심호흡, 창밖 보기. 시간이 끝나면 고양이는 돌아갑니다.</string><string name="pick_apps_title">지킬 앱 고르기</string><string name="pick_apps_subtitle">앱을 켜고, 고양이 등장 시간과 휴식 길이를 설정하세요.</string><string name="section_social">감지된 소셜 앱</string><string name="section_all">모든 앱</string><string name="cat_appears_after">고양이 등장 시간</string><string name="break_lasts">휴식 시간</string><string name="minutes_short">%1$d분</string><string name="settings_title">설정</string><string name="settings_voice_title">고양이 목소리</string><string name="settings_voice_subtitle">휴대폰 기본 음성으로 고양이가 메시지를 읽어줍니다.</string><string name="settings_help_title">사용 방법</string><string name="settings_help_subtitle">CatBlock 간단 안내.</string><string name="overlay_skip">건너뛰기</string><string-array name="overlay_wait_messages">
+        <item>고양이는 건너뛸 수 없어요. 그냥 기다려요.</item>
+        <item>지금은 고양이가 대장이에요. 버텨요.</item>
+        <item>고양이를 지나갈 수 없어요. 숨 한 번.</item>
+        <item>고양이는 뇌물을 받지 않아요.</item>
+        <item>스크롤해 보려고요? 고양이가 다 봐요.</item>
+        <item>고양이엔 끄는 버튼이 없어요. 기다려요.</item>
+        <item>이 고양이는 누구에게도 답하지 않아요.</item>
+        <item>당신 대 고양이. 고양이 승.</item>
+        <item>고양이는 움직이지 않아요. 진짜 고양이처럼.</item>
+        <item>협상 종료. 고양이가 안 된대요.</item>
+        <item>고양이는 준비되면 떠나요.</item>
+        <item>더 세게 눌러도 빨라지지 않아요.</item>
+        <item>이 함정은 본인이 놓은 거예요. 앉아 계세요.</item>
+        <item>과거의 당신은 정말로 기다리길 바랐어요.</item>
+        <item>과거의 당신은 현명했어요. 믿어요.</item>
+        <item>타이머는 정직해요. 피드는 아니었어요.</item>
+        <item>고양이는 당신을 위해서 이걸 해요.</item>
+        <item>규율은 그저 목표를 기억하는 일이에요.</item>
+        <item>작은 반항: 느린 한 호흡.</item>
+        <item>지금은 뇌가 따라잡을 시간.</item>
+        <item>눈을 먼 곳에 쉬게 해요.</item>
+        <item>고양이를 마음껏 톡톡. 좋아해요.</item>
+        <item>고양이는 버튼이 아니에요.</item>
+        <item>지금 이 화면의 보스는 고양이.</item>
+        <item>천천히 다섯 번 눈 깜빡여 봐요.</item>
+        <item>닿으면 물 한 모금.</item>
+        <item>하품해도 돼요. 고양이는 신경 안 써요.</item>
+        <item>고양이는 잘하고 있다고 생각해요.</item>
+        <item>고양이는 조용히 응원 중.</item>
+        <item>고양이는 당신을 믿어요.</item>
+    </string-array><string-array name="break_messages">
+        <item>고양이가 너무 오래 스크롤했다고 말합니다.</item>
+        <item>고개를 들어요. 세상은 이 화면보다 넓어요.</item>
+        <item>엄지가 오늘 충분히 달렸어요.</item>
+        <item>피드는 그대로 있어요. 당신은 영원하지 않아요.</item>
+        <item>고양이는 다 봐요. 고양이가 걱정해요.</item>
+        <item>도파민 자판기를 1분만 멈춰요.</item>
+        <item>일어서서 어깨를 펴고 깊게 숨 쉬어요.</item>
+        <item>창밖을 보세요. 지루해 보여도 괜찮아요.</item>
+        <item>물을 마셔요. 몸은 대부분 물이고 지금 지쳤어요.</item>
+        <item>전화기 내려놓아요. 책상 위에, 몸 위가 아니라.</item>
+        <item>턱이 굳어 있죠? 풀어요. 더 편해지죠.</item>
+        <item>코로 4초 들이쉬고, 입으로 6초 내쉬어요.</item>
+        <item>느린 호흡 다섯 번. 고양이가 세고 있어요.</item>
+        <item>고양이는 협상하지 않아요. 양보도 없어요.</item>
+        <item>피드는 무한해요. 당신의 집중은 그렇지 않아요.</item>
+        <item>정말 뭘 찾고 있었어요? 찾았나요?</item>
+        <item>앱을 열기 전보다 더 행복한가요?</item>
+        <item>현실은 그래픽은 별로지만 이야기는 더 좋아요.</item>
+        <item>누군가에게 전화하세요. 진짜 전화. 깜짝 놀랄 거예요.</item>
+        <item>차를 끓이세요. 옛 마법은 여전히 통해요.</item>
+        <item>지루함은 좋은 아이디어의 문이에요. 들여보내요.</item>
+        <item>게으른 게 아니라 과자극된 거예요. 큰 차이.</item>
+        <item>가만히 있는 것도 기술이에요. 1분 연습.</item>
+        <item>인터넷은 당신 없이도 잘 돌아가요.</item>
+        <item>세상에서 제일 중요한 게시글을 놓치지 않아요.</item>
+        <item>고양이가 말했어요. 끝.</item>
+        <item>지친 건 당신이지 피드가 아니에요.</item>
+        <item>지금은 휴대폰이 이기는 중. 한 점 되찾아요.</item>
+        <item>쉬는 건 보상이 아니라 필수예요.</item>
+        <item>내일의 당신이, 지금의 당신에게 고마워해요.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-pt-rBR\strings.xml" qualifiers="pt-rBR"><string name="app_name">CatBlock</string><string name="notif_channel_name">Monitor do CatBlock</string><string name="notif_title">O CatBlock está observando</string><string name="notif_text">Acompanhando seu tempo de rolagem.</string><string name="onboarding_subtitle">Quando você rola por muito tempo, um gato gigante bloqueia a tela até a pausa acabar.</string><string name="perm_overlay_title">Exibir sobre outros apps</string><string name="perm_overlay_subtitle">Para que o gato apareça em cima dos seus apps sociais.</string><string name="perm_usage_title">Acesso de uso</string><string name="perm_usage_subtitle">Para o CatBlock saber qual app você está usando.</string><string name="continue_button">Continuar</string><string name="next_step">Próximo</string><string name="previous_step">Voltar</string><string name="got_it">Entendi</string><string name="show_guide">Me mostre como funciona</string><string name="skip">Pular</string><string name="how_step1_title">1. Escolha os apps a vigiar</string><string name="how_step1_text">Ative os apps em que você passa muito tempo — Instagram, TikTok, X, YouTube.</string><string name="how_step2_title">2. Defina seus limites</string><string name="how_step2_text">Para cada app, escolha em quanto tempo o gato aparece e quanto dura a pausa.</string><string name="how_step3_title">3. Continue sua vida</string><string name="how_step3_text">O CatBlock roda em segundo plano. Você não precisa mantê-lo aberto.</string><string name="how_step4_title">4. O gato aparece</string><string name="how_step4_text">Quando passa do tempo, um gato gigante toma a tela e bloqueia a rolagem.</string><string name="how_step5_title">5. Faça uma pausa real</string><string name="how_step5_text">Alongue, beba água, respire ou olhe pela janela. O gato sai quando o tempo acabar.</string><string name="pick_apps_title">Escolha os apps a vigiar</string><string name="pick_apps_subtitle">Ative um app e ajuste quando o gato aparece e quanto dura a pausa.</string><string name="section_social">Apps sociais detectados</string><string name="section_all">Todos os apps</string><string name="cat_appears_after">O gato aparece após</string><string name="break_lasts">A pausa dura</string><string name="minutes_short">%1$d min</string><string name="settings_title">Configurações</string><string name="settings_voice_title">Voz do gato</string><string name="settings_voice_subtitle">O gato lê a mensagem em voz alta com a voz integrada do telefone.</string><string name="settings_help_title">Como funciona</string><string name="settings_help_subtitle">Um tour rápido pelo CatBlock.</string><string name="overlay_skip">Pular</string><string-array name="overlay_wait_messages">
+        <item>Você não pode pular o gato. Só esperar.</item>
+        <item>O gato manda agora. Aguenta firme.</item>
+        <item>Não tem como passar do gato. Respira.</item>
+        <item>O gato não aceita suborno.</item>
+        <item>Tentando rolar? O gato tá vendo.</item>
+        <item>O gato não tem botão de desligar. Espera.</item>
+        <item>Esse gato não responde a ninguém.</item>
+        <item>Você contra o gato. O gato vence.</item>
+        <item>O gato não se move. Igual gato de verdade.</item>
+        <item>Negociação encerrada. O gato disse não.</item>
+        <item>O gato sai quando o gato quiser.</item>
+        <item>Apertar mais forte não vai acelerar.</item>
+        <item>Você mesmo armou essa cilada. Aceita ela.</item>
+        <item>O você de antes queria mesmo que esperasse.</item>
+        <item>O você do passado foi sábio. Confia.</item>
+        <item>O timer é honesto. O feed não era.</item>
+        <item>O gato tá fazendo isso pelo seu bem.</item>
+        <item>Disciplina é só lembrar das suas metas.</item>
+        <item>Pequenas rebeliões: uma respiração lenta.</item>
+        <item>É a hora do cérebro se recuperar.</item>
+        <item>Deixa o olhar descansar em algo distante.</item>
+        <item>Cutuca o gato à vontade. Ele curte.</item>
+        <item>O gato não é um botão.</item>
+        <item>O gato é o chefe dessa tela agora.</item>
+        <item>Pisque devagar cinco vezes.</item>
+        <item>Bebe um gole d\'água se conseguir.</item>
+        <item>Boceja se precisar. O gato não liga.</item>
+        <item>O gato acha que você tá indo super bem.</item>
+        <item>O gato torce por você em silêncio.</item>
+        <item>O gato acredita em você.</item>
+    </string-array><string-array name="break_messages">
+        <item>O gato diz que você está rolando há tempo demais.</item>
+        <item>Olhe para cima. O mundo é maior que essa tela.</item>
+        <item>Seu polegar já rodou quilômetros suficientes por hoje.</item>
+        <item>O feed continua aí. Você não, para sempre.</item>
+        <item>O gato vê o que você está fazendo. O gato está preocupado.</item>
+        <item>Pause a máquina de dopamina por um minuto.</item>
+        <item>Fique de pé, abra os ombros, respire fundo.</item>
+        <item>Olhe pela janela. Mesmo que pareça chato.</item>
+        <item>Beba água. Seu corpo é quase tudo água e está cansado.</item>
+        <item>Largue o celular. Na mesa, não em cima de você.</item>
+        <item>Mandíbula travada? Solte. Melhor, né?</item>
+        <item>Inspire pelo nariz por quatro tempos, expire pela boca por seis.</item>
+        <item>Cinco respirações lentas. O gato está cronometrando.</item>
+        <item>O gato não negocia. O gato não aceita suborno.</item>
+        <item>O feed é infinito. Sua atenção não é.</item>
+        <item>O que você queria mesmo? Achou?</item>
+        <item>Está mais feliz do que quando abriu o app?</item>
+        <item>A vida real tem gráficos piores mas histórias melhores.</item>
+        <item>Ligue para alguém. Ligação de verdade. Vão se surpreender.</item>
+        <item>Faça um chá. Magia antiga ainda funciona.</item>
+        <item>Tédio é a porta para boas ideias. Deixe entrar.</item>
+        <item>Você não está com preguiça. Está superestimulado. Bem diferente.</item>
+        <item>Ficar parado é uma habilidade. Pratique um minuto.</item>
+        <item>A internet vai continuar funcionando sem você.</item>
+        <item>Você não vai perder o post mais importante do mundo.</item>
+        <item>O gato falou. Assunto encerrado.</item>
+        <item>Você está cansado, o feed não. O feed nunca cansa.</item>
+        <item>Agora o celular está ganhando. Marque um ponto de volta.</item>
+        <item>Descansar não é prêmio. É necessidade.</item>
+        <item>O você de amanhã agradece o você de agora por parar.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-ru\strings.xml" qualifiers="ru"><string name="app_name">CatBlock</string><string name="notif_channel_name">Мониторинг CatBlock</string><string name="notif_title">CatBlock наблюдает</string><string name="notif_text">Следит за временем прокрутки.</string><string name="onboarding_subtitle">Когда ты слишком долго листаешь, огромный кот закрывает экран до конца перерыва.</string><string name="perm_overlay_title">Поверх других приложений</string><string name="perm_overlay_subtitle">Чтобы кот появлялся поверх соцсетей.</string><string name="perm_usage_title">Доступ к данным использования</string><string name="perm_usage_subtitle">Чтобы CatBlock знал, какое приложение ты используешь.</string><string name="continue_button">Продолжить</string><string name="next_step">Далее</string><string name="previous_step">Назад</string><string name="got_it">Понятно</string><string name="show_guide">Показать, как это работает</string><string name="skip">Пропустить</string><string name="how_step1_title">1. Выбери приложения для контроля</string><string name="how_step1_text">Включи приложения, в которых проводишь слишком много времени — Instagram, TikTok, X, YouTube.</string><string name="how_step2_title">2. Установи лимиты</string><string name="how_step2_text">Для каждой приложения выбери, через сколько появится кот и сколько длится перерыв.</string><string name="how_step3_title">3. Живи своей жизнью</string><string name="how_step3_text">CatBlock работает в фоне. Открывать его не нужно.</string><string name="how_step4_title">4. Появляется кот</string><string name="how_step4_text">Когда лимит превышен, огромный кот закрывает экран и блокирует прокрутку.</string><string name="how_step5_title">5. Сделай настоящий перерыв</string><string name="how_step5_text">Потянись, попей воды, подыши или посмотри в окно. Кот уйдёт сам.</string><string name="pick_apps_title">Выбери приложения для контроля</string><string name="pick_apps_subtitle">Включи приложение и настрой, через сколько появится кот и сколько длится перерыв.</string><string name="section_social">Найденные соцсети</string><string name="section_all">Все приложения</string><string name="cat_appears_after">Кот появится через</string><string name="break_lasts">Перерыв длится</string><string name="minutes_short">%1$d мин</string><string name="settings_title">Настройки</string><string name="settings_voice_title">Голос кота</string><string name="settings_voice_subtitle">Кот зачитает сообщение голосом, встроенным в твой телефон.</string><string name="settings_help_title">Как это работает</string><string name="settings_help_subtitle">Быстрый обзор CatBlock.</string><string name="overlay_skip">Пропустить</string><string-array name="overlay_wait_messages">
+        <item>Кота не пропустить. Просто подожди.</item>
+        <item>Сейчас главный — кот. Терпи.</item>
+        <item>Мимо кота не пройти. Сделай вдох.</item>
+        <item>Кот взяток не берёт.</item>
+        <item>Пытаешься листать? Кот видит.</item>
+        <item>У кота нет кнопки выключения. Жди.</item>
+        <item>Этот кот никому не подчиняется.</item>
+        <item>Ты против кота. Кот побеждает.</item>
+        <item>Кот не двигается. Как настоящий кот.</item>
+        <item>Переговоры закрыты. Кот сказал нет.</item>
+        <item>Кот уйдёт, когда захочет.</item>
+        <item>Сильнее жать — не быстрее.</item>
+        <item>Ты сам себе устроил ловушку. Сиди в ней.</item>
+        <item>Прошлый ты очень хотел, чтобы ты подождал.</item>
+        <item>Прошлый ты был мудрым. Доверься ему.</item>
+        <item>Таймер честный. Лента — нет.</item>
+        <item>Кот делает это для твоего же блага.</item>
+        <item>Дисциплина — это память о целях.</item>
+        <item>Маленький бунт: медленный вдох.</item>
+        <item>Это момент, когда мозг догоняет.</item>
+        <item>Дай глазам отдохнуть на чём-то далёком.</item>
+        <item>Тычь кота сколько хочешь. Ему нравится.</item>
+        <item>Кот — не кнопка.</item>
+        <item>Кот теперь начальник этого экрана.</item>
+        <item>Попробуй медленно моргнуть пять раз.</item>
+        <item>Сделай глоток воды, если есть.</item>
+        <item>Зевни, если хочется. Кот не против.</item>
+        <item>Кот считает, что ты молодец.</item>
+        <item>Кот молча болеет за тебя.</item>
+        <item>Кот в тебя верит.</item>
+    </string-array><string-array name="break_messages">
+        <item>Кот говорит, что ты слишком долго листаешь.</item>
+        <item>Подними глаза. Мир больше этого экрана.</item>
+        <item>Большой палец сегодня уже намотал достаточно километров.</item>
+        <item>Лента останется. Ты — нет, навсегда.</item>
+        <item>Кот видит, что ты делаешь. Кот обеспокоен.</item>
+        <item>Поставь дофаминовую машину на паузу хотя бы на минуту.</item>
+        <item>Встань, расправь плечи, сделай глубокий вдох.</item>
+        <item>Посмотри в окно. Даже если кажется скучно.</item>
+        <item>Выпей воды. Тело в основном из воды и устало.</item>
+        <item>Положи телефон. На стол, не на себя.</item>
+        <item>Челюсти сжаты? Расслабь. Лучше, правда?</item>
+        <item>Вдох через нос на четыре, выдох ртом на шесть.</item>
+        <item>Пять медленных вдохов. Кот считает.</item>
+        <item>Кот не торгуется. Кот не идёт на уступки.</item>
+        <item>Лента бесконечна. Внимание — нет.</item>
+        <item>Что ты вообще искал? Нашёл?</item>
+        <item>Ты счастливее, чем когда открыл приложение?</item>
+        <item>Реальная жизнь имеет графику похуже, но истории интереснее.</item>
+        <item>Позвони кому-нибудь. Настоящим звонком. Удивятся.</item>
+        <item>Сделай чай. Старая магия всё ещё работает.</item>
+        <item>Скука — дверь в хорошие идеи. Впусти её.</item>
+        <item>Ты не ленивый. Ты перегружен. Большая разница.</item>
+        <item>Неподвижность — настоящее умение. Попробуй минуту.</item>
+        <item>Интернет продолжит работать без твоего надзора.</item>
+        <item>Ты не пропустишь самый важный пост в истории.</item>
+        <item>Кот сказал. Тема закрыта.</item>
+        <item>Устал ты, а не лента. Лента не устаёт.</item>
+        <item>Сейчас телефон выигрывает. Отбери очко.</item>
+        <item>Отдых — не награда. Отдых — необходимость.</item>
+        <item>Ты завтра скажешь спасибо тебе сегодняшнему.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-tr\strings.xml" qualifiers="tr"><string name="app_name">CatBlock</string><string name="notif_channel_name">CatBlock İzleyici</string><string name="notif_title">CatBlock seni izliyor</string><string name="notif_text">Kaydırma süreni takip ediyor.</string><string name="onboarding_subtitle">Çok uzun süre kaydırdığında dev bir kedi ekranı kaplar ve molan bitene kadar gitmez.</string><string name="perm_overlay_title">Diğer uygulamaların üstünde göster</string><string name="perm_overlay_subtitle">Kedinin sosyal uygulamaların üstünde görünebilmesi için.</string><string name="perm_usage_title">Kullanım erişimi</string><string name="perm_usage_subtitle">CatBlock\'un hangi uygulamayı kullandığını anlaması için.</string><string name="continue_button">Devam et</string><string name="next_step">İleri</string><string name="previous_step">Geri</string><string name="got_it">Anladım</string><string name="show_guide">Nasıl çalıştığını göster</string><string name="skip">Atla</string><string name="how_step1_title">1. Korunacak uygulamaları seç</string><string name="how_step1_text">Çok zaman harcadığın uygulamaları aç — Instagram, TikTok, X, YouTube, ne kullanıyorsan.</string><string name="how_step2_title">2. Sınırını belirle</string><string name="how_step2_text">Her uygulama için kedinin ne kadar sonra çıkacağını ve molanın ne kadar süreceğini ayarla.</string><string name="how_step3_title">3. Hayatına devam et</string><string name="how_step3_text">CatBlock arka planda çalışır. Açık tutmana gerek yok.</string><string name="how_step4_title">4. Kedi ortaya çıkar</string><string name="how_step4_text">Süreni aşınca dev bir kedi ekranı kaplar, kaydırmayı engeller ve gitmez.</string><string name="how_step5_title">5. Gerçek bir mola ver</string><string name="how_step5_text">Gerin, su iç, nefes al ya da sadece pencereye bak. Süre dolunca kedi gider.</string><string name="pick_apps_title">Korunacak uygulamaları seç</string><string name="pick_apps_subtitle">Bir uygulamayı aç, sonra kedinin ne zaman çıkacağını ve molanın süresini ayarla.</string><string name="section_social">Tespit edilen sosyal uygulamalar</string><string name="section_all">Tüm uygulamalar</string><string name="cat_appears_after">Kedi şu kadar sonra çıkar</string><string name="break_lasts">Mola süresi</string><string name="minutes_short">%1$d dk</string><string name="settings_title">Ayarlar</string><string name="settings_voice_title">Kedi sesi</string><string name="settings_voice_subtitle">Kedi mesajı, telefonunun yerleşik sesiyle yüksek sesle okusun.</string><string name="settings_help_title">Nasıl çalışır</string><string name="settings_help_subtitle">CatBlock\'un kısa turu.</string><string name="overlay_skip">Atla</string><string-array name="overlay_wait_messages">
+        <item>Kediyi geçemezsin. Sadece bekle.</item>
+        <item>Kedi şu an yetkili. Sabret.</item>
+        <item>Kediden öteye geçiş yok. Bir nefes al.</item>
+        <item>Kedi rüşvet kabul etmez.</item>
+        <item>Kaydırmaya mı çalışıyorsun? Kedi seni görüyor.</item>
+        <item>Kedinin kapatma düğmesi yok. Bekle.</item>
+        <item>Bu kedi kimseye hesap vermez.</item>
+        <item>Sen ve kedi. Kedi kazanıyor.</item>
+        <item>Kedi sallanmaz. Tıpkı gerçek kediler gibi.</item>
+        <item>Pazarlık kapandı. Kedi hayır diyor.</item>
+        <item>Kedi hazır olduğunda gidecek.</item>
+        <item>Daha sert basmak işi hızlandırmaz.</item>
+        <item>Bunu sen kendine kurdun. Şimdi otur.</item>
+        <item>Geçmiş sen, şu anki seni gerçekten beklesin istedi.</item>
+        <item>Geçmiş sen akıllıydı. Ona güven.</item>
+        <item>Sayaç dürüst. Akış değildi.</item>
+        <item>Kedi bunu senin iyiliğin için yapıyor.</item>
+        <item>Disiplin sadece hedeflerini hatırlamaktır.</item>
+        <item>Küçük isyanlar: yavaş bir nefes al.</item>
+        <item>Beynin yetiştiği an bu.</item>
+        <item>Gözlerini uzaktaki bir şeye bırak.</item>
+        <item>Kediye istediğin kadar dokun. Hoşuna gidiyor.</item>
+        <item>Kedi bir buton değil.</item>
+        <item>Kedi şu an bu ekranın patronu.</item>
+        <item>Yavaşça beş kez göz kırpmayı dene.</item>
+        <item>Ulaşabiliyorsan bir yudum su iç.</item>
+        <item>Esnemek istiyorsan esne. Kedi anlayışla karşılar.</item>
+        <item>Kedi harika gittiğini düşünüyor.</item>
+        <item>Kedi sessizce sana destek oluyor.</item>
+        <item>Kedi sana inanıyor.</item>
+    </string-array><string-array name="break_messages">
+        <item>Kedi diyor ki çok uzun süredir kaydırıyorsun.</item>
+        <item>Gözlerini kaldır. Dünya bu ekrandan büyük.</item>
+        <item>Başparmağın bugünlük yeterince kilometre attı.</item>
+        <item>Akış orada kalır. Sen sonsuza kadar kalmazsın.</item>
+        <item>Kedi ne yaptığını görüyor. Kedi endişeli.</item>
+        <item>Bir dakikalığına dopamin makinesini durdur.</item>
+        <item>Ayağa kalk, omuzlarını geri at, derin bir nefes al.</item>
+        <item>Pencereden dışarı bak. Sıkıcı görünse bile.</item>
+        <item>Su iç. Vücudun çoğunlukla sudan ve şu an çoğunlukla yorgun.</item>
+        <item>Telefonu bırak. Üstüne değil, masaya. Yetişkin gibi.</item>
+        <item>Çenen kasılı, fark ettin mi? Gevşet. Daha iyi, değil mi?</item>
+        <item>Burnundan dört, ağzından altı sayarak nefes ver.</item>
+        <item>Beş yavaş nefes. Kedi seni sayıyor.</item>
+        <item>Kedi pazarlık etmez. Kedi taviz vermez.</item>
+        <item>Akış sonsuz. Dikkatin değil.</item>
+        <item>Şu an gerçekten ne arıyordun? Buldun mu?</item>
+        <item>Uygulamayı açtığından beri daha mı mutlusun?</item>
+        <item>Gerçek hayatta grafikler kötü ama hikayeler daha iyi.</item>
+        <item>Birini ara. Mesaj değil, gerçek arama. Şaşıracaklar.</item>
+        <item>Bir bardak çay yap. Eski büyü hâlâ çalışıyor.</item>
+        <item>Sıkılmak iyi fikirlerin kapısıdır. İçeri al.</item>
+        <item>Tembel değilsin. Aşırı uyarılmışsın. Çok fark var.</item>
+        <item>Hareketsiz durmak gerçek bir yetenektir. Bir dakika dene.</item>
+        <item>İnternet senin gözetimin olmadan da çalışmaya devam edecek.</item>
+        <item>Beslemenin en önemli paylaşımını kaçırmayacaksın.</item>
+        <item>Kedi konuştu. Konu kapandı.</item>
+        <item>Yorgunsun, akış değil. Akış asla yorulmaz.</item>
+        <item>Şu an telefon kazanıyor. Bir puan geri al.</item>
+        <item>Dinlenmek ödül değildir. Zorunluluktur.</item>
+        <item>Yarın bugünkü \'son bir video\' için seni affedecek.</item>
+    </string-array></file><file path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\main\res\values-zh-rCN\strings.xml" qualifiers="zh-rCN"><string name="app_name">CatBlock</string><string name="notif_channel_name">CatBlock 监控</string><string name="notif_title">CatBlock 正在守护</string><string name="notif_text">正在留意你的刷屏时间。</string><string name="onboarding_subtitle">刷得太久时，一只巨大的猫会挡住屏幕，直到休息时间结束。</string><string name="perm_overlay_title">显示在其他应用之上</string><string name="perm_overlay_subtitle">让猫能够出现在你的社交应用之上。</string><string name="perm_usage_title">使用情况访问</string><string name="perm_usage_subtitle">让 CatBlock 知道你正在使用哪个应用。</string><string name="continue_button">继续</string><string name="next_step">下一步</string><string name="previous_step">上一步</string><string name="got_it">明白了</string><string name="show_guide">看看怎么用</string><string name="skip">跳过</string><string name="how_step1_title">1. 选择要管控的应用</string><string name="how_step1_text">把你刷得太多的应用打开 —— Instagram、TikTok、X、YouTube 等。</string><string name="how_step2_title">2. 设定你的限制</string><string name="how_step2_text">为每个应用设置猫多久出现以及休息多久。</string><string name="how_step3_title">3. 继续过你的日子</string><string name="how_step3_text">CatBlock 在后台运行，不需要一直打开。</string><string name="how_step4_title">4. 猫出现啦</string><string name="how_step4_text">超过时间时，一只大猫会铺满屏幕，阻止你继续刷。</string><string name="how_step5_title">5. 好好休息一下</string><string name="how_step5_text">伸个懒腰、喝口水、深呼吸或看看窗外。时间到了猫就会走。</string><string name="pick_apps_title">选择要管控的应用</string><string name="pick_apps_subtitle">打开一个应用，然后设置猫出现的时间和休息时长。</string><string name="section_social">检测到的社交应用</string><string name="section_all">所有应用</string><string name="cat_appears_after">猫出现于</string><string name="break_lasts">休息时长</string><string name="minutes_short">%1$d 分钟</string><string name="settings_title">设置</string><string name="settings_voice_title">猫的声音</string><string name="settings_voice_subtitle">让猫用手机内置的语音把信息念出来。</string><string name="settings_help_title">工作原理</string><string name="settings_help_subtitle">快速了解 CatBlock。</string><string name="overlay_skip">跳过</string><string-array name="overlay_wait_messages">
+        <item>你跳不过猫，乖乖等吧。</item>
+        <item>现在猫说了算，再忍忍。</item>
+        <item>猫这关你过不去，深呼吸。</item>
+        <item>猫不收贿赂。</item>
+        <item>想刷？猫都看见了。</item>
+        <item>猫没有关机键，等着吧。</item>
+        <item>这只猫谁的话都不听。</item>
+        <item>你对猫，猫赢。</item>
+        <item>猫不动，像真的猫一样。</item>
+        <item>谈判结束，猫说不行。</item>
+        <item>猫准备好了才会走。</item>
+        <item>按得再用力也不会更快。</item>
+        <item>这是你自己挖的坑，老老实实坐着。</item>
+        <item>过去的你真的希望现在的你等一等。</item>
+        <item>过去的你很聪明，相信他。</item>
+        <item>计时器是诚实的，信息流不是。</item>
+        <item>猫这么做是为了你好。</item>
+        <item>自律不过是记住自己的目标。</item>
+        <item>小小反抗：慢慢吸一口气。</item>
+        <item>这是大脑追上来的时刻。</item>
+        <item>把目光放在远处什么东西上。</item>
+        <item>随便摸猫，它喜欢被摸。</item>
+        <item>猫不是按钮。</item>
+        <item>现在这块屏幕的老大是猫。</item>
+        <item>试着慢慢眨五次眼。</item>
+        <item>够得着的话喝口水。</item>
+        <item>想打哈欠就打，猫不介意。</item>
+        <item>猫觉得你做得很好。</item>
+        <item>猫在默默给你加油。</item>
+        <item>猫相信你。</item>
+    </string-array><string-array name="break_messages">
+        <item>猫说你已经刷太久了。</item>
+        <item>抬起头。世界比这块屏幕大得多。</item>
+        <item>你的拇指今天已经跑了够多里程了。</item>
+        <item>信息流会一直在。你不会永远在。</item>
+        <item>猫看到了你在做什么。猫很担心。</item>
+        <item>把多巴胺的水龙头先关一分钟。</item>
+        <item>站起来，肩膀打开，深呼吸一次。</item>
+        <item>看看窗外。哪怕看起来很无聊。</item>
+        <item>喝点水。身体大部分是水，现在大部分是累的。</item>
+        <item>把手机放下。放桌上，不是放身上。</item>
+        <item>下巴是不是咬紧了？松开。是不是好多了。</item>
+        <item>用鼻子吸四秒，用嘴吐六秒。</item>
+        <item>慢慢呼吸五次。猫在数。</item>
+        <item>猫不谈判。猫也不接受讨价还价。</item>
+        <item>信息流是无限的。你的注意力不是。</item>
+        <item>你到底在找什么？找到了吗？</item>
+        <item>你比打开应用之前更开心吗？</item>
+        <item>现实画质差点，但故事更好。</item>
+        <item>打个电话给某个人。真打。对方会惊喜。</item>
+        <item>泡一杯茶。古老的魔法依然有效。</item>
+        <item>无聊是好点子的入口。让它进来。</item>
+        <item>你不是懒，是过度刺激。差别很大。</item>
+        <item>静坐是一种真本事。练一分钟试试。</item>
+        <item>你不在场，互联网照样运转。</item>
+        <item>你不会错过这个世界上最重要的帖子。</item>
+        <item>猫已经发话了，话题到此为止。</item>
+        <item>累的是你，不是信息流。信息流从不累。</item>
+        <item>现在是手机赢着，扳回一分。</item>
+        <item>休息不是奖励，是必需。</item>
+        <item>明天的你，会感谢现在停下来的你。</item>
+    </string-array></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\kerem\Desktop\CatBlock\CatBlock\app\build\generated\res\resValues\debug"/></dataSet><mergedItems/></merger>

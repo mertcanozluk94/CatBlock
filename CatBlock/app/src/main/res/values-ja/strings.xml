@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatBlock</string>
+    <string name="notif_channel_name">CatBlock モニター</string>
+    <string name="notif_title">CatBlock が見守っています</string>
+    <string name="notif_text">スクロール時間を見守っています。</string>
+    <string name="onboarding_subtitle">スクロールしすぎると、巨大な猫が画面を覆い、休憩が終わるまで離れません。</string>
+    <string name="perm_overlay_title">他のアプリの上に表示</string>
+    <string name="perm_overlay_subtitle">猫がソーシャルアプリの上に表示されるためです。</string>
+    <string name="perm_usage_title">使用状況へのアクセス</string>
+    <string name="perm_usage_subtitle">CatBlock が今どのアプリを使っているかを知るためです。</string>
+    <string name="continue_button">続ける</string>
+    <string name="next_step">次へ</string>
+    <string name="previous_step">戻る</string>
+    <string name="got_it">わかった</string>
+    <string name="show_guide">使い方を見る</string>
+    <string name="skip">スキップ</string>
+    <string name="how_step1_title">1. 監視するアプリを選ぶ</string>
+    <string name="how_step1_text">使いすぎるアプリをオンに — Instagram、TikTok、X、YouTube など。</string>
+    <string name="how_step2_title">2. 制限を決める</string>
+    <string name="how_step2_text">アプリごとに、猫が出るまでの時間と休憩の長さを決めます。</string>
+    <string name="how_step3_title">3. 普段通りに過ごす</string>
+    <string name="how_step3_text">CatBlock はバックグラウンドで動きます。開いておく必要はありません。</string>
+    <string name="how_step4_title">4. 猫が現れる</string>
+    <string name="how_step4_text">制限を超えると、巨大な猫が画面いっぱいに現れスクロールを止めます。</string>
+    <string name="how_step5_title">5. 本当に休む</string>
+    <string name="how_step5_text">伸びをする、水を飲む、呼吸する、窓の外を見る。時間がきたら猫は帰ります。</string>
+    <string name="pick_apps_title">監視するアプリを選ぶ</string>
+    <string name="pick_apps_subtitle">アプリをオンにして、猫が出るまでの時間と休憩の長さを決めます。</string>
+    <string name="section_social">見つかったSNSアプリ</string>
+    <string name="section_all">すべてのアプリ</string>
+    <string name="cat_appears_after">猫が出るまで</string>
+    <string name="break_lasts">休憩の長さ</string>
+    <string name="minutes_short">%1$d 分</string>
+    <string name="settings_title">設定</string>
+    <string name="settings_voice_title">猫の声</string>
+    <string name="settings_voice_subtitle">端末内蔵の音声で猫がメッセージを読み上げます。</string>
+    <string name="settings_help_title">使い方</string>
+    <string name="settings_help_subtitle">CatBlock の簡単なツアー。</string>
+    <string name="overlay_skip">スキップ</string>
+    <string-array name="overlay_wait_messages">
+        <item>猫はスキップできません。ただ待ちましょう。</item>
+        <item>今は猫がボスです。もう少し。</item>
+        <item>猫の先には行けません。ひと呼吸。</item>
+        <item>猫は賄賂を受け取りません。</item>
+        <item>スクロールしようとしてる？猫は見てます。</item>
+        <item>猫にオフボタンはありません。待ちましょう。</item>
+        <item>この猫は誰にも従いません。</item>
+        <item>あなた対猫。猫の勝ち。</item>
+        <item>猫は動きません。本物の猫みたいに。</item>
+        <item>交渉は終了。猫はノーと言いました。</item>
+        <item>猫は準備ができたら帰ります。</item>
+        <item>強く押しても速くなりません。</item>
+        <item>この罠は自分で仕掛けたもの。座っていて。</item>
+        <item>過去のあなたは本当に待たせたかったのです。</item>
+        <item>過去のあなたは賢かった。信じてあげて。</item>
+        <item>タイマーは正直。フィードはそうじゃなかった。</item>
+        <item>猫はあなたのためにやっています。</item>
+        <item>規律とは目標を覚えていること。</item>
+        <item>小さな反抗：ゆっくりとした呼吸。</item>
+        <item>これは脳が追いつく時間。</item>
+        <item>目を遠くの何かに休ませて。</item>
+        <item>猫を好きなだけつついて。気に入るから。</item>
+        <item>猫はボタンではありません。</item>
+        <item>今この画面のボスは猫。</item>
+        <item>ゆっくり五回まばたきしてみて。</item>
+        <item>届くなら水を一口。</item>
+        <item>あくびしてもいい。猫は気にしません。</item>
+        <item>猫はあなたが頑張っていると思っています。</item>
+        <item>猫は静かに応援しています。</item>
+        <item>猫はあなたを信じています。</item>
+    </string-array>
+
+    <string-array name="break_messages">
+        <item>猫が「スクロールしすぎ」と言っています。</item>
+        <item>目を上げて。世界はこの画面より広い。</item>
+        <item>親指は今日もう十分に走った。</item>
+        <item>フィードはずっとそこにある。あなたは永遠じゃない。</item>
+        <item>猫は見ています。猫は心配しています。</item>
+        <item>一分だけドーパミンの自販機を止めて。</item>
+        <item>立ち上がって、肩を後ろへ、深呼吸を一つ。</item>
+        <item>窓の外を見て。退屈に見えてもいい。</item>
+        <item>水を飲んで。体はほとんど水で、いま疲れている。</item>
+        <item>電話を置いて。机の上に、自分の上じゃなく。</item>
+        <item>顎を食いしばってない？緩めて。楽になったでしょ。</item>
+        <item>鼻から四つ吸って、口から六つ吐く。</item>
+        <item>ゆっくり五呼吸。猫が数えています。</item>
+        <item>猫は交渉しません。猫は妥協しません。</item>
+        <item>フィードは無限。集中力は有限。</item>
+        <item>本当は何を探していた？見つかった？</item>
+        <item>アプリを開く前より幸せ？</item>
+        <item>現実はグラフィックが悪いけど物語はずっと良い。</item>
+        <item>誰かに電話して。本物の電話。きっと驚かれる。</item>
+        <item>お茶を入れて。古い魔法はまだ効く。</item>
+        <item>退屈は良いアイデアの入口。受け入れて。</item>
+        <item>怠けてるんじゃない、刺激が多すぎる。違うんです。</item>
+        <item>じっとすることは技術。一分試して。</item>
+        <item>インターネットはあなたの監視なしでも動きます。</item>
+        <item>世界一大事な投稿を逃すことはありません。</item>
+        <item>猫が話した。話は終わり。</item>
+        <item>疲れているのはあなた、フィードじゃない。</item>
+        <item>今は電話が勝っている。点を取り返して。</item>
+        <item>休息はご褒美じゃない。義務です。</item>
+        <item>明日のあなたが、今のあなたに感謝します。</item>
+    </string-array>
+
+</resources>

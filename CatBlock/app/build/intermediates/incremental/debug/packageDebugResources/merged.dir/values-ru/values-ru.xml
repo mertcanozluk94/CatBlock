@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="break_messages">
+        <item>Кот говорит, что ты слишком долго листаешь.</item>
+        <item>Подними глаза. Мир больше этого экрана.</item>
+        <item>Большой палец сегодня уже намотал достаточно километров.</item>
+        <item>Лента останется. Ты — нет, навсегда.</item>
+        <item>Кот видит, что ты делаешь. Кот обеспокоен.</item>
+        <item>Поставь дофаминовую машину на паузу хотя бы на минуту.</item>
+        <item>Встань, расправь плечи, сделай глубокий вдох.</item>
+        <item>Посмотри в окно. Даже если кажется скучно.</item>
+        <item>Выпей воды. Тело в основном из воды и устало.</item>
+        <item>Положи телефон. На стол, не на себя.</item>
+        <item>Челюсти сжаты? Расслабь. Лучше, правда?</item>
+        <item>Вдох через нос на четыре, выдох ртом на шесть.</item>
+        <item>Пять медленных вдохов. Кот считает.</item>
+        <item>Кот не торгуется. Кот не идёт на уступки.</item>
+        <item>Лента бесконечна. Внимание — нет.</item>
+        <item>Что ты вообще искал? Нашёл?</item>
+        <item>Ты счастливее, чем когда открыл приложение?</item>
+        <item>Реальная жизнь имеет графику похуже, но истории интереснее.</item>
+        <item>Позвони кому-нибудь. Настоящим звонком. Удивятся.</item>
+        <item>Сделай чай. Старая магия всё ещё работает.</item>
+        <item>Скука — дверь в хорошие идеи. Впусти её.</item>
+        <item>Ты не ленивый. Ты перегружен. Большая разница.</item>
+        <item>Неподвижность — настоящее умение. Попробуй минуту.</item>
+        <item>Интернет продолжит работать без твоего надзора.</item>
+        <item>Ты не пропустишь самый важный пост в истории.</item>
+        <item>Кот сказал. Тема закрыта.</item>
+        <item>Устал ты, а не лента. Лента не устаёт.</item>
+        <item>Сейчас телефон выигрывает. Отбери очко.</item>
+        <item>Отдых — не награда. Отдых — необходимость.</item>
+        <item>Ты завтра скажешь спасибо тебе сегодняшнему.</item>
+    </string-array>
+    <string-array name="overlay_wait_messages">
+        <item>Кота не пропустить. Просто подожди.</item>
+        <item>Сейчас главный — кот. Терпи.</item>
+        <item>Мимо кота не пройти. Сделай вдох.</item>
+        <item>Кот взяток не берёт.</item>
+        <item>Пытаешься листать? Кот видит.</item>
+        <item>У кота нет кнопки выключения. Жди.</item>
+        <item>Этот кот никому не подчиняется.</item>
+        <item>Ты против кота. Кот побеждает.</item>
+        <item>Кот не двигается. Как настоящий кот.</item>
+        <item>Переговоры закрыты. Кот сказал нет.</item>
+        <item>Кот уйдёт, когда захочет.</item>
+        <item>Сильнее жать — не быстрее.</item>
+        <item>Ты сам себе устроил ловушку. Сиди в ней.</item>
+        <item>Прошлый ты очень хотел, чтобы ты подождал.</item>
+        <item>Прошлый ты был мудрым. Доверься ему.</item>
+        <item>Таймер честный. Лента — нет.</item>
+        <item>Кот делает это для твоего же блага.</item>
+        <item>Дисциплина — это память о целях.</item>
+        <item>Маленький бунт: медленный вдох.</item>
+        <item>Это момент, когда мозг догоняет.</item>
+        <item>Дай глазам отдохнуть на чём-то далёком.</item>
+        <item>Тычь кота сколько хочешь. Ему нравится.</item>
+        <item>Кот — не кнопка.</item>
+        <item>Кот теперь начальник этого экрана.</item>
+        <item>Попробуй медленно моргнуть пять раз.</item>
+        <item>Сделай глоток воды, если есть.</item>
+        <item>Зевни, если хочется. Кот не против.</item>
+        <item>Кот считает, что ты молодец.</item>
+        <item>Кот молча болеет за тебя.</item>
+        <item>Кот в тебя верит.</item>
+    </string-array>
+    <string name="app_name">CatBlock</string>
+    <string name="break_lasts">Перерыв длится</string>
+    <string name="cat_appears_after">Кот появится через</string>
+    <string name="continue_button">Продолжить</string>
+    <string name="got_it">Понятно</string>
+    <string name="how_step1_text">Включи приложения, в которых проводишь слишком много времени — Instagram, TikTok, X, YouTube.</string>
+    <string name="how_step1_title">1. Выбери приложения для контроля</string>
+    <string name="how_step2_text">Для каждой приложения выбери, через сколько появится кот и сколько длится перерыв.</string>
+    <string name="how_step2_title">2. Установи лимиты</string>
+    <string name="how_step3_text">CatBlock работает в фоне. Открывать его не нужно.</string>
+    <string name="how_step3_title">3. Живи своей жизнью</string>
+    <string name="how_step4_text">Когда лимит превышен, огромный кот закрывает экран и блокирует прокрутку.</string>
+    <string name="how_step4_title">4. Появляется кот</string>
+    <string name="how_step5_text">Потянись, попей воды, подыши или посмотри в окно. Кот уйдёт сам.</string>
+    <string name="how_step5_title">5. Сделай настоящий перерыв</string>
+    <string name="minutes_short">%1$d мин</string>
+    <string name="next_step">Далее</string>
+    <string name="notif_channel_name">Мониторинг CatBlock</string>
+    <string name="notif_text">Следит за временем прокрутки.</string>
+    <string name="notif_title">CatBlock наблюдает</string>
+    <string name="onboarding_subtitle">Когда ты слишком долго листаешь, огромный кот закрывает экран до конца перерыва.</string>
+    <string name="overlay_skip">Пропустить</string>
+    <string name="perm_overlay_subtitle">Чтобы кот появлялся поверх соцсетей.</string>
+    <string name="perm_overlay_title">Поверх других приложений</string>
+    <string name="perm_usage_subtitle">Чтобы CatBlock знал, какое приложение ты используешь.</string>
+    <string name="perm_usage_title">Доступ к данным использования</string>
+    <string name="pick_apps_subtitle">Включи приложение и настрой, через сколько появится кот и сколько длится перерыв.</string>
+    <string name="pick_apps_title">Выбери приложения для контроля</string>
+    <string name="previous_step">Назад</string>
+    <string name="section_all">Все приложения</string>
+    <string name="section_social">Найденные соцсети</string>
+    <string name="settings_help_subtitle">Быстрый обзор CatBlock.</string>
+    <string name="settings_help_title">Как это работает</string>
+    <string name="settings_title">Настройки</string>
+    <string name="settings_voice_subtitle">Кот зачитает сообщение голосом, встроенным в твой телефон.</string>
+    <string name="settings_voice_title">Голос кота</string>
+    <string name="show_guide">Показать, как это работает</string>
+    <string name="skip">Пропустить</string>
+</resources>

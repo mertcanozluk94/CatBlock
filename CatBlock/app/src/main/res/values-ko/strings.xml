@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatBlock</string>
+    <string name="notif_channel_name">CatBlock 모니터</string>
+    <string name="notif_title">CatBlock이 지켜보고 있어요</string>
+    <string name="notif_text">스크롤 시간을 지켜보는 중.</string>
+    <string name="onboarding_subtitle">너무 오래 스크롤하면 거대한 고양이가 화면을 막고, 휴식이 끝날 때까지 비키지 않아요.</string>
+    <string name="perm_overlay_title">다른 앱 위에 표시</string>
+    <string name="perm_overlay_subtitle">고양이가 소셜 앱 위에 나타날 수 있게 해줘요.</string>
+    <string name="perm_usage_title">사용 정보 접근</string>
+    <string name="perm_usage_subtitle">CatBlock이 지금 사용 중인 앱을 알 수 있도록.</string>
+    <string name="continue_button">계속</string>
+    <string name="next_step">다음</string>
+    <string name="previous_step">뒤로</string>
+    <string name="got_it">알겠어요</string>
+    <string name="show_guide">사용 방법 보기</string>
+    <string name="skip">건너뛰기</string>
+    <string name="how_step1_title">1. 지킬 앱 고르기</string>
+    <string name="how_step1_text">오래 쓰는 앱을 켜세요 — Instagram, TikTok, X, YouTube 등.</string>
+    <string name="how_step2_title">2. 한도 설정</string>
+    <string name="how_step2_text">앱마다 고양이가 등장할 시간과 휴식 길이를 정하세요.</string>
+    <string name="how_step3_title">3. 평소처럼 지내세요</string>
+    <string name="how_step3_text">CatBlock은 백그라운드에서 작동합니다. 계속 열어둘 필요 없어요.</string>
+    <string name="how_step4_title">4. 고양이 등장</string>
+    <string name="how_step4_text">시간이 지나면 거대한 고양이가 화면을 채우고 스크롤을 막아요.</string>
+    <string name="how_step5_title">5. 진짜로 쉬기</string>
+    <string name="how_step5_text">스트레칭, 물 마시기, 심호흡, 창밖 보기. 시간이 끝나면 고양이는 돌아갑니다.</string>
+    <string name="pick_apps_title">지킬 앱 고르기</string>
+    <string name="pick_apps_subtitle">앱을 켜고, 고양이 등장 시간과 휴식 길이를 설정하세요.</string>
+    <string name="section_social">감지된 소셜 앱</string>
+    <string name="section_all">모든 앱</string>
+    <string name="cat_appears_after">고양이 등장 시간</string>
+    <string name="break_lasts">휴식 시간</string>
+    <string name="minutes_short">%1$d분</string>
+    <string name="settings_title">설정</string>
+    <string name="settings_voice_title">고양이 목소리</string>
+    <string name="settings_voice_subtitle">휴대폰 기본 음성으로 고양이가 메시지를 읽어줍니다.</string>
+    <string name="settings_help_title">사용 방법</string>
+    <string name="settings_help_subtitle">CatBlock 간단 안내.</string>
+    <string name="overlay_skip">건너뛰기</string>
+    <string-array name="overlay_wait_messages">
+        <item>고양이는 건너뛸 수 없어요. 그냥 기다려요.</item>
+        <item>지금은 고양이가 대장이에요. 버텨요.</item>
+        <item>고양이를 지나갈 수 없어요. 숨 한 번.</item>
+        <item>고양이는 뇌물을 받지 않아요.</item>
+        <item>스크롤해 보려고요? 고양이가 다 봐요.</item>
+        <item>고양이엔 끄는 버튼이 없어요. 기다려요.</item>
+        <item>이 고양이는 누구에게도 답하지 않아요.</item>
+        <item>당신 대 고양이. 고양이 승.</item>
+        <item>고양이는 움직이지 않아요. 진짜 고양이처럼.</item>
+        <item>협상 종료. 고양이가 안 된대요.</item>
+        <item>고양이는 준비되면 떠나요.</item>
+        <item>더 세게 눌러도 빨라지지 않아요.</item>
+        <item>이 함정은 본인이 놓은 거예요. 앉아 계세요.</item>
+        <item>과거의 당신은 정말로 기다리길 바랐어요.</item>
+        <item>과거의 당신은 현명했어요. 믿어요.</item>
+        <item>타이머는 정직해요. 피드는 아니었어요.</item>
+        <item>고양이는 당신을 위해서 이걸 해요.</item>
+        <item>규율은 그저 목표를 기억하는 일이에요.</item>
+        <item>작은 반항: 느린 한 호흡.</item>
+        <item>지금은 뇌가 따라잡을 시간.</item>
+        <item>눈을 먼 곳에 쉬게 해요.</item>
+        <item>고양이를 마음껏 톡톡. 좋아해요.</item>
+        <item>고양이는 버튼이 아니에요.</item>
+        <item>지금 이 화면의 보스는 고양이.</item>
+        <item>천천히 다섯 번 눈 깜빡여 봐요.</item>
+        <item>닿으면 물 한 모금.</item>
+        <item>하품해도 돼요. 고양이는 신경 안 써요.</item>
+        <item>고양이는 잘하고 있다고 생각해요.</item>
+        <item>고양이는 조용히 응원 중.</item>
+        <item>고양이는 당신을 믿어요.</item>
+    </string-array>
+
+    <string-array name="break_messages">
+        <item>고양이가 너무 오래 스크롤했다고 말합니다.</item>
+        <item>고개를 들어요. 세상은 이 화면보다 넓어요.</item>
+        <item>엄지가 오늘 충분히 달렸어요.</item>
+        <item>피드는 그대로 있어요. 당신은 영원하지 않아요.</item>
+        <item>고양이는 다 봐요. 고양이가 걱정해요.</item>
+        <item>도파민 자판기를 1분만 멈춰요.</item>
+        <item>일어서서 어깨를 펴고 깊게 숨 쉬어요.</item>
+        <item>창밖을 보세요. 지루해 보여도 괜찮아요.</item>
+        <item>물을 마셔요. 몸은 대부분 물이고 지금 지쳤어요.</item>
+        <item>전화기 내려놓아요. 책상 위에, 몸 위가 아니라.</item>
+        <item>턱이 굳어 있죠? 풀어요. 더 편해지죠.</item>
+        <item>코로 4초 들이쉬고, 입으로 6초 내쉬어요.</item>
+        <item>느린 호흡 다섯 번. 고양이가 세고 있어요.</item>
+        <item>고양이는 협상하지 않아요. 양보도 없어요.</item>
+        <item>피드는 무한해요. 당신의 집중은 그렇지 않아요.</item>
+        <item>정말 뭘 찾고 있었어요? 찾았나요?</item>
+        <item>앱을 열기 전보다 더 행복한가요?</item>
+        <item>현실은 그래픽은 별로지만 이야기는 더 좋아요.</item>
+        <item>누군가에게 전화하세요. 진짜 전화. 깜짝 놀랄 거예요.</item>
+        <item>차를 끓이세요. 옛 마법은 여전히 통해요.</item>
+        <item>지루함은 좋은 아이디어의 문이에요. 들여보내요.</item>
+        <item>게으른 게 아니라 과자극된 거예요. 큰 차이.</item>
+        <item>가만히 있는 것도 기술이에요. 1분 연습.</item>
+        <item>인터넷은 당신 없이도 잘 돌아가요.</item>
+        <item>세상에서 제일 중요한 게시글을 놓치지 않아요.</item>
+        <item>고양이가 말했어요. 끝.</item>
+        <item>지친 건 당신이지 피드가 아니에요.</item>
+        <item>지금은 휴대폰이 이기는 중. 한 점 되찾아요.</item>
+        <item>쉬는 건 보상이 아니라 필수예요.</item>
+        <item>내일의 당신이, 지금의 당신에게 고마워해요.</item>
+    </string-array>
+
+</resources>

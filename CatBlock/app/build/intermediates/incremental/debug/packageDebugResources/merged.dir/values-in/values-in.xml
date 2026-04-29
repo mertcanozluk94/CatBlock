@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="break_messages">
+        <item>Si kucing bilang kamu sudah scroll terlalu lama.</item>
+        <item>Angkat matamu. Dunia lebih besar dari layar ini.</item>
+        <item>Jempolmu sudah menempuh cukup kilometer untuk hari ini.</item>
+        <item>Feed akan tetap di sana. Kamu tidak selamanya.</item>
+        <item>Si kucing melihat apa yang kamu lakukan. Si kucing khawatir.</item>
+        <item>Pause mesin dopamin sebentar.</item>
+        <item>Berdirilah, buka bahumu, tarik napas dalam.</item>
+        <item>Lihat keluar jendela. Walau terasa membosankan.</item>
+        <item>Minum air. Tubuhmu sebagian besar air dan kini lelah.</item>
+        <item>Letakkan ponsel. Di meja, bukan di atasmu.</item>
+        <item>Rahang menegang? Lepaskan. Lebih enak, kan?</item>
+        <item>Tarik napas empat hitungan dari hidung, buang enam hitungan dari mulut.</item>
+        <item>Lima napas pelan. Kucing menghitung.</item>
+        <item>Kucing tidak bernegosiasi. Kucing tidak menerima tawar-menawar.</item>
+        <item>Feed tak terbatas. Perhatianmu terbatas.</item>
+        <item>Kamu sebenarnya mencari apa? Sudah ketemu?</item>
+        <item>Lebih bahagia dari saat membuka aplikasi tadi?</item>
+        <item>Kehidupan nyata grafiknya jelek tapi ceritanya lebih bagus.</item>
+        <item>Telepon seseorang. Telepon sungguhan. Mereka akan terkejut.</item>
+        <item>Buat teh. Sihir lama masih ampuh.</item>
+        <item>Bosan adalah pintu menuju ide bagus. Biarkan masuk.</item>
+        <item>Kamu bukan malas. Kamu kelebihan stimulus. Beda jauh.</item>
+        <item>Diam adalah keterampilan. Coba satu menit.</item>
+        <item>Internet akan tetap jalan tanpa pengawasanmu.</item>
+        <item>Kamu takkan ketinggalan post paling penting sedunia.</item>
+        <item>Kucing sudah bicara. Selesai.</item>
+        <item>Kamu yang lelah, bukan feed. Feed tidak pernah lelah.</item>
+        <item>Sekarang ponsel sedang menang. Ambil satu poin balik.</item>
+        <item>Istirahat bukan hadiah. Istirahat itu kewajiban.</item>
+        <item>Kamu yang besok berterima kasih pada kamu yang sekarang.</item>
+    </string-array>
+    <string-array name="overlay_wait_messages">
+        <item>Kucing tidak bisa dilewati. Tunggu saja.</item>
+        <item>Sekarang kucing yang berkuasa. Sabar.</item>
+        <item>Tidak ada lewat dari kucing. Tarik napas.</item>
+        <item>Kucing tidak menerima suap.</item>
+        <item>Mau scroll? Kucing melihatmu.</item>
+        <item>Kucing tidak punya tombol off. Tunggu.</item>
+        <item>Kucing ini tidak tunduk pada siapa pun.</item>
+        <item>Kamu lawan kucing. Kucing menang.</item>
+        <item>Kucing tidak bergerak. Seperti kucing asli.</item>
+        <item>Negosiasi ditutup. Kucing bilang tidak.</item>
+        <item>Kucing pergi saat dia siap.</item>
+        <item>Menekan lebih keras tidak mempercepat apa pun.</item>
+        <item>Kamu pasang jebakan ini sendiri. Diam di dalamnya.</item>
+        <item>Kamu yang dulu memang ingin kamu menunggu.</item>
+        <item>Kamu masa lalu itu bijak. Percayalah padanya.</item>
+        <item>Timer jujur. Feed tidak.</item>
+        <item>Kucing melakukan ini demi kebaikanmu.</item>
+        <item>Disiplin hanyalah ingatan akan tujuanmu.</item>
+        <item>Pemberontakan kecil: tarik napas pelan.</item>
+        <item>Inilah saat otak menyusul.</item>
+        <item>Biarkan mata istirahat di sesuatu yang jauh.</item>
+        <item>Sentuh kucing semaumu. Dia suka.</item>
+        <item>Kucing bukan tombol.</item>
+        <item>Sekarang kucing bos layar ini.</item>
+        <item>Coba kedipkan mata pelan lima kali.</item>
+        <item>Minum seteguk air kalau bisa.</item>
+        <item>Menguap kalau perlu. Kucing tidak peduli.</item>
+        <item>Kucing pikir kamu hebat.</item>
+        <item>Kucing diam-diam mendukungmu.</item>
+        <item>Kucing percaya padamu.</item>
+    </string-array>
+    <string name="app_name">CatBlock</string>
+    <string name="break_lasts">Istirahat berlangsung</string>
+    <string name="cat_appears_after">Kucing muncul setelah</string>
+    <string name="continue_button">Lanjutkan</string>
+    <string name="got_it">Mengerti</string>
+    <string name="how_step1_text">Aktifkan aplikasi yang sering kamu pakai — Instagram, TikTok, X, atau YouTube.</string>
+    <string name="how_step1_title">1. Pilih aplikasi yang akan dijaga</string>
+    <string name="how_step2_text">Untuk tiap aplikasi, atur kapan kucing muncul dan berapa lama istirahatnya.</string>
+    <string name="how_step2_title">2. Tentukan batasmu</string>
+    <string name="how_step3_text">CatBlock berjalan di latar belakang. Tak perlu dibuka terus.</string>
+    <string name="how_step3_title">3. Lanjutkan hidupmu</string>
+    <string name="how_step4_text">Saat lewat batas, kucing raksasa memenuhi layar dan menghentikan scroll.</string>
+    <string name="how_step4_title">4. Kucing muncul</string>
+    <string name="how_step5_text">Regangkan badan, minum air, tarik napas, atau lihat ke luar jendela. Kucing akan pergi.</string>
+    <string name="how_step5_title">5. Istirahat sungguhan</string>
+    <string name="minutes_short">%1$d mnt</string>
+    <string name="next_step">Lanjut</string>
+    <string name="notif_channel_name">Pemantau CatBlock</string>
+    <string name="notif_text">Memantau waktu scroll-mu.</string>
+    <string name="notif_title">CatBlock sedang memantau</string>
+    <string name="onboarding_subtitle">Saat kamu scroll terlalu lama, kucing raksasa akan menutup layar sampai istirahatmu selesai.</string>
+    <string name="overlay_skip">Lewati</string>
+    <string name="perm_overlay_subtitle">Agar kucing bisa muncul di atas aplikasi sosialmu.</string>
+    <string name="perm_overlay_title">Tampilkan di atas aplikasi lain</string>
+    <string name="perm_usage_subtitle">Agar CatBlock tahu aplikasi mana yang sedang kamu pakai.</string>
+    <string name="perm_usage_title">Akses Penggunaan</string>
+    <string name="pick_apps_subtitle">Aktifkan aplikasi, lalu atur kapan kucing muncul dan berapa lama istirahat.</string>
+    <string name="pick_apps_title">Pilih aplikasi yang akan dijaga</string>
+    <string name="previous_step">Kembali</string>
+    <string name="section_all">Semua aplikasi</string>
+    <string name="section_social">Aplikasi sosial terdeteksi</string>
+    <string name="settings_help_subtitle">Tur singkat CatBlock.</string>
+    <string name="settings_help_title">Cara kerjanya</string>
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_voice_subtitle">Biarkan kucing membaca pesan dengan suara bawaan ponselmu.</string>
+    <string name="settings_voice_title">Suara kucing</string>
+    <string name="show_guide">Tunjukkan cara kerjanya</string>
+    <string name="skip">Lewati</string>
+</resources>

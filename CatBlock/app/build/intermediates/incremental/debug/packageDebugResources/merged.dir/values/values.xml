@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="break_messages">
+        <item>The cat says you\'ve been scrolling too long.</item>
+        <item>Eyes up. The world is bigger than this screen.</item>
+        <item>Your thumb has scrolled enough kilometers for one day.</item>
+        <item>The feed will still be there. You won\'t be, forever.</item>
+        <item>The cat sees what you are doing. The cat is concerned.</item>
+        <item>Let your eyes find something more than three feet away.</item>
+        <item>Slow your breathing. Notice the air. You are still here.</item>
+        <item>Press pause on the dopamine vending machine for a minute.</item>
+        <item>You\'ve been scrolling so long a cat had to step in.</item>
+        <item>Even cats know when to stop and lie down.</item>
+        <item>This is the cat checking in. How are you really doing?</item>
+        <item>Walk to another room. Just one. Then we will talk.</item>
+        <item>The brain you woke up with deserves a soft moment.</item>
+        <item>Stand up. Stretch tall. Drop your shoulders. Right now.</item>
+        <item>There is a sky. There are people. There is tea. The phone can wait.</item>
+        <item>Wow, you are committed. Maybe a bit too committed.</item>
+        <item>Whatever post you are looking for, you have already seen better today.</item>
+        <item>Your brain is asking for a snack that is not a video.</item>
+        <item>Look at something that is not glowing for one full minute.</item>
+        <item>Outside exists. It is where the actual cats are.</item>
+        <item>Drink some water. Your body is mostly water and currently mostly tired.</item>
+        <item>You haven\'t blinked enough today. Try a few slow blinks now.</item>
+        <item>Bones love being upright. Try it for sixty seconds.</item>
+        <item>Roll your shoulders backward five times. The cat is watching.</item>
+        <item>Pick the farthest thing you can see. Stare at it. Breathe.</item>
+        <item>Hydration is the cheapest mood improvement available. Use it.</item>
+        <item>Set the phone down. Not on yourself. On a table. Like a grown-up.</item>
+        <item>Notice three things you can see, hear, and feel. That is the whole task.</item>
+        <item>Wherever you are, be there fully for one minute.</item>
+        <item>Air goes in. Air goes out. Repeat. The cat will guide you.</item>
+        <item>Going slowly is allowed. It is, in fact, encouraged.</item>
+        <item>Look out the nearest window. Yes, even if it seems boring.</item>
+        <item>Your jaw is probably clenched. Unclench it. Better, right?</item>
+        <item>Your shoulders have crept up to your ears. Send them back down.</item>
+        <item>Inhale slowly through your nose for four counts.</item>
+        <item>Exhale slowly through your mouth for six counts.</item>
+        <item>Five slow breaths. The cat is timing you.</item>
+        <item>Tilt your head back, look at the ceiling, remember it exists.</item>
+        <item>Turn your head left. Then right. Then forward. Well done.</item>
+        <item>Right now is the only moment you actually have.</item>
+        <item>The clock said sit. The cat says move.</item>
+        <item>You came here for one thing. You are now twenty things deep.</item>
+        <item>The feed is infinite. Your attention is not.</item>
+        <item>Every minute scrolling is a tax you pay to the algorithm.</item>
+        <item>That feeling right now? Your brain asking for mercy.</item>
+        <item>The dopamine well is dry. Refill with literally anything else.</item>
+        <item>You are not low on entertainment. You are low on rest.</item>
+        <item>Your eyes are dry. Your neck is stiff. The cat noticed.</item>
+        <item>Take back the next ten minutes. They are yours.</item>
+        <item>The phone is currently winning. Take a point back.</item>
+        <item>Rest is not a reward. It is a requirement.</item>
+        <item>Be as kind to yourself as you would be to a tired friend.</item>
+        <item>You have done enough today. Genuinely.</item>
+        <item>Look away from the screen for sixty seconds. Your eyes will love you.</item>
+        <item>Roll your neck slowly. Yes, like that. Your spine says thanks.</item>
+        <item>Future you, in an hour, is begging present you to stop.</item>
+        <item>Good work today. Now actually stop.</item>
+        <item>Quietly, the cat is proud of you for getting this far.</item>
+        <item>You can absolutely come back to the app. Just not in this minute.</item>
+        <item>The cat will let you back when the timer is done. Not before.</item>
+        <item>The cat does not negotiate. The cat does not bargain.</item>
+        <item>The cat reviewed your scrolling history and the answer is no.</item>
+        <item>One slow blink from a cat is love. Please accept it.</item>
+        <item>The cat\'s decision is final.</item>
+        <item>This is the cat\'s app now. You are a guest.</item>
+        <item>By order of the Honorable Cat, scrolling is suspended.</item>
+        <item>This is a peer-reviewed cat intervention.</item>
+        <item>The cat has seen your screen time and the cat has notes.</item>
+        <item>Cat veto in effect. Try again later.</item>
+        <item>The cat would like a word. The word is stop.</item>
+        <item>The cat sees everything. Including this.</item>
+        <item>Yes, the cat is real. Yes, the cat is serious.</item>
+        <item>Trust the cat. The cat has been around for nine lives.</item>
+        <item>The cat asks: what were you actually looking for?</item>
+        <item>What did you hope to find on the next post?</item>
+        <item>Was the last fifteen minutes of scrolling worth it? Be honest.</item>
+        <item>Did you find what you came here for, or did you forget?</item>
+        <item>Notice how your body feels right now. Just notice.</item>
+        <item>Are you happier than when you opened the app?</item>
+        <item>Is this how you wanted to spend this part of your day?</item>
+        <item>There are other things to do. There are always other things.</item>
+        <item>Something is missing from this moment. Probably not online.</item>
+        <item>Real life has worse graphics but better stories.</item>
+        <item>The sky is doing something right now. You are missing it.</item>
+        <item>People who love you are reachable. The feed is not.</item>
+        <item>That book you bought is judging you from the shelf.</item>
+        <item>Walking is free. Do some.</item>
+        <item>Make a real snack. With your hands. From food.</item>
+        <item>Phone a person. They will be surprised, in a good way.</item>
+        <item>Send a real message. Not a meme. Words. Try it.</item>
+        <item>If you have a pet, hug it. If you don\'t, hug yourself.</item>
+        <item>Boil water. Pour it on a tea bag. Drink it. Old magic.</item>
+        <item>Try doing absolutely nothing for sixty seconds. It feels wild.</item>
+        <item>Sit in a chair like a Victorian person and stare at a wall.</item>
+        <item>Boredom is the gateway to good ideas. Let it in.</item>
+        <item>Resting is not time wasted. It is time invested.</item>
+        <item>You are not lazy. You are overstimulated. Big difference.</item>
+        <item>Being still is a real skill. Practice for a minute.</item>
+        <item>Try existing as a person, not as a viewer, for a moment.</item>
+        <item>Live a little. The cat insists.</item>
+        <item>The internet will continue functioning without your supervision.</item>
+        <item>Every post will still be there in two minutes. Promise.</item>
+        <item>You will not miss the most important post of all time.</item>
+        <item>Nothing in this feed is a real emergency.</item>
+        <item>Seriously. Nothing on the screen needs you right now.</item>
+        <item>The world is, for the most part, still spinning.</item>
+        <item>And if it is ending, the feed is not the right place to find out.</item>
+    </string-array>
+    <string-array name="overlay_wait_messages">
+        <item>You can\'t skip the cat. Just wait.</item>
+        <item>The cat is in charge now. Sit tight.</item>
+        <item>No way past the cat. Take a breath.</item>
+        <item>The cat doesn\'t accept bribes.</item>
+        <item>Trying to scroll? The cat sees you.</item>
+        <item>The cat has no off button. Wait.</item>
+        <item>This cat answers to no one.</item>
+        <item>You vs the cat. The cat wins.</item>
+        <item>The cat is immovable. Like a real cat.</item>
+        <item>Negotiation is closed. Cat says no.</item>
+        <item>The cat will leave when the cat is ready.</item>
+        <item>Pressing harder won\'t make it go faster.</item>
+        <item>The cat is timing this. Don\'t rush it.</item>
+        <item>You\'ve been blocked by a cat. Honored.</item>
+        <item>Resistance is fluffy. Just wait.</item>
+        <item>The cat does not negotiate with scrollers.</item>
+        <item>Waiting builds character. So they say.</item>
+        <item>The cat is busy. Reading your soul.</item>
+        <item>The countdown is the law now.</item>
+        <item>Stretch a little. The cat approves.</item>
+        <item>This is your designated nothing time.</item>
+        <item>The cat has spoken. The cat is final.</item>
+        <item>Even pressing the home button won\'t help.</item>
+        <item>The cat outranks the home button.</item>
+        <item>The cat outranks your boss too.</item>
+        <item>You can leave the app. The timer keeps going.</item>
+        <item>Try doing nothing. It\'s underrated.</item>
+        <item>Boredom is a feature, not a bug.</item>
+        <item>Look around. The room is real.</item>
+        <item>Stand up if you can. Sit if you can\'t.</item>
+        <item>The cat can wait longer than you can.</item>
+        <item>The cat has waited for nine lifetimes.</item>
+        <item>You agreed to this when you set the timer.</item>
+        <item>Past you really wanted present you to wait.</item>
+        <item>Past you was wise. Trust past you.</item>
+        <item>The timer is honest. The feed wasn\'t.</item>
+        <item>The cat is doing this for your own good.</item>
+        <item>Discipline is just memory of your goals.</item>
+        <item>Tiny rebellions: take a slow breath.</item>
+        <item>This is when the brain catches up.</item>
+        <item>Let your eyes rest on something far.</item>
+        <item>Tap the cat all you want. It enjoys it.</item>
+        <item>The cat is not a button.</item>
+        <item>The cat is the boss of this screen now.</item>
+        <item>Try blinking slowly five times.</item>
+        <item>Drink a sip of water if you can reach it.</item>
+        <item>Yawn if you need to. The cat won\'t mind.</item>
+        <item>The cat thinks you\'re doing great.</item>
+        <item>The cat is silently rooting for you.</item>
+        <item>The cat believes in you.</item>
+        <item>You\'re stronger than the algorithm.</item>
+        <item>Right now, you are winning.</item>
+        <item>Every second waited is a small victory.</item>
+        <item>You\'re not stuck. You\'re saved.</item>
+        <item>This is what saying no to your phone looks like.</item>
+        <item>The phone wants you back. Say no.</item>
+        <item>The app is not your friend right now.</item>
+        <item>The cat is your friend right now.</item>
+        <item>The cat has all the time in the world.</item>
+        <item>The cat gets paid by the second.</item>
+        <item>The cat is fully unionized.</item>
+        <item>The cat will not be moved by your sighs.</item>
+        <item>The cat hears your sighs and ignores them.</item>
+        <item>Patience is just waiting on purpose.</item>
+        <item>You\'re practicing patience. Free training.</item>
+        <item>Imagine the cat purring. Maybe it is.</item>
+        <item>The cat would love a chin scratch right now.</item>
+        <item>The cat is silently judging your screen time.</item>
+        <item>The cat read your last 50 posts. It has notes.</item>
+        <item>The cat is filing a report. About you.</item>
+        <item>The cat is Sphinx-coded. Unmovable.</item>
+        <item>The cat is built different.</item>
+        <item>The cat does not run on dopamine.</item>
+        <item>This cat works on cat time. Slower.</item>
+        <item>The cat\'s union won\'t let it leave early.</item>
+        <item>Wait it out. You always do.</item>
+        <item>You can do hard things. This is easy.</item>
+        <item>This isn\'t even hard. This is just waiting.</item>
+        <item>The cat is checking if you can sit still.</item>
+        <item>You are passing the test. Quietly.</item>
+        <item>Notice your hand wanting to scroll. Cute, right?</item>
+        <item>Notice the urge. Don\'t obey it. Just notice.</item>
+        <item>The urge will pass. The cat will pass.</item>
+        <item>You don\'t have to do anything. Just exist.</item>
+        <item>Existing is enough for this minute.</item>
+        <item>There is nowhere you need to be.</item>
+        <item>Your phone misses you. Let it miss you.</item>
+        <item>Absence makes the algorithm grow weaker.</item>
+        <item>The screen will still be there. Promise.</item>
+        <item>Right now, your job is to do nothing.</item>
+        <item>Doing nothing is harder than it looks. Try it.</item>
+        <item>This is rest. Real rest. Awkward, isn\'t it.</item>
+        <item>The cat is the rest you didn\'t ask for.</item>
+        <item>The cat is here to be annoying on purpose.</item>
+        <item>You set this trap for yourself. Sit in it.</item>
+        <item>The trap was love. The cat is love.</item>
+        <item>Soft sabotage from past you. Thank them.</item>
+        <item>The cat is what \"healthy boundaries\" look like.</item>
+        <item>This is the boundary. The cat is the boundary.</item>
+        <item>You drew a line. The cat is enforcing it.</item>
+        <item>Good boundaries. Wait it out.</item>
+        <item>One more breath. One more moment. You\'ve got this.</item>
+    </string-array>
+    <color name="cat_dark">#264653</color>
+    <color name="cat_orange">#F4A261</color>
+    <color name="overlay_bg">#E6000000</color>
+    <string name="app_name">CatBlock</string>
+    <string name="break_lasts">Break lasts</string>
+    <string name="cat_appears_after">Cat appears after</string>
+    <string name="continue_button">Continue</string>
+    <string name="got_it">Got it</string>
+    <string name="how_step1_text">Choose the apps where you scroll too much — Instagram, TikTok, X, YouTube, whatever takes your time.</string>
+    <string name="how_step1_title">1. Pick the apps to guard</string>
+    <string name="how_step2_text">For each app, decide how long you can use it before the cat appears, and how long the break should last.</string>
+    <string name="how_step2_title">2. Set your limits</string>
+    <string name="how_step3_text">CatBlock works in the background. You don\'t need to keep it open.</string>
+    <string name="how_step3_title">3. Live your life</string>
+    <string name="how_step4_text">When you go over your time, a giant cat fills the screen, blocks scrolling, and refuses to move.</string>
+    <string name="how_step4_title">4. The cat appears</string>
+    <string name="how_step5_text">Stretch, drink water, breathe, look out a window. The cat will leave when your break is done.</string>
+    <string name="how_step5_title">5. Take a real break</string>
+    <string name="minutes_short">%1$d min</string>
+    <string name="next_step">Next</string>
+    <string name="notif_channel_id">catblock_monitor</string>
+    <string name="notif_channel_name">CatBlock Monitor</string>
+    <string name="notif_text">Keeping an eye on your scrolling time.</string>
+    <string name="notif_title">CatBlock is watching</string>
+    <string name="onboarding_subtitle">When you scroll too long, a giant cat blocks your screen until your break is over.</string>
+    <string name="overlay_skip">Skip</string>
+    <string name="perm_overlay_subtitle">So the cat can appear on top of your social apps.</string>
+    <string name="perm_overlay_title">Display over other apps</string>
+    <string name="perm_usage_subtitle">So CatBlock knows which app you are using.</string>
+    <string name="perm_usage_title">Usage access</string>
+    <string name="pick_apps_subtitle">Toggle an app, then set how long until the cat appears and how long the break lasts.</string>
+    <string name="pick_apps_title">Pick the apps to guard</string>
+    <string name="previous_step">Back</string>
+    <string name="section_all">All apps</string>
+    <string name="section_social">Social apps detected</string>
+    <string name="settings_help_subtitle">A quick tour of CatBlock.</string>
+    <string name="settings_help_title">How it works</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_voice_subtitle">Let the cat read the message out loud using your phone\'s built-in voice.</string>
+    <string name="settings_voice_title">Cat voice</string>
+    <string name="show_guide">Show me how it works</string>
+    <string name="skip">Skip</string>
+    <style name="Theme.CatBlock" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
